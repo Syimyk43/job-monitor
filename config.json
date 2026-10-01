@@ -1,0 +1,130 @@
+{
+  "timezone": "America/Chicago",
+  "quiet_hours": {
+    "start": 0,
+    "end": 7
+  },
+  "notion": {
+    "database_id": "921d47ec712641cdbb523a0c36f26bab",
+    "api_version": "2022-06-28"
+  },
+  "bootstrap_max_age_days": 21,
+  "max_new_rows_per_run": 150,
+  "simplify": {
+    "enabled": true,
+    "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+    "categories": [
+      "Software",
+      "Software Engineering",
+      "AI/ML/Data",
+      "Data Science, AI & Machine Learning"
+    ]
+  },
+  "boards": {
+    "greenhouse": [],
+    "lever": [],
+    "ashby": []
+  },
+  "role_rules": {
+    "Backend": [
+      "backend",
+      "back end",
+      "back-end",
+      "server",
+      "api",
+      "distributed systems"
+    ],
+    "Platform": [
+      "platform",
+      "infrastructure",
+      "cloud",
+      "devops",
+      "site reliability",
+      "sre",
+      "systems engineer"
+    ],
+    "Full Stack": [
+      "full stack",
+      "full-stack",
+      "fullstack"
+    ],
+    "Data Engineering": [
+      "data engineer",
+      "data platform",
+      "etl",
+      "analytics engineer"
+    ],
+    "Other SWE": [
+      "software engineer",
+      "software developer",
+      "swe",
+      "engineer i",
+      "developer"
+    ]
+  },
+  "exclude_title_words": [
+    "senior",
+    "sr",
+    "staff",
+    "principal",
+    "lead",
+    "manager",
+    "director",
+    "architect",
+    "intern",
+    "internship",
+    "co-op",
+    "coop",
+    "phd",
+    "ii",
+    "iii",
+    "iv",
+    "hardware",
+    "firmware",
+    "embedded",
+    "fpga",
+    "asic",
+    "mechanical",
+    "electrical",
+    "technician",
+    "sales",
+    "recruiter",
+    "quant",
+    "researcher"
+  ],
+  "clearance_words": [
+    "clearance",
+    "ts/sci",
+    "top secret",
+    "secret clearance",
+    "itar",
+    "polygraph",
+    "u.s. citizen",
+    "us citizen"
+  ],
+  "notify_now_role_types": [
+    "Backend",
+    "Platform",
+    "Full Stack"
+  ],
+  "likely_restricted_companies": [
+    "rtx",
+    "raytheon",
+    "lockheed martin",
+    "northrop grumman",
+    "general dynamics",
+    "l3harris",
+    "bae systems",
+    "leidos",
+    "booz allen",
+    "saic",
+    "caci",
+    "anduril",
+    "boeing",
+    "huntington ingalls",
+    "mitre",
+    "ctc group",
+    "itc defense",
+    "palantir"
+  ]
+}
