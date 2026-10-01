@@ -1,0 +1,39 @@
+name: job-monitor
+on:
+  schedule:
+    - cron: "7,37 * * * *"   # every 30 min, off the hour (GitHub may start runs a few minutes late)
+  workflow_dispatch: {}            # lets you click "Run workflow" by hand
+concurrency:
+  group: job-monitor               # never two runs at once -> no duplicate rows
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run monitor
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python monitor.py
+      - name: Save state (checkpoint)
+        if: always()
+        run: |
+          git config user.name "job-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          mkdir -p state && touch state/.gitkeep
+          git add state/
+          git diff --cached --quiet || git commit -m "state $(date -u +%FT%TZ)"
+          git push || (git pull --rebase && git push)
+      - name: Alert on crash
+        if: failure()
+        run: |
+          curl -s -H "Title: Job monitor crashed" -H "Priority: high" \
+            -d "Run failed: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
