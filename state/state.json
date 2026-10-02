@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-02T06:57:46+00:00",
+"last_run": "2026-10-02T13:47:44+00:00",
 "pending_digest": [
 {
 "rt": "Platform",
@@ -2247,6 +2247,11 @@
 "SimplifyJobs:315c6fae-a358-463d-b03c-942573ef4064": {
 "cross": "westinghouse electric company|nuclear analysis tech c engineering techs physics techs|grove city pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:3163c14a-7b55-40a3-b21d-2696e2c37cd5": {
+"cross": "normal computing|ai research resident|london uk nyc palo alto ca",
+"first_seen": "2026-10-02T13:47:44+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:31bd649f-d357-4816-9f4f-d991ca04c596": {
@@ -7544,6 +7549,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:af356dc5-6ece-45f4-9cbf-7e378944c633": {
+"cross": "amazon|applied scientist operations|bellevue wa",
+"first_seen": "2026-10-02T13:47:44+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:af52521c-5483-4db1-958c-7dd4c6f19cd8": {
 "cross": "tiktok|machine learning engineer graduate e commerce recommendation live|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -11117,8 +11127,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2201,
-"last_success": "2026-10-02T06:57:46+00:00"
+"count": 2183,
+"last_success": "2026-10-02T13:47:44+00:00"
 }
 }
 }
