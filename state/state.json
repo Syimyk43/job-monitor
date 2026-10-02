@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-02T13:47:44+00:00",
+"last_run": "2026-10-02T19:11:42+00:00",
 "pending_digest": [
 {
 "rt": "Platform",
@@ -2204,6 +2204,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:2fb142a3-94d3-4f29-91b2-d95a17392dfa": {
+"cross": "ncr voyix|junior devops engineer|bath uk",
+"first_seen": "2026-10-02T19:11:42+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:2fc1a282-b44e-490c-8d31-be0213a206ab": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|oklahoma city ok",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -2732,6 +2737,11 @@
 "SimplifyJobs:3ee60348-39b1-4a67-b417-dfaf6fd38d00": {
 "cross": "assetmark|associate engineer|charlotte nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:3efe2568-d218-4a6f-b3ff-105db324660f": {
+"cross": "global web index|insight analyst|london uk",
+"first_seen": "2026-10-02T19:11:42+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:3f50eb79-7208-463b-ae79-794c879a45f0": {
@@ -3708,6 +3718,11 @@
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|louisville ky",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:5513d80b-b633-45c6-bb08-4a72d78cd073": {
+"cross": "l3harris technologies|senior associate business intelligence analyst|palm bay fl",
+"first_seen": "2026-10-02T19:11:42+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:556ab560-52f8-48e5-b852-911e4c5cfaca": {
 "cross": "welo global|maps personalization relevance rater english|remote in canada",
@@ -5569,6 +5584,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:819788dd-4ad4-477b-9a53-cea660803173": {
+"cross": "expedia group|software development engineer 1|vancouver bc canada",
+"first_seen": "2026-10-02T19:11:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:81a162f0-c50f-4320-881a-dc2c5ca10e48": {
 "cross": "wellmark|data science associate|des moines ia",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6084,6 +6104,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:8ce351e6-944c-4e61-8422-e151a5a7baf2": {
+"cross": "deloitte|delivery analyst government public services cyber software engineering solutions|gilbert az",
+"first_seen": "2026-10-02T19:11:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:8cf72dd6-f0f9-40d1-85c5-813990262e3e": {
 "cross": "johns hopkins applied physics laboratory|data scientist engineer new grad analytic capabilities|laurel md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6278,6 +6303,11 @@
 "cross": "headlands tech holdings|research developer new grad|chicago il london uk nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:9119a940-c285-418f-8fad-397e77889ae6": {
+"cross": "deloitte|consultative offerings analyst government public services software engineering|arlington va",
+"first_seen": "2026-10-02T19:11:42+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:913f0929-685a-45d5-9d4e-c0c89eba651e": {
 "cross": "arcadis|mobile gis field mapping and inspection specialist|atlanta ga",
@@ -6659,6 +6689,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:99c9261f-9794-4deb-8e15-9bb47dc0ab42": {
+"cross": "power design|ai innovation engineer bim|st petersburg fl",
+"first_seen": "2026-10-02T19:11:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:99c9600f-0e4e-4174-a0d1-1be4677c7727": {
 "cross": "proofpoint|associate software engineer ai agents satori|belfast uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6768,6 +6803,11 @@
 "cross": "bny|software engineer analyst engineering developer|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:9bb11b3a-a83a-4e32-a074-3a83294d7aad": {
+"cross": "renesas electronics|engineer physical ai|ottawa on canada",
+"dup": true,
+"first_seen": "2026-10-02T19:11:42+00:00"
 },
 "SimplifyJobs:9bb998e0-bdcf-4282-9ab0-8e0a36f17a18": {
 "cross": "welo global|data labeling analyst speech voice ai analyst dutch speakers|austin tx bellevue wa boston ma burlingame ca chicago il la nyc redmond wa sf seattle wa sunnyvale ca washington dc",
@@ -9434,6 +9474,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:db040850-9b1f-4c19-93d8-de0c16003f79": {
+"cross": "deloitte|delivery analyst government public services ai data engineering solutions|gilbert az",
+"first_seen": "2026-10-02T19:11:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:db198792-f1a9-4eb5-88da-5c5547ebe0fa": {
 "cross": "citizens financial group|data engineer|johnston ri phoenix az plano tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -11127,8 +11172,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2183,
-"last_success": "2026-10-02T13:47:44+00:00"
+"count": 2182,
+"last_success": "2026-10-02T19:11:42+00:00"
 }
 }
 }
