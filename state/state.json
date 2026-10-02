@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-02T01:03:47+00:00",
-"pending_digest": [],
+"last_run": "2026-10-02T06:57:46+00:00",
+"pending_digest": [
+{
+"rt": "Platform",
+"t": "Amazon - Software Development Engineer \u2013 Early Career - Amazon Dedicated Cloud - ADC",
+"u": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc"
+},
+{
+"rt": "Other SWE",
+"t": "Cincinnati Children\u2019s Hospital and Medical Center - Software Engineer 1 - Web Services",
+"u": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Software-Engineer-I---Web-Services_JR225073"
+},
+{
+"rt": "Other SWE",
+"t": "RTX - Software Engineer 1",
+"u": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875418"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1008,6 +1024,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:169846aa-cf8c-463a-9721-b9826b79a129": {
+"cross": "amazon|software development engineer early career amazon dedicated cloud adc|arlington county arlington va denver co herndon va jessup md seattle wa",
+"first_seen": "2026-10-02T06:57:46+00:00",
+"page": "3edb0cb5-8078-81a4-93cf-ef026ab73912"
+},
 "SimplifyJobs:169a7d34-a297-4b63-8727-c52578f98efe": {
 "cross": "matic|ux engineer design engineer|menlo park ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -1457,6 +1478,11 @@
 "cross": "didi global|software engineer planning selection autonomy|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "page": "3ecb0cb5-8078-811a-9da8-e61581531dbe"
+},
+"SimplifyJobs:2053c593-1305-4042-a320-4a22dd690ec4": {
+"cross": "rtx|software engineer 1|richardson tx",
+"first_seen": "2026-10-02T06:57:46+00:00",
+"page": "3edb0cb5-8078-81a8-ac03-ca67f8de8ae7"
 },
 "SimplifyJobs:20565db4-0f8e-456e-b6e3-4c484757c633": {
 "cross": "t rex solutions|software engineer level 0|odenton md",
@@ -4973,6 +4999,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "page": "3ecb0cb5-8078-811a-97e7-c5f4a5dc240c"
 },
+"SimplifyJobs:7525137e-4f3a-4f97-9fbb-f2d715545fb4": {
+"cross": "rtx|software test engineer 1|tucson az",
+"first_seen": "2026-10-02T06:57:46+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:7531a42a-4fdd-408f-8e40-bed21c1ddb09": {
 "cross": "barry wehmiller|entry level software engineer|raleigh nc",
 "first_seen": "2026-10-02T01:03:47+00:00",
@@ -5752,6 +5783,11 @@
 "cross": "eversource energy|associate technician gis|berlin ct",
 "first_seen": "2026-10-02T01:03:47+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:86d61b4b-0780-49a6-9bbd-a5448f91236b": {
+"cross": "sandvik|remote monitoring analyst|white pine tn",
+"first_seen": "2026-10-02T06:57:46+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:86eec77e-62fa-43bc-a011-1e73aac2d372": {
 "cross": "jump trading|ai research engineer|chicago il nyc",
@@ -8653,6 +8689,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ca5fe671-c3d6-471a-956e-07ca8a50495a": {
+"cross": "financeit|data scientist risk modeling analytics|toronto on canada",
+"first_seen": "2026-10-02T06:57:46+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:ca70297d-1286-4dfb-bc07-016e0d6084ba": {
 "cross": "at t|technology development program multiple teams|atlanta ga bothell wa dallas tx middletown township nj",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9878,6 +9919,11 @@
 "first_seen": "2026-10-02T01:03:47+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:e73c9bda-894d-4193-9a98-e29f9b2a4f57": {
+"cross": "cincinnati children s hospital and medical center|software engineer 1 web services|cincinnati oh",
+"first_seen": "2026-10-02T06:57:46+00:00",
+"page": "3edb0cb5-8078-8190-8af9-de446a0190cb"
+},
 "SimplifyJobs:e74adfd5-9138-466d-af45-4a26c1c886f9": {
 "cross": "tiktok|backend engineer graduate user growth|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -11071,8 +11117,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2207,
-"last_success": "2026-10-02T01:03:47+00:00"
+"count": 2201,
+"last_success": "2026-10-02T06:57:46+00:00"
 }
 }
 }
