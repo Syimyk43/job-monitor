@@ -1,1 +1,2 @@
 {"time": "2026-10-01T21:15:18+00:00", "bootstrap": true, "fetched": 2181, "kept": 152, "created": 150, "dupes": 22, "skipped": {"not a target role": 1131, "non-US location": 211, "level/role excluded": 159, "old at setup": 497, "citizenship/clearance required": 9}, "errors": [], "seconds": 120.5}
+{"time": "2026-10-02T01:03:47+00:00", "bootstrap": false, "fetched": 2207, "kept": 7, "created": 7, "dupes": 1, "skipped": {"not a target role": 19, "non-US location": 4, "level/role excluded": 3}, "errors": [], "seconds": 12.0}
