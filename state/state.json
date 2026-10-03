@@ -1,18 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-03T13:39:59+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Parasail - Software Engineer New Grad - Forward Deploy",
-"u": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true"
-},
-{
-"rt": "Other SWE",
-"t": "REI Systems - Associate Software Engineer - Java",
-"u": "https://careers-reisystems.icims.com/jobs/3496/job?mobile=true&needsRedirect=false"
-}
-],
+"last_run": "2026-10-03T17:53:24+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -11708,8 +11697,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2195,
-"last_success": "2026-10-03T13:39:59+00:00"
+"count": 2194,
+"last_success": "2026-10-03T17:53:24+00:00"
 }
 }
 }
