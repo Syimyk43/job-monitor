@@ -1,11 +1,16 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-03T03:02:02+00:00",
+"last_run": "2026-10-03T08:31:36+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "Parasail - Software Engineer New Grad - Forward Deploy",
 "u": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true"
+},
+{
+"rt": "Other SWE",
+"t": "REI Systems - Associate Software Engineer - Java",
+"u": "https://careers-reisystems.icims.com/jobs/3496/job?mobile=true&needsRedirect=false"
 }
 ],
 "seen": {
@@ -192,6 +197,11 @@
 "SimplifyJobs:03b97072-0f60-464b-a78e-1f492c236a63": {
 "cross": "c3 ai|forward deployed engineer new grad 2027|redwood city ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:03f6dca1-a185-4cea-9fdc-a7804e7ad3fc": {
+"cross": "international motors llc|supply chain analytics data scientist|lisle il",
+"first_seen": "2026-10-03T08:31:36+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:03ff98d0-9bb1-4b91-a11f-1ed8b3777519": {
@@ -2415,6 +2425,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:33b49b9d-1aed-41bb-ba49-d0567c7f2f94": {
+"cross": "rei systems|associate software engineer java|sterling va",
+"first_seen": "2026-10-03T08:31:36+00:00",
+"page": "3eeb0cb5-8078-8196-bb48-e66fd0249385",
+"score": 66,
+"score_v": 1
+},
 "SimplifyJobs:33cd12b1-bc34-4679-99fa-08ef9204498c": {
 "cross": "socotec uk ireland|survey data processor and analyst|burton upon trent burton on trent uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -2439,6 +2456,11 @@
 "cross": "palantir|software engineer new grad defense|palo alto ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:3475b503-f817-4fc4-abcb-50091a89cfe8": {
+"cross": "shield ai|senior engineer research to product perception|san diego ca",
+"first_seen": "2026-10-03T08:31:36+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:347c86f7-de69-4c24-80ba-3330d30638f0": {
 "cross": "texas sports academy|junior software engineer ai forward|austin tx",
@@ -11676,8 +11698,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2200,
-"last_success": "2026-10-03T03:02:02+00:00"
+"count": 2199,
+"last_success": "2026-10-03T08:31:36+00:00"
 }
 }
 }
