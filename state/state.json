@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-03T08:31:36+00:00",
+"last_run": "2026-10-03T13:39:59+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -1853,6 +1853,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:2701a7fb-2fe3-45b1-b197-f7f80f435f82": {
+"cross": "intact|tech development program new grad software development cloud stream|montreal qc canada toronto on canada",
+"first_seen": "2026-10-03T13:39:59+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:271f04b2-4017-4e86-b67f-387e7a47b5fe": {
 "cross": "id me|software development engineer new grad|mountain view ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3396,6 +3401,11 @@
 "cross": "montage international|sommelier octagon|hilton head island sc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:4a59e495-170c-4f60-a7fe-8a6708d5ce94": {
+"cross": "td bank|software engineer 1|toronto on canada",
+"first_seen": "2026-10-03T13:39:59+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:4a6029ba-909e-4642-9f0c-003c5e66dfde": {
 "cross": "jobs for humanity|online data analyst english|irlam manchester uk",
@@ -11698,8 +11708,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2199,
-"last_success": "2026-10-03T08:31:36+00:00"
+"count": 2195,
+"last_success": "2026-10-03T13:39:59+00:00"
 }
 }
 }
