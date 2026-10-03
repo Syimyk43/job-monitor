@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-02T23:13:14+00:00",
-"pending_digest": [],
+"last_run": "2026-10-03T02:17:37+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Parasail - Software Engineer New Grad - Forward Deploy",
+"u": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1207,6 +1213,11 @@
 "cross": "akima|unity game designer|huntsville al",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:1b4b4857-a0e7-40ae-911b-03e1528c4c9f": {
+"cross": "parasail|software engineer new grad forward deploy|san mateo ca",
+"first_seen": "2026-10-03T02:17:37+00:00",
+"page": "3eeb0cb5-8078-8116-914a-d7280f13da60"
 },
 "SimplifyJobs:1b859931-1544-478a-bc10-f4d7d0521089": {
 "cross": "bytedance|software engineer graduate ai infrastructure compute|san jose ca",
@@ -2752,6 +2763,11 @@
 "cross": "microsoft|software engineer|redmond wa",
 "first_seen": "2026-10-02T23:13:14+00:00",
 "page": "3edb0cb5-8078-81e5-bd4a-f0f76219c7c6"
+},
+"SimplifyJobs:3f4f0a33-7d23-4062-ad6b-47a6d5194539": {
+"cross": "koch industries|ai solutions engineer|lisle il rochester hills mi",
+"first_seen": "2026-10-03T02:17:37+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:3f50eb79-7208-463b-ae79-794c879a45f0": {
 "cross": "sa technologies|net developer|coppell tx",
@@ -5852,6 +5868,11 @@
 "cross": "global lending services|software developer|greenville sc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:865bf71e-5c86-49eb-a0c8-9f04b6ed9aeb": {
+"cross": "interdigital|research engineer 6g ai enabled systems and testbeds|conshohocken pa",
+"first_seen": "2026-10-03T02:17:37+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:8673e698-fd13-4dcc-aef5-1ccc0e8dff9b": {
 "cross": "apple|software engineer silicon engineering documentation tools|lafayette ks",
@@ -11336,8 +11357,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2206,
-"last_success": "2026-10-02T23:13:14+00:00"
+"count": 2201,
+"last_success": "2026-10-03T02:17:37+00:00"
 }
 }
 }
