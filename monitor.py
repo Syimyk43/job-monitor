@@ -155,6 +155,8 @@ def evaluate(job):
         return False, {"reason": "level/role excluded"}
     if "citizenship" in job["sponsorship"].lower() or has_word(title, CFG["clearance_words"]):
         return False, {"reason": "citizenship/clearance required"}
+    if re.search(r"\b[\w.]+ only\b", title.lower()):
+        return False, {"reason": "restricted to one school"}
     rt = role_type(title)
     if not rt:
         return False, {"reason": "not a target role"}
@@ -170,6 +172,68 @@ def evaluate(job):
     spons = job["sponsorship"]
     return True, {"role_type": rt, "eligibility": elig, "elig_notes": " ".join(notes),
                   "spons_flag": spons if spons and spons != "Other" else ""}
+
+
+def triage_score(job, info):
+    """Transparent 0-100 triage score from title, company, location, freshness.
+    Not a hiring probability. Claude's description review can replace it later."""
+    sc, parts = CFG["scoring"], []
+    title = job["title"]
+    pts = sc["role_points"].get(info["role_type"], 20)
+    if has_word(title, sc["weak_role_words"]["words"]):
+        pts = sc["weak_role_words"]["points"]
+        parts.append(f"role {pts}/40 (weaker match: {', '.join(has_word(title, sc['weak_role_words']['words'])[:2])})")
+    else:
+        parts.append(f"role {pts}/40 ({info['role_type']})")
+    total = pts
+    if has_word(title, sc["level_two_words"]) and not has_word(title, ["1", "0", "i"]):
+        p = 0; parts.append("level 0/20 (title says level 2/3)")
+    elif has_word(title, sc["new_grad_words"]):
+        p = sc["new_grad_points"]; parts.append(f"level {p}/20 (new-grad signal)")
+    else:
+        p = sc["no_signal_points"]; parts.append(f"level {p}/20 (no level in title)")
+    total += p
+    hits = has_word(title, sc["stack_words"])
+    p = min(sc["stack_points"], 8 * len(hits)) if hits else 0
+    total += p; parts.append(f"stack {p}/15" + (f" ({', '.join(hits[:3])})" if hits else ""))
+    p = 0
+    if job.get("posted"):
+        age = (time.time() - job["posted"]) / 86400
+        for days, val in sc["fresh_points"]:
+            if age <= days:
+                p = val; break
+        parts.append(f"fresh {p}/15 ({age:.0f}d old)")
+    else:
+        parts.append("fresh 0/15 (no date)")
+    total += p
+    p = sc["us_points"] if is_us(job["locations"]) == "yes" else 5
+    total += p; parts.append(f"location {p}/10")
+    if "Defense/government contractor" in info.get("elig_notes", ""):
+        total -= sc["restricted_penalty"]; parts.append(f"-{sc['restricted_penalty']} likely citizenship/clearance")
+    total = max(0, min(100, total))
+    label = "Strong" if total >= sc["strong"] else "Good" if total >= sc["good"] else "Low"
+    return total, f"Triage {total} ({label}, title-based, v{sc['version']}): " + "; ".join(parts)
+
+
+def notion_patch(page_id, props):
+    tok, nc = os.environ["NOTION_TOKEN"], CFG["notion"]
+    s, b = http(f"https://api.notion.com/v1/pages/{page_id}", "PATCH", {"properties": props},
+                {"Authorization": f"Bearer {tok}", "Notion-Version": nc["api_version"], "Content-Type": "application/json"})
+    if s != 200:
+        raise RuntimeError(f"Notion PATCH {s}: {b[:200]!r}")
+    time.sleep(0.35)
+
+
+def notion_fit_notes(page_id):
+    """Read a page's Fit Notes so code never overwrites Claude's 'Reviewed' scores."""
+    tok, nc = os.environ["NOTION_TOKEN"], CFG["notion"]
+    s, b = http(f"https://api.notion.com/v1/pages/{page_id}", "GET", None,
+                {"Authorization": f"Bearer {tok}", "Notion-Version": nc["api_version"]})
+    if s != 200:
+        raise RuntimeError(f"Notion GET {s}: {b[:200]!r}")
+    time.sleep(0.35)
+    rt = json.loads(b)["properties"].get("Fit Notes", {}).get("rich_text", [])
+    return "".join(x.get("plain_text", "") for x in rt)
 
 
 def keys(job):
@@ -203,6 +267,8 @@ def notion_create(job, info, discovery, now_iso):
         "Application Status": {"select": {"name": "Not started"}},
         "Outreach Status": {"select": {"name": "None"}},
         "Outcome": {"select": {"name": "Pending"}},
+        "Fit Score": {"number": info["score"]},
+        "Fit Notes": {"rich_text": rt(info["score_notes"])},
     }
     if job.get("posted"):
         props["Date Posted"] = {"date": {"start": datetime.fromtimestamp(job["posted"], timezone.utc).date().isoformat()}}
@@ -275,6 +341,7 @@ def main():
             seen[primary] = {"cross": cross, "first_seen": now_iso, "skip": "old at setup"}
             run["skipped"]["old at setup"] = run["skipped"].get("old at setup", 0) + 1
             continue
+        info["score"], info["score_notes"] = triage_score(job, info)
         run["kept"] += 1
         if run["created"] >= CFG["max_new_rows_per_run"]:
             continue  # not marked seen -> picked up next run
@@ -284,19 +351,52 @@ def main():
         except Exception as e:
             run["errors"].append(f"notion: {e}")
             break  # stop; unseen jobs retry next run (duplicate-safe)
-        seen[primary] = {"cross": cross, "first_seen": now_iso, "page": page_id}
+        seen[primary] = {"cross": cross, "first_seen": now_iso, "page": page_id,
+                         "score_v": CFG["scoring"]["version"], "score": info["score"]}
         cross_seen.add(cross)
         run["created"] += 1
         created_now.append((job, info))
         if run["created"] % 20 == 0:
             save_state(state)  # checkpoint
 
+    # backfill: score older rows once (duplicate-safe; skips rows already scored)
+    by_key = {keys(j)[0]: j for j in jobs}
+    run["backfilled"] = 0
+    for primary, v in list(seen.items()):
+        if DRY or not v.get("page") or v.get("score_v") or run["backfilled"] >= 200:
+            continue
+        job = by_key.get(primary)
+        if not job:
+            continue  # job no longer listed; leave as is
+        keep, info = evaluate(job)
+        try:
+            if notion_fit_notes(v["page"]).startswith("Reviewed"):
+                v.update(score_v=CFG["scoring"]["version"], reviewed=True)
+                continue
+            if keep:
+                score, notes = triage_score(job, info)
+                notion_patch(v["page"], {"Fit Score": {"number": score},
+                                         "Fit Notes": {"rich_text": [{"text": {"content": notes[:1900]}}]}})
+                v.update(score_v=CFG["scoring"]["version"], score=score)
+            else:
+                notion_patch(v["page"], {"Eligibility": {"select": {"name": "Fail"}},
+                                         "Application Status": {"select": {"name": "Skipped"}},
+                                         "Fit Score": {"number": 0},
+                                         "Fit Notes": {"rich_text": [{"text": {"content": "Skipped by updated filter: " + info["reason"]}}]}})
+                v.update(score_v=CFG["scoring"]["version"], score=0, skip=info["reason"])
+            run["backfilled"] += 1
+        except Exception as e:
+            run["errors"].append(f"backfill: {e}")
+            break
+        if run["backfilled"] % 25 == 0:
+            save_state(state)
+
     # notifications: only for genuinely new jobs, never during quiet hours, never twice
     if not bootstrap:
         for job, info in created_now:
             item = {"t": f'{job["company"]} - {job["title"]}', "u": job["url"], "rt": info["role_type"]}
-            if info["role_type"] in CFG["notify_now_role_types"] and not in_quiet_hours(now_local):
-                push(f'New {info["role_type"]} role', f'{item["t"]}\n{"; ".join(job["locations"])[:120]}', job["url"], "high")
+            if info["score"] >= CFG["scoring"]["strong"] and not in_quiet_hours(now_local):
+                push(f'Strong match ({info["score"]})', f'{item["t"]}\n{"; ".join(job["locations"])[:120]}', job["url"], "high")
             else:
                 state["pending_digest"].append(item)
         if state["pending_digest"] and not in_quiet_hours(now_local) and now_local.hour >= CFG["quiet_hours"]["end"]:
