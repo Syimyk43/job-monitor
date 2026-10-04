@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-04T20:05:10+00:00",
+"last_run": "2026-10-04T23:03:40+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -2525,6 +2525,11 @@
 "page": "3efb0cb5-8078-8176-b204-eae34e8278bc",
 "score": 44,
 "score_v": 1
+},
+"SimplifyJobs:32cdce62-6a21-42ca-84ec-34847bb88240": {
+"cross": "elevenlabs|forward deployed engineer software engineer|london uk remote in uk",
+"first_seen": "2026-10-04T23:03:40+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:32f14a18-130e-4911-a7f1-80e6010eba5e": {
 "cross": "relx|software engineer new grad|alpharetta ga",
@@ -5351,6 +5356,11 @@
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|columbia sc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:703ca800-7739-4af0-ac22-fe5aa240bd03": {
+"cross": "citadel|graduate software engineer|london uk",
+"first_seen": "2026-10-04T23:03:40+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:70421d78-d83e-48d7-8165-62f184e1ce7f": {
 "cross": "national software management|entry level data analyst business analyst|jersey city nj",
@@ -12549,8 +12559,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2158,
-"last_success": "2026-10-04T20:05:10+00:00"
+"count": 2160,
+"last_success": "2026-10-04T23:03:40+00:00"
 }
 }
 }
