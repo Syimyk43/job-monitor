@@ -12,3 +12,4 @@
 {"time": "2026-10-03T21:08:14+00:00", "bootstrap": false, "fetched": 2194, "kept": 0, "created": 0, "dupes": 0, "skipped": {}, "errors": [], "backfilled": 0, "seconds": 0.3}
 {"time": "2026-10-04T00:00:24+00:00", "bootstrap": false, "fetched": 2185, "kept": 21, "created": 21, "dupes": 3, "skipped": {"not a target role": 8, "non-US location": 1, "level/role excluded": 6}, "errors": [], "backfilled": 0, "seconds": 22.7}
 {"time": "2026-10-04T05:41:56+00:00", "bootstrap": false, "fetched": 2182, "kept": 0, "created": 0, "dupes": 0, "skipped": {}, "errors": [], "backfilled": 0, "seconds": 0.3}
+{"time": "2026-10-04T12:14:46+00:00", "bootstrap": false, "fetched": 2165, "kept": 23, "created": 23, "dupes": 4, "skipped": {"not a target role": 15, "non-US location": 4, "level/role excluded": 10}, "errors": [], "backfilled": 0, "seconds": 21.1}
