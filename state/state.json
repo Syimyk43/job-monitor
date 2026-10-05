@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-05T08:52:45+00:00",
-"pending_digest": [],
+"last_run": "2026-10-05T18:20:45+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Johns Hopkins Applied Physics Laboratory - Software Assurance/Formal Methods Developer",
+"u": "https://careers.jhuapl.edu/jobs/58612?icims=1"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -2524,6 +2530,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:32840b1f-85f1-43a7-86fe-57d7e965e241": {
+"cross": "johns hopkins applied physics laboratory|software assurance formal methods developer|laurel md",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"page": "3f0b0cb5-8078-8148-9623-c60cd3436b74",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:329e786e-0537-44fe-936e-f78eb489c6de": {
 "cross": "sallie mae|early career development program associate analytics|newark de",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3221,6 +3234,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:41c610fc-ef83-4d99-94f8-8a20caf0fe0c": {
+"cross": "g research|graduate machine learning engineer|london uk",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:41d74667-6411-41d5-a208-d0d96a443a61": {
 "cross": "lendable|graduate analyst share options|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3420,6 +3438,11 @@
 "SimplifyJobs:454f3e0f-d45d-4812-8e2b-341136a7977f": {
 "cross": "lilt|ai training contributor french|qu bec city qc canada remote in canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:45965c67-999d-4244-8047-ce33dd6ce045": {
+"cross": "pacific northwest national laboratory|post master s research associate spatial mass spec imaging data science|richland wa",
+"first_seen": "2026-10-05T18:20:45+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:45fb7aa2-917e-4763-b0d1-c66a7868058c": {
@@ -5100,6 +5123,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:67c01d5f-728d-49eb-b75f-e783fa8fc898": {
+"cross": "amd|software engineer|cambridge uk",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:67cfb0ab-a7df-425a-8454-9559f47591ea": {
 "cross": "x development|senior software engineering machine learning infrastructure|mountain view ca",
 "first_seen": "2026-10-04T12:14:46+00:00",
@@ -5216,6 +5244,11 @@
 "cross": "homey|junior software engineer ai native|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:6b1f9464-5638-4f1b-907d-f525edb6c4fb": {
+"cross": "keybank|consumer analyst development program|brooklyn oh",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:6b75f3dd-a8cd-46d9-a5ef-8f163c2be9fd": {
 "cross": "sim|founding design engineer|sf",
@@ -7464,6 +7497,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:9841d195-19c9-4d37-8876-6d72b9dec5af": {
+"cross": "johns hopkins applied physics laboratory|phd graduate distributed tactical awareness|laurel md",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:9860b985-32f5-4061-92b6-53b33bacbe0c": {
 "cross": "xero|associate engineer back end|calgary ab canada",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -7782,6 +7820,11 @@
 "cross": "9to9 software solutions|entry level net developer|louisville co",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:9f472a68-b131-41db-abf0-48a1bbdcff63": {
+"cross": "deloitte|delivery analyst discovery solutions government public services|mechanicsburg pa",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:9f4a96b4-c4db-44c0-ab99-d6ce8f33934e": {
 "cross": "formfactor|supply chain data engineer|farmers branch tx",
@@ -8490,6 +8533,11 @@
 "SimplifyJobs:acf611ac-2d78-4818-8fa6-d72f92d4cb99": {
 "cross": "luminance|applications engineer|cambridge uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:acfd75f6-b373-4747-aa03-88912b01fa48": {
+"cross": "deloitte|data ai solutions engineering analyst consultative offerings|atlanta ga",
+"first_seen": "2026-10-05T18:20:45+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:ad0c0ea3-6eff-409b-91d6-adcf6f76c26e": {
@@ -10566,6 +10614,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:d8c603d6-d2bb-43f9-a8d3-e6465b17a28b": {
+"cross": "arcfield|physicist image scientist|chesterbrook pa",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:d8d1f7e8-2831-4e00-a19f-8c8a851abc94": {
 "cross": "procter gamble|data science new grad master s degree|cincinnati oh",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10869,6 +10922,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:df162dd7-e1d9-4487-bdbb-f394807a974d": {
+"cross": "jobs for humanity|ai safety policy associate|texas city tx",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:df679934-1f95-445a-8c41-c53b225ebb36": {
 "cross": "butler county regional transit authority|planning technology technician|hamilton oh",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10893,6 +10951,11 @@
 "cross": "applied materials|physicist scientist new grad 2027 summer cohort|santa clara ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:dfd7743c-b0f2-4e6e-b632-d83d62d785d4": {
+"cross": "rtx|software developer engineer 1|indianapolis in",
+"first_seen": "2026-10-05T18:20:45+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:e03373d5-4e12-4466-bfdd-b4ad5a3b13f5": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|chicago il",
@@ -12614,8 +12677,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2160,
-"last_success": "2026-10-05T08:52:45+00:00"
+"count": 2153,
+"last_success": "2026-10-05T18:20:45+00:00"
 }
 }
 }
