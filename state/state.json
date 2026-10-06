@@ -1,7 +1,33 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-06T00:17:24+00:00",
-"pending_digest": [],
+"last_run": "2026-10-06T06:48:32+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "JP Morgan Chase - Software Engineer 1",
+"u": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795475"
+},
+{
+"rt": "Other SWE",
+"t": "ID.me - Software Engineer 2 New Grad - Developer Portal",
+"u": "https://job-boards.greenhouse.io/idme/jobs/8011089003"
+},
+{
+"rt": "Other SWE",
+"t": "Resmed - Associate Android Developer",
+"u": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1"
+},
+{
+"rt": "Other SWE",
+"t": "General Dynamics Information Technology - Software Developer Associate",
+"u": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1"
+},
+{
+"rt": "Other SWE",
+"t": "Amentum - Entry Level Software Engineer",
+"u": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1198,6 +1224,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:1867969a-db0e-4b61-bcfe-810cf5e1f73c": {
+"cross": "general motors|machine learning engineer ai inference solutions|sunnyvale ca",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:18782699-1727-4769-95ec-f5e37ca325e2": {
 "cross": "rtx|software engineer 1|indianapolis in",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -1839,6 +1870,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:23277136-0a0c-4da9-a08e-bcf0ff4ec1a0": {
+"cross": "mayo clinic|limited tenure associate data scientist analyst dr helgeson lab|jacksonville fl",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:23452dfd-f110-4218-bbe2-fa3fd2227fc5": {
 "cross": "m t bank|technology development program software engineering|buffalo ny",
 "first_seen": "2026-10-02T01:03:47+00:00",
@@ -1996,6 +2032,11 @@
 "cross": "intact|tech development program new grad software development cloud stream|montreal qc canada toronto on canada",
 "first_seen": "2026-10-03T13:39:59+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:27026122-7f5b-4c53-b237-532017705b57": {
+"cross": "ucsf|research data analyst hdfccc|sf",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:271f04b2-4017-4e86-b67f-387e7a47b5fe": {
 "cross": "id me|software development engineer new grad|mountain view ca",
@@ -5116,6 +5157,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:666b0c8f-87da-42d0-9e44-23ac5f6ad445": {
+"cross": "citadel securities|machine learning researcher phd graduate|dublin ireland london uk",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:66729d57-3a29-40b5-8252-a50252c674ee": {
 "cross": "bytedance|research scientist in large language model seed large language model|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5262,6 +5308,11 @@
 "cross": "rollout|founding software engineer|louisville ky nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:69c7639c-c15d-4df3-8d5b-a8df024bd29e": {
+"cross": "jp morgan chase|software engineer 1|plano tx",
+"dup": true,
+"first_seen": "2026-10-06T06:48:32+00:00"
 },
 "SimplifyJobs:69efd413-5f40-4e3c-8c63-18f7c8da24ca": {
 "cross": "innodata|generative ai associate|wisconsin",
@@ -5738,6 +5789,13 @@
 "cross": "nightwing intelligence solutions|software engineer full stack|dulles va",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:74f23be6-961c-4635-8a88-b9779934f8a5": {
+"cross": "general dynamics information technology|software developer associate|chantilly va",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"page": "3f1b0cb5-8078-816c-ac94-f824706b73a7",
+"score": 48,
+"score_v": 1
 },
 "SimplifyJobs:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0": {
 "cross": "man group|technology rotational program associate engineer|boston ma",
@@ -7137,6 +7195,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:8eaeeea9-e989-429e-afc9-1418dcb4545c": {
+"cross": "jp morgan chase|software engineer 1|plano tx",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"page": "3f1b0cb5-8078-8173-a192-e048a2367fa2",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:8ec152ad-60df-44f3-8f06-cdc62ddea548": {
 "cross": "emerson electric|software engineer ai enablement engineering productivity|austin tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7348,9 +7413,21 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:92f62700-6eed-40f6-aba4-e478ba9afdee": {
+"cross": "id me|software engineer 2 new grad developer portal|mountain view ca",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"page": "3f1b0cb5-8078-81c7-9a8e-edc06a32ddb4",
+"score": 53,
+"score_v": 1
+},
 "SimplifyJobs:9313778e-db15-4858-9adb-e94f968f55c6": {
 "cross": "dxc technology|analyst 1 software engineering|connecticut",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:93293229-4e3a-48c9-8204-6108c3325ea7": {
+"cross": "astera labs|data analyst new grad|san jose ca",
+"first_seen": "2026-10-06T06:48:32+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:93395aed-f45b-4289-ad27-7ae05d2558c0": {
@@ -7540,6 +7617,11 @@
 "SimplifyJobs:96e1951b-5f22-4c47-8da1-269eee7486fa": {
 "cross": "id me|software development engineer 2 new grad life hub super app|mountain view ca",
 "first_seen": "2026-10-06T00:17:24+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:970648e9-32d7-433b-b59d-9fba60e4eacf": {
+"cross": "ucsf|research data analyst 1|oakland ca",
+"first_seen": "2026-10-06T06:48:32+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:972a395a-4b76-444b-8f8a-9ce1e1a55d22": {
@@ -9124,6 +9206,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:b75d9a5e-5bbf-4016-8d19-1384e5528fdf": {
+"cross": "amentum|entry level software engineer|dahlgren va",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"page": "3f1b0cb5-8078-81e2-9b1e-f3a52c7d34f9",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:b768d2ef-8934-4832-9949-f25ca77045c0": {
 "cross": "notability|backend engineer|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9948,6 +10037,11 @@
 "SimplifyJobs:c85eb67f-6e29-47d5-a1f5-3ce004a42432": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|milwaukee wi",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:c863a552-36d0-4c29-b324-c4e626146943": {
+"cross": "astera labs|applied ai new grad non silicon|san jose ca",
+"first_seen": "2026-10-06T06:48:32+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:c8765359-5157-4d4a-ab1b-cf058982d597": {
@@ -11221,6 +11315,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:e19ffe36-6b96-4bb5-b793-4376b04108de": {
+"cross": "liberty mutual|analyst development program|boston ma plano tx seattle wa",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:e1cd4fc3-d728-405c-a0f7-58d0fe6e36f8": {
 "cross": "panasonic holdings|software engineer full stack|irvine ca",
 "first_seen": "2026-10-04T12:14:46+00:00",
@@ -11921,6 +12020,13 @@
 "cross": "bytedance|computer vision research engineer graduate|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:eeb61a55-e885-45c8-a56f-8a173d4848d6": {
+"cross": "resmed|associate android developer|san diego ca",
+"first_seen": "2026-10-06T06:48:32+00:00",
+"page": "3f1b0cb5-8078-8192-9845-c037217b6ab1",
+"score": 59,
+"score_v": 1
 },
 "SimplifyJobs:eebcbb4d-2fc1-4f3f-a75a-c138fb2fc425": {
 "cross": "dv trading|graduate software engineer dv commodities|nyc",
@@ -12917,8 +13023,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2168,
-"last_success": "2026-10-06T00:17:24+00:00"
+"count": 2177,
+"last_success": "2026-10-06T06:48:32+00:00"
 }
 }
 }
