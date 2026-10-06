@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-06T14:07:50+00:00",
-"pending_digest": [],
+"last_run": "2026-10-06T19:47:13+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Foundation Health - Software Engineer",
+"u": "https://jobs.ashbyhq.com/foundationhealthcareers/cb0b5a3f-de52-40bd-b485-4f2b243bdee1/application?embed=true"
+},
+{
+"rt": "Other SWE",
+"t": "Southern Star Central Gas Pipeline - Software Engineer 1",
+"u": "https://careers-sscgp.icims.com/jobs/3060/job?mobile=true&needsRedirect=false"
+},
+{
+"rt": "Other SWE",
+"t": "RTX - Software Engineer 1 - Test",
+"u": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -565,6 +581,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:09ecbd59-57e6-43c3-87e9-2c2d92f3bcb5": {
+"cross": "catapult|graduate software engineer|london uk",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:09ed4f95-254a-42eb-9beb-1d244e14c181": {
 "cross": "crane co|business analyst|piqua oh",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -728,6 +749,11 @@
 "cross": "american express|senior analyst data analytics enterprise technology services|charlotte nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:0d796dd4-8646-420d-a720-5fd6d4a732bc": {
+"cross": "accenture|data ai engineer|glasgow uk",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:0d7e5ade-c787-44c5-9358-0e54abadfdfe": {
 "cross": "nooks|software engineer new grad|sf",
@@ -2494,6 +2520,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:2ed8bb0c-78f4-4867-8153-c160ca581eaf": {
+"cross": "foundation health|software engineer|orlando fl",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"page": "3f1b0cb5-8078-81f9-8dbf-c6f7a27a2277",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:2edd4fc6-b185-4137-b320-c3162dd57ed3": {
 "cross": "lmi|junior power bi developer|remote in usa",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -4150,6 +4183,11 @@
 "first_seen": "2026-10-04T16:58:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:51b5a86a-51da-42be-8a94-7ce5f41d5501": {
+"cross": "hntb|gis analyst 1|baton rouge la new orleans la",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:51bd7e73-1db0-4c51-b148-7e0fba619dfe": {
 "cross": "spotify|android engineer|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4224,6 +4262,13 @@
 "cross": "framatome|computer science engineer 1 richland|richland wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:52d14524-3436-4572-b566-794db4872e46": {
+"cross": "southern star central gas pipeline|software engineer 1|owensboro ky",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"page": "3f1b0cb5-8078-81eb-b22c-ffdc175e8cc2",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:52d960ca-ad7e-41c2-9d0d-c29b24545c91": {
 "cross": "mbda|software engineer graduate programme|bristol uk",
@@ -4627,6 +4672,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:5b1dcb48-f2c5-4a0e-b2cf-be4285c160f0": {
+"cross": "teserac|ai engineer|santa clara ca",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:5b4117d9-4f38-4069-a113-3e20385ca343": {
 "cross": "aig|data scientist analyst generative ai data science|atlanta ga",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4959,6 +5009,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:614d69aa-cada-486b-8e62-b164a933b266": {
+"cross": "capgemini|graduate software developer|birmingham uk cardiff uk inverness uk london uk manchester uk woking uk",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:615e673e-d151-4378-ac1e-15cefa2b366d": {
 "cross": "freddie mac|single family data analyst|mclean va",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5008,6 +5063,11 @@
 "SimplifyJobs:6219210e-e390-4c2e-a436-58559bdccd22": {
 "cross": "newsbreak|newsbreak venture new grad ai growth intelligence engineer|mountain view ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:624f8a95-2d83-4fe9-b7bf-65a21526ec21": {
+"cross": "accenture|data ai engineer|leeds uk",
+"first_seen": "2026-10-06T19:47:13+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:62751ae8-bd05-4fa8-8629-d50f034fcc04": {
@@ -5614,6 +5674,13 @@
 "cross": "prelim|software engineer product|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:6ffabb0b-4dbb-49a3-bb98-10fd85f1898b": {
+"cross": "rtx|software engineer 1 test|tucson az",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"page": "3f1b0cb5-8078-81b2-9eda-cfb0e1a3604c",
+"score": 33,
+"score_v": 1
 },
 "SimplifyJobs:701ada33-13fc-4c61-96d2-f3f71fa5f7a9": {
 "cross": "dyna robotics|data collection operator|san carlos ca",
@@ -6494,6 +6561,11 @@
 "cross": "tiktok|machine learning engineer graduate trust and safety|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:8113e7ea-e9cc-43a3-954a-fc16e84b2b59": {
+"cross": "accenture|finance data platform consultant|birmingham uk edinburgh uk london uk manchester uk",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:812eb315-7906-4524-9334-58fd92b0a411": {
 "cross": "jitsu|business insights analyst|nyc",
@@ -9028,6 +9100,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:b06a41a5-fd2e-44d7-977b-811778f66053": {
+"cross": "northrop grumman|modeling and simulation engineer|el segundo ca",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:b078a42d-0d1e-46b8-a568-dc226c05badf": {
 "cross": "torch technologies|systems engineer analyst|huntsville al",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9586,6 +9663,11 @@
 "cross": "cadence design systems|lead software engineer|nottingham uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:bca58c51-be34-45a1-b5f9-44afd1115280": {
+"cross": "intel|finance data scientist|hillsboro or phoenix az santa clara ca",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:bcc577ef-5958-4321-821d-9405a58357c8": {
 "cross": "trace3|software engineer|colorado springs co",
@@ -10218,6 +10300,11 @@
 "cross": "tiktok|machine learning engineer graduate e commerce knowledge graph phd|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:c952031f-5e31-4e67-b914-c49b40b43ca4": {
+"cross": "accenture|data ai engineer|glasgow uk",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:c95a5357-a110-4537-8efd-4cbd83ed8ed8": {
 "cross": "state street|software engineer junior rest api development officer|burlington ma",
@@ -11397,6 +11484,11 @@
 "cross": "bny|engineering developer analyst engineering developer|greater manchester uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:e059f96a-4ae6-48b4-81ba-832e5ebb5247": {
+"cross": "accenture|data ai engineer|bristol uk",
+"first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:e060f699-0319-4af1-86fe-3235c0e032c1": {
 "cross": "analog devices|product engineer design evaluation|wilmington ma",
@@ -13178,8 +13270,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2191,
-"last_success": "2026-10-06T14:07:50+00:00"
+"count": 2186,
+"last_success": "2026-10-06T19:47:13+00:00"
 }
 }
 }
