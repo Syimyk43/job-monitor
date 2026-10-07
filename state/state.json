@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-07T13:12:03+00:00",
-"pending_digest": [],
+"last_run": "2026-10-07T19:29:32+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Garmin - Software Engineer 1 - Web Applications",
+"u": "https://careers.garmin.com/jobs/20219?icims=1"
+},
+{
+"rt": "Other SWE",
+"t": "CACI - Web Application Developer \u2013 Early Career",
+"u": "https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158"
+},
+{
+"rt": "Platform",
+"t": "Leidos - Junior Systems Engineer",
+"u": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Junior-Systems-Engineer_R-00193784"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -4046,6 +4062,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:4dbd811e-0477-41e7-b085-cba2d9e1cb62": {
+"cross": "leidos|junior systems engineer|odenton md",
+"first_seen": "2026-10-07T19:29:32+00:00",
+"page": "3f2b0cb5-8078-8125-8bfd-f9a2f55ef3bf",
+"score": 29,
+"score_v": 1
+},
 "SimplifyJobs:4de71a6b-1acd-4a09-8054-bd0d87814d8b": {
 "cross": "aig|gen ai engineering analyst|atlanta ga",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4409,6 +4432,11 @@
 "SimplifyJobs:5406c7be-0d9c-4f93-a891-3b0f0154d106": {
 "cross": "seatgeek|data analyst new grad|nyc",
 "first_seen": "2026-10-02T01:03:47+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:541b7177-0a14-41ed-9ffb-9cc0f5cf924a": {
+"cross": "eurofins|laboratory software specialist|lancaster pa",
+"first_seen": "2026-10-07T19:29:32+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:54311374-2184-4393-8e33-d5b5924fb292": {
@@ -5683,6 +5711,11 @@
 "page": "3ecb0cb5-8078-81e2-8ef5-d43ca1d9ae37",
 "score": 34,
 "score_v": 1
+},
+"SimplifyJobs:6c781675-4fa2-4831-8d63-86cc4fb198f1": {
+"cross": "the home depot|associate data scientist supply chain|atlanta ga",
+"first_seen": "2026-10-07T19:29:32+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:6cc1dadd-e02a-4477-8917-242924cc0c58": {
 "cross": "anima|product engineer|london uk",
@@ -7053,6 +7086,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "citizenship/clearance required"
 },
+"SimplifyJobs:8748f3a4-ffe7-42fd-a8bb-f46a6a75127b": {
+"cross": "garmin|software engineer 1 web applications|olathe ks",
+"first_seen": "2026-10-07T19:29:32+00:00",
+"page": "3f2b0cb5-8078-8158-a0ce-e4a5140b0518",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:875136d5-d9ac-4f3a-87a8-15b8ef711c63": {
 "cross": "mufg|analyst markets ai enablement and digitization|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7936,6 +7976,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:96c65a15-841f-4ff3-85f5-ac9291e3bb35": {
+"cross": "caci|web application developer early career|chantilly va reston va",
+"first_seen": "2026-10-07T19:29:32+00:00",
+"page": "3f2b0cb5-8078-81d8-b9bd-c89d940de94c",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:96ce500e-5e6d-4796-8787-89a69ab30d04": {
 "cross": "boeing|software engineer associate bixby|el segundo ca seal beach ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8789,6 +8836,11 @@
 "SimplifyJobs:a685622a-4b63-48aa-ada0-461b37b4d1ad": {
 "cross": "solace health|associate product engineer|redwood city ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:a698dd4a-2fd0-4d86-950a-9943757dc891": {
+"cross": "uline|direct marketing analyst|glenview il kenosha wi milwaukee wi pleasant prairie wi waukegan il",
+"first_seen": "2026-10-07T19:29:32+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:a69d666d-f9d3-4321-9a63-85962cfda0a2": {
@@ -10608,6 +10660,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ca427b99-8e92-4e4b-bde3-282eb027cad0": {
+"cross": "snorkel ai|software engineer|sf",
+"first_seen": "2026-10-07T19:29:32+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:ca5fe671-c3d6-471a-956e-07ca8a50495a": {
 "cross": "financeit|data scientist risk modeling analytics|toronto on canada",
 "first_seen": "2026-10-02T06:57:46+00:00",
@@ -10649,6 +10706,11 @@
 "cross": "texas sports academy|junior software engineer ai forward|austin tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:cb243aa3-0969-4c76-a554-9495b06509f9": {
+"cross": "quantum|graduate data engineer|london uk",
+"first_seen": "2026-10-07T19:29:32+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:cb47437d-5c85-4979-992b-5d7c6956ca21": {
 "cross": "affirm|software engineer 1 frontend upfunnel|remote in canada",
@@ -13559,8 +13621,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2176,
-"last_success": "2026-10-07T13:12:03+00:00"
+"count": 2162,
+"last_success": "2026-10-07T19:29:32+00:00"
 }
 }
 }
