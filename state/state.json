@@ -1,28 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-07T05:46:40+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "EquipmentShare - Software Engineer 1",
-"u": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715"
-},
-{
-"rt": "Other SWE",
-"t": "Microsoft - Software Engineer",
-"u": "https://apply.careers.microsoft.com/careers/job/1970393557022487"
-},
-{
-"rt": "Platform",
-"t": "Visa - Software Engineer Operations and Infrastructure",
-"u": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W"
-},
-{
-"rt": "Other SWE",
-"t": "SpaceX - Software Engineer - Starshield Products",
-"u": "https://boards.greenhouse.io/spacex/jobs/8865057002"
-}
-],
+"last_run": "2026-10-07T13:12:03+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -213,6 +192,13 @@
 "cross": "tsmg|field operator public transport survey project|manchester uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:03a16469-429d-4f34-a718-e27b73e3b992": {
+"cross": "apple|software engineer siri user experiences|cupertino ca",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"page": "3f2b0cb5-8078-8126-88d2-c4a3ab9587ec",
+"score": 63,
+"score_v": 1
 },
 "SimplifyJobs:03b97072-0f60-464b-a78e-1f492c236a63": {
 "cross": "c3 ai|forward deployed engineer new grad 2027|redwood city ca",
@@ -917,6 +903,11 @@
 "page": "3ecb0cb5-8078-8100-bff5-eca0cf7e91d7",
 "score": 68,
 "score_v": 1
+},
+"SimplifyJobs:10dc0728-ebb9-4b22-b529-89f376b30e93": {
+"cross": "citylogix|field data collections technician|atlanta ga bellevue wa seattle wa",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:10dfa9c3-f163-4d07-a147-2e457a8c3e6b": {
 "cross": "aurelian|backend engineer new grad to staff level|seattle wa",
@@ -3536,6 +3527,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
+"cross": "goldman sachs|engineering new analyst engineering|salt lake city ut",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:43cac478-76b4-4968-9ede-e3293fd02c28": {
 "cross": "tiktok|frontend software engineer new grad ads interface|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4037,6 +4033,13 @@
 "cross": "bti solutions|korean bilingual vision system engineer tl savannah ga|savannah ga",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:4da6a748-d1fc-4dc3-b3f7-7aaf4533f1d7": {
+"cross": "hewlett packard enterprise|systems software engineer 1|houston tx",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"page": "3f2b0cb5-8078-8170-a477-fe5051cc0b27",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:4dbd5e3f-f89e-49b3-8208-85556c40ae19": {
 "cross": "innodata|generative ai associate|mississippi",
@@ -4686,6 +4689,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:59e18143-8042-4a91-96f7-4d3bbed0be51": {
+"cross": "apple|screening and integration engineer watch software sensing and connectivity|cupertino ca san diego ca",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:5a05b3b2-2805-4fa2-9f98-6346f0932a5d": {
 "cross": "veeva systems|marketing analytics data analyst analytics development program|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5111,6 +5119,11 @@
 "cross": "booz allen|data engineer|huntsville al",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:6119b258-0273-42b6-8955-f605cea47f9c": {
+"cross": "cvs health|associate software development engineer conversion|alpharetta ga",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:614d69aa-cada-486b-8e62-b164a933b266": {
 "cross": "capgemini|graduate software developer|birmingham uk cardiff uk inverness uk london uk manchester uk woking uk",
@@ -7067,6 +7080,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:87af3741-b7cb-43fd-b696-2903c7914802": {
+"cross": "omnicom group|associate marketing science|chicago il",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:87d1b39d-5c83-431c-9e1f-bc13469fde4b": {
 "cross": "tiktok|software engineer graduate video on demand algorithm|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8249,6 +8267,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:9bd996c7-37aa-436a-b394-85ec16b51869": {
+"cross": "critical response group|field mapping associate|east lansing mi",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:9c338480-379d-4ca7-b5c9-3cb606516e95": {
 "cross": "cylake|software engineer university grad|sunnyvale ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8719,6 +8742,11 @@
 "SimplifyJobs:a5015239-b0f5-4194-ba7b-fc8c2eac8c28": {
 "cross": "motional|motion planning engineer trajectory generation|boston ma las vegas nv pittsburgh pa remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:a54c604c-7d2b-4184-8be8-d1c7ead6f9f7": {
+"cross": "systems planning and analysis|junior targeting analyst|sterling va",
+"first_seen": "2026-10-07T13:12:03+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:a552c11b-3a7d-49c2-80c3-c4da84c80570": {
@@ -9763,6 +9791,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:bab3c73f-9824-4c77-9ad6-c7450b4e9ed8": {
+"cross": "cvs health|associate software development engineer conversion|alabama alaska arizona arkansas california colorado connecticut delaware florida georgia hawaii idaho illinois indiana iowa kansas kentucky louisiana maine maryland massachusetts michigan minnesota mississippi missouri montana nyc nebraska nevada new hampshire new jersey new mexico north carolina north dakota ohio oklahoma oregon pennsylvania rhode island south carolina south dakota tennessee texas utah vermont virginia washington washington dc west virginia wisconsin wyoming",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:bab5e7a0-14de-449f-9a6a-6d5801e38490": {
 "cross": "field ai|embedded systems engineer robotics hardware|irvine ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9937,6 +9970,13 @@
 "cross": "omnicom group|data science analyst|toronto on canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:be3d4ee8-4dc8-4c20-bae9-49826174e869": {
+"cross": "nvidia|systems software engineer ai and cloud|santa clara ca",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"page": "3f2b0cb5-8078-8161-85f3-ffc471522f84",
+"score": 80,
+"score_v": 1
 },
 "SimplifyJobs:be3e35f8-1563-4b79-bac8-ad63f0571b76": {
 "cross": "hershey|packaging coordinator|south bend in",
@@ -12653,6 +12693,11 @@
 "score": 38,
 "score_v": 1
 },
+"SimplifyJobs:f14c1fc7-86d6-4b66-b3d6-dc24eb16ea06": {
+"cross": "medpace|junior business intelligence analyst|cincinnati oh",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:f156a6ad-52ae-45dc-a74c-caf3cdb3c09c": {
 "cross": "tsmg|field operator public transport survey project|birmingham uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13132,6 +13177,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:fa71e901-808c-47e5-ab2d-32344fa2c4e7": {
+"cross": "goldman sachs|engineering apprentice|london uk",
+"first_seen": "2026-10-07T13:12:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:fa833b4d-22a1-41d9-b0cf-9ae746021d98": {
 "cross": "tiktok|graduate software engineer ads interface|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13509,8 +13559,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2180,
-"last_success": "2026-10-07T05:46:40+00:00"
+"count": 2176,
+"last_success": "2026-10-07T13:12:03+00:00"
 }
 }
 }
