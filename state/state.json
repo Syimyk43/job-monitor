@@ -1,7 +1,28 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-06T23:45:08+00:00",
-"pending_digest": [],
+"last_run": "2026-10-07T05:46:40+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "EquipmentShare - Software Engineer 1",
+"u": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715"
+},
+{
+"rt": "Other SWE",
+"t": "Microsoft - Software Engineer",
+"u": "https://apply.careers.microsoft.com/careers/job/1970393557022487"
+},
+{
+"rt": "Platform",
+"t": "Visa - Software Engineer Operations and Infrastructure",
+"u": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W"
+},
+{
+"rt": "Other SWE",
+"t": "SpaceX - Software Engineer - Starshield Products",
+"u": "https://boards.greenhouse.io/spacex/jobs/8865057002"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -3564,6 +3585,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:4442183a-a206-4d3f-a9ed-68d6b06b452f": {
+"cross": "figure|humanoid robot operator commercial site team|reno nv",
+"first_seen": "2026-10-07T05:46:40+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:4443770a-eb73-498d-9946-6976c5cd5984": {
 "cross": "dellfor technologies|entry level net developer|washington pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3939,6 +3965,13 @@
 "cross": "tiktok|data engineer graduate|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:4c2d5f64-e8be-4bd2-b925-eea984ca00ab": {
+"cross": "visa|software engineer operations and infrastructure|austin tx",
+"first_seen": "2026-10-07T05:46:40+00:00",
+"page": "3f2b0cb5-8078-810c-bc4d-e97a9c073e9c",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:4c68bb72-13b7-4a0d-9170-05695b593554": {
 "cross": "university of wyoming|born digital aide|laramie wy",
@@ -7233,6 +7266,13 @@
 "first_seen": "2026-10-06T23:45:08+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:8b5d1879-5003-4cf0-aaf6-4a45fdf0a007": {
+"cross": "microsoft|software engineer|redmond wa reston va",
+"first_seen": "2026-10-07T05:46:40+00:00",
+"page": "3f2b0cb5-8078-8186-a096-c9b78a794030",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:8b6e869f-0e48-4953-b3b8-ecc61221ace3": {
 "cross": "dell technologies|software engineer 1 it|texas",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10516,6 +10556,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ca291eaf-69cd-4a1c-91c7-dcc20bc50b33": {
+"cross": "equipmentshare|software engineer 1|columbia mo",
+"first_seen": "2026-10-07T05:46:40+00:00",
+"page": "3f2b0cb5-8078-81b4-b81a-df8bedc23dca",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:ca349f3a-b933-4a66-8f30-d5b772b707a0": {
 "cross": "prolific|computer science specialist ai training|remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13033,6 +13080,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:f9c39daf-9f62-4431-bf7d-acc89559372a": {
+"cross": "spacex|software engineer starshield products|washington dc",
+"first_seen": "2026-10-07T05:46:40+00:00",
+"page": "3f2b0cb5-8078-818f-8f96-d51d04194474",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:f9d3a78a-e7c9-4556-9948-ef6c3b539859": {
 "cross": "unilode aviation|uld data quality assurance officer|united states",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13455,8 +13509,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2206,
-"last_success": "2026-10-06T23:45:08+00:00"
+"count": 2180,
+"last_success": "2026-10-07T05:46:40+00:00"
 }
 }
 }
