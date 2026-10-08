@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-07T23:45:51+00:00",
-"pending_digest": [],
+"last_run": "2026-10-08T05:52:46+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Harbor Foods - WMS Software Developer 1",
+"u": "https://wholesale-harborfoods.icims.com/jobs/7921/job?mobile=true&needsRedirect=false"
+},
+{
+"rt": "Other SWE",
+"t": "Applied Materials - Software Engineer 1 New Grad",
+"u": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
+},
+{
+"rt": "Other SWE",
+"t": "Applied Materials - Software Engineer New Grad",
+"u": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -426,6 +442,13 @@
 "cross": "innodata|generative ai associate|concord nh",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:0750f5ca-d84f-422e-a917-baccdf94d7b1": {
+"cross": "applied materials|software engineer new grad|santa clara ca",
+"first_seen": "2026-10-08T05:52:46+00:00",
+"page": "3f3b0cb5-8078-81f9-a354-dcff2445840e",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:075cb7e8-d845-460b-8465-3af3ab30f11b": {
 "cross": "perfectserve|mobile developer 1|remote in usa",
@@ -2711,6 +2734,11 @@
 "score": 38,
 "score_v": 1
 },
+"SimplifyJobs:30d31584-e527-4263-b462-ed87f955068d": {
+"cross": "chalk|software engineer new grad|nyc sf",
+"first_seen": "2026-10-08T05:52:46+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:315c6fae-a358-463d-b03c-942573ef4064": {
 "cross": "westinghouse electric company|nuclear analysis tech c engineering techs physics techs|grove city pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4517,6 +4545,13 @@
 "cross": "seatgeek|data analyst new grad|nyc",
 "first_seen": "2026-10-02T01:03:47+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:54109d7b-e383-4172-8aba-eda5ce54188b": {
+"cross": "harbor foods|wms software developer 1|lacey wa",
+"first_seen": "2026-10-08T05:52:46+00:00",
+"page": "3f3b0cb5-8078-818c-bd86-fabd03b690a9",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:541b7177-0a14-41ed-9ffb-9cc0f5cf924a": {
 "cross": "eurofins|laboratory software specialist|lancaster pa",
@@ -9180,6 +9215,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6": {
+"cross": "dexcom|software development engineer 1|remote in usa",
+"first_seen": "2026-10-08T05:52:46+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:aa1f9e60-c448-45b5-aeb8-6f3cefcf159a": {
 "cross": "crossmark|retail reset merchandiser|leesburg va",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9389,6 +9429,11 @@
 "SimplifyJobs:ae901c8a-4c94-4381-a067-cf2cd4c4d497": {
 "cross": "axcelis technologies|software applications engineer 1|beverly ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:aeab73a2-30a9-4a0b-a25d-d708a9901f29": {
+"cross": "niantic spatial|ai engineer computer vision|sf",
+"first_seen": "2026-10-08T05:52:46+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:aed4b7d7-c810-420f-9a53-30e21fd841f6": {
@@ -11101,6 +11146,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:cf43075d-b9ba-4cce-b884-1d0b1597dcd4": {
+"cross": "applied materials|software engineer 1 new grad|santa clara ca",
+"first_seen": "2026-10-08T05:52:46+00:00",
+"page": "3f3b0cb5-8078-81c5-8f6b-c58f85842eac",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:cf45f7e6-9cb8-49f3-8cd4-024cb216673b": {
 "cross": "innodata|ai quality analyst|south carolina",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -12634,6 +12686,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ec1b1f5a-50dd-40e3-88f4-c7842d37754c": {
+"cross": "barry wehmiller|entry level software engineer|dallas tx denver co eau claire wi raleigh nc st louis mo",
+"dup": true,
+"first_seen": "2026-10-08T05:52:46+00:00"
+},
 "SimplifyJobs:ec2b3d96-d582-4bd7-8b43-8b6e54f85283": {
 "cross": "bytedance|research scientist quantum chemistry global frontier tech recruitment program 2027 start phd|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -12707,6 +12764,11 @@
 "SimplifyJobs:edbd3ee9-e03a-4e71-b305-bd14de6b124e": {
 "cross": "hewlett packard|software product security engineer|spring tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:edc4278f-b222-4879-adc6-0a1a97a007a6": {
+"cross": "tiktok|machine learning engineer graduate e commerce knowledge graph|seattle wa",
+"first_seen": "2026-10-08T05:52:46+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:ede5b45b-711e-47d3-a320-db8aa4c46b0e": {
@@ -13819,8 +13881,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2181,
-"last_success": "2026-10-07T23:45:51+00:00"
+"count": 2172,
+"last_success": "2026-10-08T05:52:46+00:00"
 }
 }
 }
