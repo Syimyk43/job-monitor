@@ -1,23 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-08T13:18:58+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Harbor Foods - WMS Software Developer 1",
-"u": "https://wholesale-harborfoods.icims.com/jobs/7921/job?mobile=true&needsRedirect=false"
-},
-{
-"rt": "Other SWE",
-"t": "Applied Materials - Software Engineer 1 New Grad",
-"u": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
-},
-{
-"rt": "Other SWE",
-"t": "Applied Materials - Software Engineer New Grad",
-"u": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997"
-}
-],
+"last_run": "2026-10-08T19:24:16+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -3839,6 +3823,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:47b95dc3-a50e-4956-855b-b8163f839175": {
+"cross": "american university|geospatial research lab assistant|washington dc",
+"first_seen": "2026-10-08T19:24:16+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:47d77e34-2984-4699-bd02-22284bc93581": {
 "cross": "johns hopkins applied physics laboratory|subsea robotics engineer|laurel md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3900,6 +3889,13 @@
 "cross": "tiktok|software engineer mobile engineer new grad ads core demonstration|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:4939e8a4-f378-418b-bf25-abaebfdf3b33": {
+"cross": "amentum|software engineer 1|hanover md",
+"first_seen": "2026-10-08T19:24:16+00:00",
+"page": "3f3b0cb5-8078-81af-a60b-fc51ac5aeb31",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:4951638d-d1fa-4060-9775-cad28a332ed4": {
 "cross": "m c dean|systems specialist associate|monroe la",
@@ -4525,6 +4521,13 @@
 "cross": "liquid|member of technical staff|new york ny",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:537aaa04-0077-4de4-9a8d-d828c5d80978": {
+"cross": "universal health services|associate software engineer|king of prussia pa",
+"first_seen": "2026-10-08T19:24:16+00:00",
+"page": "3f3b0cb5-8078-818b-a2ab-d1c14e6a422b",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:539ddb97-a187-4681-9626-955ac26196f8": {
 "cross": "broadcom limited|support engineer mainframe|lisle il",
@@ -7823,6 +7826,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:90b298d2-1b5e-4a23-84c6-267e6abbf2db": {
+"cross": "england rugby|data analyst|united kingdom",
+"first_seen": "2026-10-08T19:24:16+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:90b7dcd2-ef8d-4a60-891d-0978390afa8e": {
 "cross": "lexisnexis risk solutions|software engineer new grad|alpharetta ga",
 "dup": true,
@@ -8582,6 +8590,11 @@
 "cross": "gotion|data analyst|fremont ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:9efe2b17-2ed5-4042-8a3e-cb27c0bb8c32": {
+"cross": "citi|junior software engineer generative ai platforms|london uk",
+"first_seen": "2026-10-08T19:24:16+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:9f197d2d-9e2c-4c85-96a0-2d38644a115e": {
 "cross": "bytedance|graduate research scientist 3d 4d reconstruction generation relighting|san jose ca",
@@ -9741,6 +9754,11 @@
 "SimplifyJobs:b47a47d9-375e-4860-b64c-790555b217fb": {
 "cross": "labcorp|ai transformation associate per diem|phoenix az",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:b4831404-8a53-4ca5-9a71-ff46c4ea8550": {
+"cross": "tsmg|robot wrangler|sf",
+"first_seen": "2026-10-08T19:24:16+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:b4956a38-5faa-4849-acb9-3800ce1f366a": {
@@ -11324,6 +11342,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:d2a243f7-5ac3-48d5-8f20-94a3e4cd5a9c": {
+"cross": "systems planning and analysis|associate operations research analyst|nebraska",
+"first_seen": "2026-10-08T19:24:16+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:d2bee24c-fe5c-403b-9483-ec8f0548321b": {
 "cross": "bytedance|graduate research scientist applied machine learning ml system|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -12224,6 +12247,11 @@
 "page": "3efb0cb5-8078-81cf-bfa4-c0534503655e",
 "score": 33,
 "score_v": 1
+},
+"SimplifyJobs:e3fdb2df-5e0d-4317-9acc-91d19f0c62f1": {
+"cross": "university of virginia|direct marketing data assistant|charlottesville va",
+"first_seen": "2026-10-08T19:24:16+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:e3fef2a4-b7e1-4354-9ccd-b21b2d2e9a29": {
 "cross": "valitana|client onboarding software engineer analyst|plano tx",
@@ -13886,8 +13914,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2158,
-"last_success": "2026-10-08T13:18:58+00:00"
+"count": 2151,
+"last_success": "2026-10-08T19:24:16+00:00"
 }
 }
 }
