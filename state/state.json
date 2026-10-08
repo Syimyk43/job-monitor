@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-08T05:52:46+00:00",
+"last_run": "2026-10-08T13:18:58+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -11845,6 +11845,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:dc46f541-6903-43ea-b70a-97dc3277f119": {
+"cross": "publicis groupe|junior digital media analyst|overland park ks",
+"first_seen": "2026-10-08T13:18:58+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:dc50db1c-86ee-4033-8009-32d814bd11c2": {
 "cross": "dellfor technologies|entry level java developer|united kingdom",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13881,8 +13886,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2172,
-"last_success": "2026-10-08T05:52:46+00:00"
+"count": 2158,
+"last_success": "2026-10-08T13:18:58+00:00"
 }
 }
 }
