@@ -1,38 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-09T05:58:32+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Aurelian - Software Engineer New Grad",
-"u": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true"
-},
-{
-"rt": "Other SWE",
-"t": "Snowflake - Software Engineer - Customer Experience Engineering",
-"u": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application?embed=true"
-},
-{
-"rt": "Other SWE",
-"t": "Forge Nano - Software Engineer 1",
-"u": "https://forge-nano.breezy.hr/p/66630c61f7e4/apply"
-},
-{
-"rt": "Other SWE",
-"t": "Uber - Graduate Software Engineer 2",
-"u": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301355"
-},
-{
-"rt": "Other SWE",
-"t": "AeroVironment - Software Engineer",
-"u": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Software-Engineer_9081"
-},
-{
-"rt": "Other SWE",
-"t": "AeroVironment - Software Engineer 1 - Apps",
-"u": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7540-Metropolitan-Dr-San-Diego-CA/Software-Engineer--Apps---I_8655"
-}
-],
+"last_run": "2026-10-09T13:06:48+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1814,6 +1783,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:2033636a-6fe2-4479-9f48-bdb3f2c0eca6": {
+"cross": "appen|3d lidar data annotation analyst|remote in usa",
+"first_seen": "2026-10-09T13:06:48+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:203a0bff-f81f-425c-8800-ddf0ffe903c7": {
 "cross": "infojini|web developer|suitland silver hill md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3292,6 +3266,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:3b795f89-6464-4dce-bc94-f55a4821c04f": {
+"cross": "bip ventures|associate ai engineer|atlanta ga",
+"first_seen": "2026-10-09T13:06:48+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:3bbcfa63-20ac-4203-ae5f-f10e9a89efb6": {
 "cross": "leidos|software engineer|huntsville al",
 "first_seen": "2026-10-04T00:00:24+00:00",
@@ -3320,6 +3299,11 @@
 "cross": "first national bank|ai development program associate|pittsburgh pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:3c6f3dde-a27b-4f3c-b6a8-fdc22c5627ba": {
+"cross": "clark|junior software engineer|nyc",
+"first_seen": "2026-10-09T13:06:48+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:3c753255-bace-4666-bf52-01e6858c132c": {
 "cross": "innodata|generative ai associate|minnesota",
@@ -6432,6 +6416,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:75bf5d37-53a9-4048-bcbc-3cffdeec39a7": {
+"cross": "hewlett packard enterprise|storage systems software engineer|andover ma",
+"dup": true,
+"first_seen": "2026-10-09T13:06:48+00:00"
+},
 "SimplifyJobs:75cc7659-6d2e-4570-b141-133fc30e5e5b": {
 "cross": "dellfor technologies|entry level net developer|united states",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8691,6 +8680,13 @@
 "cross": "avalore|ai ml engineer|arlington county arlington va",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:9e2a98d3-d831-4cf0-8d19-28dfaf4710f3": {
+"cross": "hewlett packard enterprise|storage systems software engineer|andover ma",
+"first_seen": "2026-10-09T13:06:48+00:00",
+"page": "3f4b0cb5-8078-81d2-96a6-c5ed5f78987c",
+"score": 63,
+"score_v": 1
 },
 "SimplifyJobs:9e5ef9f4-bd8a-4306-96d9-b33a23effac7": {
 "cross": "broadridge|junior full stack software engineer|newark nj",
@@ -14178,8 +14174,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2175,
-"last_success": "2026-10-09T05:58:32+00:00"
+"count": 2167,
+"last_success": "2026-10-09T13:06:48+00:00"
 }
 }
 }
