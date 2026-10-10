@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-09T23:10:31+00:00",
-"pending_digest": [],
+"last_run": "2026-10-10T02:41:08+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Shield AI - Software Engineer 2 - Factory",
+"u": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply"
+},
+{
+"rt": "Other SWE",
+"t": "Becton Dickinson - Software Engineer 1",
+"u": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1"
+},
+{
+"rt": "Platform",
+"t": "NVIDIA - C++ Software Engineer New Grad - Infrastructure Tools",
+"u": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1780,6 +1796,11 @@
 "SimplifyJobs:1f7345cd-0fc4-4a7a-9d82-bff23f6eba2a": {
 "cross": "applied materials|machine learning engineer generative ai|santa clara ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:1f76312f-1032-4bed-9c8d-8dec5f268526": {
+"cross": "perr knight|associate programmer|charlotte nc",
+"first_seen": "2026-10-10T02:41:08+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a": {
@@ -5956,6 +5977,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:6a2ed12f-7233-49b7-80af-74bb4795ed0e": {
+"cross": "shield ai|software engineer 2 factory|washington dc",
+"first_seen": "2026-10-10T02:41:08+00:00",
+"page": "3f5b0cb5-8078-81b9-b898-de7db1bceab5",
+"score": 53,
+"score_v": 1
+},
 "SimplifyJobs:6a641512-5879-4685-ba23-79f817c714aa": {
 "cross": "john deere|data analytics development program 1 data and analytics|moline il",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7281,6 +7309,13 @@
 "first_seen": "2026-10-08T23:55:12+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:82fb089b-e0cb-414d-9953-9f5d35538486": {
+"cross": "nvidia|c software engineer new grad infrastructure tools|santa clara ca",
+"first_seen": "2026-10-10T02:41:08+00:00",
+"page": "3f5b0cb5-8078-81b6-9606-d1394a8d5c01",
+"score": 67,
+"score_v": 1
+},
 "SimplifyJobs:8304bb3a-5c3a-460c-8b36-db592740b8b4": {
 "cross": "pennsylvania state university|research assistant public health sciences|united states",
 "first_seen": "2026-10-02T23:13:14+00:00",
@@ -8593,6 +8628,13 @@
 "cross": "cadence design systems|application software developer new grad|livonia mi",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:98c33fd8-dca1-426d-a419-74413b56996d": {
+"cross": "becton dickinson|software engineer 1|sparks md",
+"first_seen": "2026-10-10T02:41:08+00:00",
+"page": "3f5b0cb5-8078-81b7-8f29-ee16a857fd7c",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:98cc0339-dbcb-44ab-ad89-790f2ee6fd87": {
 "cross": "rochester institute of technology|crime analyst rit college of liberal arts|rochester ny",
@@ -10308,6 +10350,11 @@
 "cross": "tiktok|backend engineer graduate tiktok vertical recommendation architecture 2027 start|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:b80904c4-3f7d-4e91-b636-fd2b0c6ac3ff": {
+"cross": "xcel energy|associate data scientist|denver co",
+"first_seen": "2026-10-10T02:41:08+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:b8351f3d-ebec-4c3d-8709-81a2cb4edf2d": {
 "cross": "the campbell s company|deductions analyst|hanover pa",
@@ -14460,8 +14507,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2193,
-"last_success": "2026-10-09T23:10:31+00:00"
+"count": 2192,
+"last_success": "2026-10-10T02:41:08+00:00"
 }
 }
 }
