@@ -1,11 +1,16 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-12T05:46:42+00:00",
+"last_run": "2026-10-12T15:12:32+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "NVIDIA - Software Engineer New Grad - DL Kernel Libraries",
 "u": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
+},
+{
+"rt": "Other SWE",
+"t": "Wolverine Trading - Early Career C++ Software Engineer",
+"u": "https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq"
 }
 ],
 "seen": {
@@ -1398,6 +1403,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:1935c5df-770d-45f2-bbde-4d4a462ad5cb": {
+"cross": "wolverine trading|early career c software engineer|chicago il",
+"first_seen": "2026-10-12T15:12:32+00:00",
+"page": "3f7b0cb5-8078-81ad-965f-f014a5e30d62",
+"score": 59,
+"score_v": 1
+},
 "SimplifyJobs:19394634-8679-48ce-bd76-f2fe4b623fad": {
 "cross": "national laboratory of the rockies|postdoctoral researcher statistical learning and modeling|golden co",
 "first_seen": "2026-10-04T12:14:46+00:00",
@@ -2655,6 +2667,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:2deb4c4d-48a6-4b30-8445-41e253c752f2": {
+"cross": "crown innovations|r d engineer 1|mountain view ca",
+"first_seen": "2026-10-12T15:12:32+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:2dff76dd-866e-4d97-aa95-afcf1a0b28d8": {
 "cross": "american express|senior analyst 2027 data analytics enterprise technology services|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -2782,6 +2799,11 @@
 "SimplifyJobs:2ff8021a-9741-4562-a72d-7e1ba5fd39bf": {
 "cross": "data cloud merge|entry level business analyst|jersey city nj",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:3006c01e-96d7-4dd6-92e3-db3d1467b46d": {
+"cross": "lance|product engineer|sf",
+"first_seen": "2026-10-12T15:12:32+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:30103acf-6e57-4258-94a3-8fb95e0c2588": {
@@ -5129,6 +5151,11 @@
 "SimplifyJobs:5af8d1b1-e4e4-4112-8f81-e71f304f2f52": {
 "cross": "lowe s|associate data engineering launchpad|charlotte nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:5afe8b8d-b52d-4de6-92c6-fffa8d40b7b3": {
+"cross": "droyd robotics|robotics operator|sf",
+"first_seen": "2026-10-12T15:12:32+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:5b1dcb48-f2c5-4a0e-b2cf-be4285c160f0": {
@@ -7544,6 +7571,11 @@
 "first_seen": "2026-10-02T06:57:46+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:86e139d6-3ba5-4965-bf73-a9a2243099f6": {
+"cross": "the hut group|data engineer customer|manchester uk",
+"first_seen": "2026-10-12T15:12:32+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:86eec77e-62fa-43bc-a011-1e73aac2d372": {
 "cross": "jump trading|ai research engineer|chicago il nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9400,6 +9432,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a5e3e6a9-c7ea-4b56-822e-5ac9d108ab9e": {
+"cross": "data intellect|graduate stem developer|belfast uk",
+"first_seen": "2026-10-12T15:12:32+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:a5f16083-08ff-434c-8e15-31d3323e12ef": {
 "cross": "roblox|senior machine learning engineer phd early career|san mateo ca",
 "first_seen": "2026-10-08T23:55:12+00:00",
@@ -9984,6 +10021,11 @@
 "SimplifyJobs:b05649ee-4731-41d9-9b2a-2be57e93cab3": {
 "cross": "state street|full stack software engineer officer|toronto on canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "non-US location"
+},
+"SimplifyJobs:b056989f-6174-46ac-97e8-ab2037a94c27": {
+"cross": "data intellect|stem developer new grad|belfast uk",
+"first_seen": "2026-10-12T15:12:32+00:00",
 "skip": "non-US location"
 },
 "SimplifyJobs:b05bb4e7-9784-4156-8c6f-0516f1b27dc5": {
@@ -12568,6 +12610,11 @@
 "dup": true,
 "first_seen": "2026-10-06T00:17:24+00:00"
 },
+"SimplifyJobs:df030492-3a72-4388-a440-77952fc6c3d3": {
+"cross": "crown innovations|systems engineer 1|mountain view ca",
+"dup": true,
+"first_seen": "2026-10-12T15:12:32+00:00"
+},
 "SimplifyJobs:df144a1f-ccc1-4936-b47d-78ddd8d7c8df": {
 "cross": "instacart|senior machine learning engineer economist|remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14553,8 +14600,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2189,
-"last_success": "2026-10-12T05:46:42+00:00"
+"count": 2179,
+"last_success": "2026-10-12T15:12:32+00:00"
 }
 }
 }
