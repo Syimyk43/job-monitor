@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-12T15:12:32+00:00",
+"last_run": "2026-10-12T22:34:35+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -9507,6 +9507,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:a762184f-4a33-462a-8220-7c82e54b505e": {
+"cross": "howden|data analyst specialty|london uk",
+"first_seen": "2026-10-12T22:34:35+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a793a502-be13-4c61-a978-d990f3122ad0": {
 "cross": "cwill|r d trainee full stack engineer backend|cary nc remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10483,6 +10488,11 @@
 "SimplifyJobs:b9924f81-622f-4aea-8a48-f2b1aa2914e5": {
 "cross": "innodata|ai data specialist|ohio",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:b9a11e4e-8254-4a9d-b74c-34d899439058": {
+"cross": "baird|salesforce data coordinator|london uk",
+"first_seen": "2026-10-12T22:34:35+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:b9b3cf29-7633-405c-8dbf-78009489b5fd": {
@@ -14600,8 +14610,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2179,
-"last_success": "2026-10-12T15:12:32+00:00"
+"count": 2157,
+"last_success": "2026-10-12T22:34:35+00:00"
 }
 }
 }
