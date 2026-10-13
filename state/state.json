@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-13T03:09:52+00:00",
-"pending_digest": [],
+"last_run": "2026-10-13T11:01:41+00:00",
+"pending_digest": [
+{
+"rt": "Data Engineering",
+"t": "Zoox - Contract Student Worker - Autonomy Safety Data Engineer",
+"u": "https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -4010,6 +4016,11 @@
 "first_seen": "2026-10-02T23:13:14+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:46c385ad-61c8-4e3f-abe7-4e3c5205c5e0": {
+"cross": "welo global|speech voice ai analyst|boston ma burlingame ca la nyc redmond wa sf seattle wa sunnyvale ca washington dc",
+"first_seen": "2026-10-13T11:01:41+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:46ef73eb-48ac-4b4f-b57e-f88f4c490e1d": {
 "cross": "reliance|ai software engineer 1|chicago il",
 "first_seen": "2026-10-02T01:03:47+00:00",
@@ -7189,6 +7200,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:7f24593d-1433-4515-9bd7-2e99e1078d7d": {
+"cross": "zoox|contract student worker autonomy safety data engineer|boston ma foster city ca seattle wa",
+"first_seen": "2026-10-13T11:01:41+00:00",
+"page": "3f8b0cb5-8078-81c7-8664-e44f167f9c71",
+"score": 54,
+"score_v": 1
+},
 "SimplifyJobs:7f2aef69-8f56-49be-8f29-f9b37419bd0e": {
 "cross": "bytedance|research engineer|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8216,6 +8234,11 @@
 "SimplifyJobs:8f638b06-36c6-4e9a-bf22-b4ab3f14aaca": {
 "cross": "hooglee|annotation specialist video|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:8f661c59-262d-4efa-a0f0-fa1477eeb966": {
+"cross": "quantum|graduate business analyst|london uk",
+"first_seen": "2026-10-13T11:01:41+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:8f6a487c-2595-4031-bb70-4c1600e2c57b": {
@@ -10202,6 +10225,11 @@
 "cross": "tripadvisor|software engineer 1|oxford uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:b1fd26e3-db3d-4f5c-8677-163fd6d481c6": {
+"cross": "microsoft|software engineer|redmond wa",
+"dup": true,
+"first_seen": "2026-10-13T11:01:41+00:00"
 },
 "SimplifyJobs:b22a26e1-15a6-4e32-89fb-f2378da11dd1": {
 "cross": "tiktok|machine learning engineer graduate e commerce recommendation foundation phd|san jose ca",
@@ -13506,6 +13534,11 @@
 "first_seen": "2026-10-06T23:45:08+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ebf51f93-d06e-4429-9906-1f9bacaf4c20": {
+"cross": "chewy|business intelligence analyst 1|belton mo clayton in dayton oh goodyear az houston tx jessup pa lewisberry pa ocala fl reno nv salisbury nc wilkes barre pa",
+"first_seen": "2026-10-13T11:01:41+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:ec0efca9-ba6b-47eb-9826-7864eb3520bc": {
 "cross": "amentum|component lab computer engineer|crane in",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14757,8 +14790,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2176,
-"last_success": "2026-10-13T03:09:52+00:00"
+"count": 2174,
+"last_success": "2026-10-13T11:01:41+00:00"
 }
 }
 }
