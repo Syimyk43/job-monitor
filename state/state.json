@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-14T07:29:51+00:00",
+"last_run": "2026-10-14T13:03:25+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -2336,6 +2336,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:269848d0-7a8d-45ef-8519-06340de9f7fc": {
+"cross": "onto innovation|senior software engineer|burlington ma",
+"dup": true,
+"first_seen": "2026-10-14T13:03:25+00:00"
+},
 "SimplifyJobs:26c69754-b42a-4afd-807e-41e2dfe8b206": {
 "cross": "vizient|associate software engineer|cape girardeau mo irving tx",
 "first_seen": "2026-10-09T23:10:31+00:00",
@@ -2401,6 +2406,11 @@
 "cross": "avalore|data architect|arlington county arlington va",
 "first_seen": "2026-10-04T16:58:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:2811b58f-5918-42f5-bcb0-73989dbc4f33": {
+"cross": "simventions|ai machine learning engineer rag pipeline development|dahlgren va",
+"first_seen": "2026-10-14T13:03:25+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:281fb399-0f01-46dc-9b50-d761b69e53ab": {
 "cross": "two sigma|software engineer|nyc",
@@ -3908,6 +3918,11 @@
 "SimplifyJobs:42f54b54-a49b-43a7-8f24-f7a7fe227cfa": {
 "cross": "fervo energy|seismologist|houston tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:42f706ad-c2f4-4190-9175-61c8b63fda22": {
+"cross": "google|research engineer|mountain view ca",
+"first_seen": "2026-10-14T13:03:25+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:42fd1db9-f60e-4e19-9ba2-5ee6a6c2c4b4": {
@@ -5734,6 +5749,11 @@
 "page": "3f1b0cb5-8078-81a1-bf29-fd3e2c665561",
 "score": 73,
 "score_v": 1
+},
+"SimplifyJobs:61b9c823-c168-4748-9d94-8ae5a407a3da": {
+"cross": "accenture|ai native software engineer|birmingham uk london uk",
+"first_seen": "2026-10-14T13:03:25+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:61c905e5-2281-4abd-afcc-83089ab79869": {
 "cross": "marsh mclennan|data analytics research fellow data analytics research fellowship|newcastle upon tyne uk",
@@ -11563,6 +11583,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:c67013f3-bb2d-4b62-9127-75264ad45442": {
+"cross": "capgemini|associate application consultant|atlanta ga bridgewater nj chicago il nyc nashville tn",
+"first_seen": "2026-10-14T13:03:25+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:c6721899-e0b6-43b7-8cc4-c3cbfe9c05d5": {
 "cross": "sia partners|associate consultant generative ai|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -11623,6 +11648,11 @@
 "SimplifyJobs:c7a6ce05-131f-4bb4-acbc-7a68ccd537b7": {
 "cross": "aerovect|mapping engineer|atlanta ga",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:c7e27fa1-2768-4384-b053-db1c2b5fb36f": {
+"cross": "jd com|software development new grad|london uk",
+"first_seen": "2026-10-14T13:03:25+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:c7f2b025-9cd7-46ef-82d2-99e8977a1a9b": {
@@ -13200,6 +13230,11 @@
 "SimplifyJobs:e1733d33-a89c-4d24-90d5-ee103811daad": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|la",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:e182497d-faeb-4cac-9de9-4db3935647ad": {
+"cross": "bp|graduate digital data ai engineering|sunbury on thames uk",
+"first_seen": "2026-10-14T13:03:25+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:e188d38a-7ef5-41b5-8e5b-67ef8459e9c2": {
@@ -15124,8 +15159,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2186,
-"last_success": "2026-10-14T07:29:51+00:00"
+"count": 2189,
+"last_success": "2026-10-14T13:03:25+00:00"
 }
 }
 }
