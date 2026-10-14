@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-13T23:05:17+00:00",
-"pending_digest": [],
+"last_run": "2026-10-14T01:51:09+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Space Tango - Software Engineer - Level 1, 2, or 3",
+"u": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4584333"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -11845,6 +11851,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:cbbb7f51-7564-48f8-93c7-f822d8b5a568": {
+"cross": "space tango|software engineer level 1 2 or 3|lexington ky",
+"first_seen": "2026-10-14T01:51:09+00:00",
+"page": "3f9b0cb5-8078-819b-9ba2-e6818416e4db",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:cbc9cae5-131c-4da5-9664-90601d74f6de": {
 "cross": "tiktok|software engineer graduate recommendation|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -15057,8 +15070,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2189,
-"last_success": "2026-10-13T23:05:17+00:00"
+"count": 2184,
+"last_success": "2026-10-14T01:51:09+00:00"
 }
 }
 }
