@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-15T00:04:55+00:00",
-"pending_digest": [],
+"last_run": "2026-10-15T04:29:03+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "SirenOpt - Software Engineer - Early Career - C++ & Systems",
+"u": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009"
+},
+{
+"rt": "Other SWE",
+"t": "RTX - Software Engineer 1 - Next Gen Systems",
+"u": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -2529,6 +2540,11 @@
 "cross": "bytedance|research scientist|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:2a035b52-c3c9-42cc-bcdc-5ec6580ae2bc": {
+"cross": "mozilla|software engineer firefox desktop integrations|remote in canada",
+"first_seen": "2026-10-15T04:29:03+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:2a0c1265-8e46-48e4-9097-a1399cff3451": {
 "cross": "apogee engineering|junior systems engineer|wright patterson afb oh",
@@ -5345,6 +5361,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:5a07cf07-d410-41af-b750-23e449367969": {
+"cross": "rtx|software engineer 1 next gen systems|cedar rapids ia",
+"first_seen": "2026-10-15T04:29:03+00:00",
+"page": "3fab0cb5-8078-81d7-b048-d0f418778917",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:5a1a3327-bc19-468d-b569-05d45943a503": {
 "cross": "dutch bros|broista|yuma az",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5655,6 +5678,11 @@
 "cross": "lexisnexis legal professional|graduate data scientist 1|raleigh nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:5e5b13de-1017-4d20-8bc9-4b807aa5e34e": {
+"cross": "plusai|senior machine learning engineer perception|santa clara ca",
+"first_seen": "2026-10-15T04:29:03+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:5e775d03-2974-4788-a51e-41896502a1c2": {
 "cross": "longshot systems|machine learning researcher|london uk",
@@ -9667,6 +9695,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:a254c38f-5fae-467c-9cff-3dd2e72094f5": {
+"cross": "sirenopt|software engineer early career c systems|san leandro ca",
+"first_seen": "2026-10-15T04:29:03+00:00",
+"page": "3fab0cb5-8078-8167-920f-cc225aa753bc",
+"score": 59,
+"score_v": 1
+},
 "SimplifyJobs:a26a1cb6-76af-42d1-8117-a8ef5dce2fae": {
 "cross": "peraton|image scientist entry level|springfield va",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13244,6 +13279,11 @@
 "first_seen": "2026-10-04T00:00:24+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:de0250e1-0963-49f6-91fa-1fa33cfe8528": {
+"cross": "zs|decision analytics associate|bethesda md",
+"first_seen": "2026-10-15T04:29:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:de1b7df6-c4f8-41ea-bdff-5598ed16df6d": {
 "cross": "tiktok|backend software engineer new grad trust safety|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -15412,8 +15452,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2200,
-"last_success": "2026-10-15T00:04:55+00:00"
+"count": 2201,
+"last_success": "2026-10-15T04:29:03+00:00"
 }
 }
 }
