@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-15T09:22:18+00:00",
+"last_run": "2026-10-15T14:22:48+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -7537,6 +7537,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:7ed33e96-4645-4b9d-8798-e6d7a35228a3": {
+"cross": "capgemini|engineering digital and technology solutions apprentice|telford uk",
+"first_seen": "2026-10-15T14:22:48+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:7f118e67-6b23-4e17-8063-f7852daee787": {
 "cross": "omnicom group|business analyst data and analytics|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9468,6 +9473,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:9eea2756-86a8-4a63-b1c1-4631d395dac9": {
+"cross": "amd|software system designer|markham on canada",
+"first_seen": "2026-10-15T14:22:48+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:9efe2b17-2ed5-4042-8a3e-cb27c0bb8c32": {
 "cross": "citi|junior software engineer generative ai platforms|london uk",
 "first_seen": "2026-10-08T19:24:16+00:00",
@@ -9600,6 +9610,11 @@
 "cross": "northrop grumman|associate software systems engineer software systems engineer|huntsville al",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "page": "3ecb0cb5-8078-811d-97aa-f866e623dd0f"
+},
+"SimplifyJobs:a0817041-bf54-415b-ac26-e4eefb5dc34d": {
+"cross": "stantec|junior environmental data analyst|calgary ab canada waterloo on canada",
+"first_seen": "2026-10-15T14:22:48+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:a09f224d-f684-4fb4-915b-6dbc5f486570": {
 "cross": "tiktok|machine learning engineer graduate e commerce recommendation mall|seattle wa",
@@ -13028,6 +13043,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:d99c1e84-901c-49a8-9b2b-7bf6f62850a1": {
+"cross": "capgemini|software engineer new grad|hove brighton and hove uk telford uk",
+"first_seen": "2026-10-15T14:22:48+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:d9ab191f-a642-4db2-9b5d-d6e566d0a2b8": {
 "cross": "arch|software engineer early careers|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14679,6 +14699,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f3c27242-85bc-4d24-acb5-70028e2c09c2": {
+"cross": "tiktok|backend engineer graduate social foundation|san jose ca",
+"first_seen": "2026-10-15T14:22:48+00:00",
+"page": "3fab0cb5-8078-817f-8e9d-e53c52f5c3a6",
+"score": 93,
+"score_v": 1
+},
 "SimplifyJobs:f3eaddd9-fdad-4fa6-9d9b-7f7026783526": {
 "cross": "intuitive surgical|data scientist|sunnyvale ca",
 "first_seen": "2026-10-13T23:05:17+00:00",
@@ -15462,8 +15489,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2100,
-"last_success": "2026-10-15T09:22:18+00:00"
+"count": 2074,
+"last_success": "2026-10-15T14:22:48+00:00"
 }
 }
 }
