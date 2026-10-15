@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-15T14:22:48+00:00",
+"last_run": "2026-10-15T18:36:20+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -11,6 +11,11 @@
 "rt": "Other SWE",
 "t": "RTX - Software Engineer 1 - Next Gen Systems",
 "u": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673"
+},
+{
+"rt": "Other SWE",
+"t": "Arcfield - Software Engineer 1",
+"u": "https://careers.arcfield.com/jobs/8780?icims=1"
 }
 ],
 "seen": {
@@ -537,6 +542,11 @@
 "cross": "johns hopkins applied physics laboratory|sensor systems data analytics new grad|laurel md",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:080ae20a-20b7-4971-8e68-70b02946bd25": {
+"cross": "boeing|associate simulation software engineer|crawley uk",
+"first_seen": "2026-10-15T18:36:20+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:0814e642-7467-4bf0-9147-c8fa8c854547": {
 "cross": "qualityai|project support coordinator|kirkland wa",
@@ -4483,6 +4493,11 @@
 "SimplifyJobs:4b1adb4b-1cb6-497c-9708-44e00d3f7ec3": {
 "cross": "crossmark|data collector|glen burnie md",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:4b1b1e85-54b1-4ae5-a45e-981beb99f72a": {
+"cross": "apple|generative ai research engineer siri speech|cambridge uk",
+"first_seen": "2026-10-15T18:36:20+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:4b22d036-3d08-41c6-8c11-48f020f7c545": {
@@ -8620,6 +8635,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:8fb0dded-666d-47fa-9cab-28bc7ada4f75": {
+"cross": "western alliance|engineer 1|dallas tx phoenix az",
+"first_seen": "2026-10-15T18:36:20+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:8fc69ae6-84a4-4d20-b6c8-84794a834567": {
 "cross": "johnson controls|software engineer nextgen|glendale wi",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8926,6 +8946,11 @@
 "cross": "weride|software engineer new grad algorithm|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:94d0210e-29ce-4a8c-9d29-b71d93621417": {
+"cross": "gas south|marketing analyst 1|atlanta ga gainesville fl",
+"first_seen": "2026-10-15T18:36:20+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:94d268ed-e8df-4894-94b2-2d401cb5075c": {
 "cross": "figure|humanoid robot operator|san jose ca",
@@ -12199,6 +12224,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:cc5f8f12-49b2-4ed7-a4ea-f15345eb95e7": {
+"cross": "boeing|associate simulation software engineer|crawley uk",
+"first_seen": "2026-10-15T18:36:20+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:cc7b9cd5-ba87-4685-b07f-c22f2a4a6a31": {
 "cross": "amazon|applied scientist global risk intelligence and prevention seller abuse prevention|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13659,6 +13689,13 @@
 "cross": "vanguard|technology leadership program investment systems|malvern pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:e3dc3916-c56e-4402-833e-d675b99b9d0c": {
+"cross": "arcfield|software engineer 1|rome ny",
+"first_seen": "2026-10-15T18:36:20+00:00",
+"page": "3fab0cb5-8078-8136-9e03-e784255a2913",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:e3e3594d-4b3e-49cc-b3db-5a0015281ace": {
 "cross": "nutanix|software engineer new grad master s bachelor s 2|vancouver bc canada",
@@ -15489,8 +15526,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2074,
-"last_success": "2026-10-15T14:22:48+00:00"
+"count": 2065,
+"last_success": "2026-10-15T18:36:20+00:00"
 }
 }
 }
