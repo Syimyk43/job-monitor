@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-15T04:29:03+00:00",
+"last_run": "2026-10-15T09:22:18+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -1459,6 +1459,11 @@
 "score": 48,
 "score_v": 1
 },
+"SimplifyJobs:19107d15-9629-4efe-b0f5-7e1cc38dd47d": {
+"cross": "microsoft|software engineer|redmond wa",
+"dup": true,
+"first_seen": "2026-10-15T09:22:18+00:00"
+},
 "SimplifyJobs:191bef07-9c08-4fff-8583-81c3ba0e6c30": {
 "cross": "lowe s|associate software engineer launchpad|charlotte nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -1998,6 +2003,11 @@
 "cross": "mastercard|software engineer launch program|toronto on canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:20d07359-e8a7-4c54-93bc-658acc3912c4": {
+"cross": "welo global|speech voice ai analyst|austin tx boston ma burlingame ca illinois la nyc redmond wa sf seattle wa sunnyvale ca washington dc",
+"first_seen": "2026-10-15T09:22:18+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:20d13b00-29e6-46f7-a36c-1b045a33bc61": {
 "cross": "spacex|software engineer new grad software application software|hawthorne ca",
@@ -15452,8 +15462,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2201,
-"last_success": "2026-10-15T04:29:03+00:00"
+"count": 2100,
+"last_success": "2026-10-15T09:22:18+00:00"
 }
 }
 }
