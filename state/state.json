@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-16T00:18:10+00:00",
-"pending_digest": [],
+"last_run": "2026-10-16T04:55:30+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Intuit - Software Engineer 1",
+"u": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -8758,6 +8764,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:9047dd23-9bb9-4503-8b3a-3792489b8b50": {
+"cross": "costar group|software engineer 1|sf",
+"first_seen": "2026-10-16T04:55:30+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:904b380c-a361-462b-b5d6-f954f2969657": {
 "cross": "extropic|machine learning resident|boston ma waltham ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -12744,6 +12755,13 @@
 "first_seen": "2026-10-08T23:55:12+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:d1f50127-9dc7-4b88-a4ae-bffdc7c84812": {
+"cross": "intuit|software engineer 1|atlanta ga charlotte nc mountain view ca nyc san diego ca",
+"first_seen": "2026-10-16T04:55:30+00:00",
+"page": "3fbb0cb5-8078-8121-8476-f19aa808b819",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:d1fb08e9-8a41-4dac-96ac-0d4d10389f26": {
 "cross": "sony|senior research engineer computer graphics next generation ai ml animation r d|culver city ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -15648,8 +15666,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2076,
-"last_success": "2026-10-16T00:18:10+00:00"
+"count": 2075,
+"last_success": "2026-10-16T04:55:30+00:00"
 }
 }
 }
