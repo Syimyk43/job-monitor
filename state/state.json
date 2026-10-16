@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-16T14:45:47+00:00",
+"last_run": "2026-10-16T18:45:36+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -11585,6 +11585,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:beae5fed-5dcf-4894-bb75-645072927b79": {
+"cross": "tesla|data collection operator optimus|dallas tx",
+"first_seen": "2026-10-16T18:45:36+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:bed7436e-6c48-4818-a11a-c314cfbf6574": {
 "cross": "roblox|software engineer early career|san mateo ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -12560,6 +12565,11 @@
 "dup": true,
 "first_seen": "2026-10-06T00:17:24+00:00"
 },
+"SimplifyJobs:cedd12d3-77e6-4199-a341-b19528cc9f0c": {
+"cross": "national bank of canada|junior analyst data corporate investment banking|montreal qc canada",
+"first_seen": "2026-10-16T18:45:36+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:cf068b34-e6f4-476f-b1bb-d855b35190e3": {
 "cross": "lseg|full stack developer graduate fullstack|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -12842,6 +12852,11 @@
 "page": "3f4b0cb5-8078-8104-8dcc-cb9c73d20038",
 "score": 73,
 "score_v": 1
+},
+"SimplifyJobs:d2fa06cd-8550-41f8-98c1-1ced0147ea65": {
+"cross": "avis budget group|graduate hr data analyst|bracknell uk",
+"first_seen": "2026-10-16T18:45:36+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:d314e733-083a-4e1a-84c6-ca380eafd2f8": {
 "cross": "deloitte|delivery analyst government public services business analytics solutions|gilbert az",
@@ -15710,8 +15725,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2067,
-"last_success": "2026-10-16T14:45:47+00:00"
+"count": 2066,
+"last_success": "2026-10-16T18:45:36+00:00"
 }
 }
 }
