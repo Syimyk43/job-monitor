@@ -1,11 +1,16 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-16T04:55:30+00:00",
+"last_run": "2026-10-16T09:41:08+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "Intuit - Software Engineer 1",
 "u": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536"
+},
+{
+"rt": "Other SWE",
+"t": "Axon - Software Engineer",
+"u": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003"
 }
 ],
 "seen": {
@@ -4816,6 +4821,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:4fa11d47-e066-4706-be18-9b9b784bcd1a": {
+"cross": "periodic labs|research scientist scaling rl|menlo park ca montreal qc canada",
+"first_seen": "2026-10-16T09:41:08+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:4facf975-ed39-44b8-87ef-bbd77bacfb31": {
 "cross": "nissan global|researcher 1|santa clara ca",
 "first_seen": "2026-10-04T00:00:24+00:00",
@@ -9402,6 +9412,13 @@
 "cross": "wells fargo|engineering associate cib operations technology|charlotte nc iselin woodbridge township nj",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:9ab5126a-5ff7-4eaa-9a53-cb901dc3185c": {
+"cross": "axon|software engineer|boston ma nyc scottsdale az seattle wa sterling va",
+"first_seen": "2026-10-16T09:41:08+00:00",
+"page": "3fbb0cb5-8078-81d0-8828-cacfaf25b443",
+"score": 48,
+"score_v": 1
 },
 "SimplifyJobs:9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9": {
 "cross": "adobe|software engineer new grad|austin tx lehi ut nyc sf san jose ca seattle wa",
@@ -15666,8 +15683,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2075,
-"last_success": "2026-10-16T04:55:30+00:00"
+"count": 2071,
+"last_success": "2026-10-16T09:41:08+00:00"
 }
 }
 }
