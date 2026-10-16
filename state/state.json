@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-16T09:41:08+00:00",
+"last_run": "2026-10-16T14:45:47+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -11,6 +11,11 @@
 "rt": "Other SWE",
 "t": "Axon - Software Engineer",
 "u": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003"
+},
+{
+"rt": "Other SWE",
+"t": "Visa - Software Engineer",
+"u": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W"
 }
 ],
 "seen": {
@@ -7234,6 +7239,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:774e9af4-befb-4743-b61d-6f1bc8e9a566": {
+"cross": "capgemini|graduate insights data consultant|birmingham uk cardiff uk london uk manchester uk woking uk",
+"first_seen": "2026-10-16T14:45:47+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:778cad11-117d-4c0a-a905-240bcef87a9b": {
 "cross": "content guru|graduate software developer|bracknell uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7874,6 +7884,11 @@
 "cross": "tiktok|software engineer graduate recommendation architecture feeds infrastructure|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:82c3e17d-b1b7-4c37-9aa1-e64089e53038": {
+"cross": "hewlett packard enterprise|software engineer block storage|bristol uk",
+"first_seen": "2026-10-16T14:45:47+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:82c69acd-73ca-4a6f-b334-fd16a295ccbf": {
 "cross": "apple|systems software engineer|san diego ca",
@@ -10806,6 +10821,11 @@
 "first_seen": "2026-10-04T12:14:46+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:b181d434-4520-480e-97cf-1114edbb9d60": {
+"cross": "hewlett packard enterprise|software engineer block storage|bristol uk",
+"first_seen": "2026-10-16T14:45:47+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:b1c4c75b-59e1-4db0-bd2e-c30923d15c15": {
 "cross": "wtw|graduate data analyst corporate risk broking|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -11296,6 +11316,13 @@
 "cross": "gabletek|librarian 3dexperience plm platform automotive|southfield mi",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:baa00ee8-4fec-4f3e-9df3-703c01b4b803": {
+"cross": "visa|software engineer|austin tx",
+"first_seen": "2026-10-16T14:45:47+00:00",
+"page": "3fbb0cb5-8078-81af-8d07-d2ef5fd5a79e",
+"score": 48,
+"score_v": 1
 },
 "SimplifyJobs:baafc75b-72b7-482d-83e0-8e160e58b927": {
 "cross": "tiktok|research scientist video generation intelligent creation|san jose ca",
@@ -15683,8 +15710,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2071,
-"last_success": "2026-10-16T09:41:08+00:00"
+"count": 2067,
+"last_success": "2026-10-16T14:45:47+00:00"
 }
 }
 }
