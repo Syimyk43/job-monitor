@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-17T19:16:25+00:00",
+"last_run": "2026-10-17T21:41:35+00:00",
 "pending_digest": [
 {
 "rt": "Platform",
@@ -16012,8 +16012,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2082,
-"last_success": "2026-10-17T19:16:25+00:00"
+"count": 2081,
+"last_success": "2026-10-17T21:41:35+00:00"
 }
 }
 }
