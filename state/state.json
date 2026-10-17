@@ -1,11 +1,21 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-17T04:55:43+00:00",
+"last_run": "2026-10-17T09:13:15+00:00",
 "pending_digest": [
 {
 "rt": "Platform",
 "t": "Faraday Future - SDK Platform Engineer",
 "u": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003"
+},
+{
+"rt": "Other SWE",
+"t": "Scientific Systems - Autonomy Software Engineer 1",
+"u": "https://apply.workable.com/ssci/j/B3FED12AAD/apply"
+},
+{
+"rt": "Platform",
+"t": "Flexcompute - Software Engineer - Infrastructure",
+"u": "https://apply.workable.com/flexcompute/j/143ECD1848/apply"
 }
 ],
 "seen": {
@@ -718,6 +728,11 @@
 "cross": "latitude ai|triage associate 1 platform triage|allen park mi palo alto ca pittsburgh pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:0a82dc54-725b-4222-9f22-2a0b904f79f8": {
+"cross": "the allen institute for ai|predoctoral young investigator open ecosystem|seattle wa",
+"first_seen": "2026-10-17T09:13:15+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:0aab8b93-7a94-4f09-9d83-ef3c13762e01": {
 "cross": "jobs for humanity|web search evaluator|jacksonville fl",
@@ -1860,6 +1875,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6": {
+"cross": "scientific systems|autonomy software engineer 1|burlington vt",
+"first_seen": "2026-10-17T09:13:15+00:00",
+"page": "3fcb0cb5-8078-81fb-8a03-dbeb9cbe2b93",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:1e93719f-be56-4b80-ade4-8960827c0469": {
 "cross": "palo alto networks|software engineer|california",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -1946,6 +1968,11 @@
 "cross": "klarity|ai backend engineer|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:1f95d992-0d39-478e-ad42-348e38ab6484": {
+"cross": "cloudfactory|video data capture for ai in construction|hutto tx",
+"first_seen": "2026-10-17T09:13:15+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:1fa68e98-48a1-464f-8d59-590a0c5a8dae": {
 "cross": "welo global|data labeling analyst speech voice ai|sf",
@@ -3906,6 +3933,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:3ff58ee3-57ee-4c32-bd77-33c440963c04": {
+"cross": "datavisor|software engineer|vancouver bc canada",
+"first_seen": "2026-10-17T09:13:15+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:3ff95d68-7985-49f9-9cd5-08275666f3d9": {
 "cross": "tiktok|machine learning scientist new grad trust and safety|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5843,6 +5875,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:5e801b15-781c-4f79-8630-11096eed5278": {
+"cross": "cvector|full stack software engineer 1 or 2|nyc",
+"first_seen": "2026-10-17T09:13:15+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:5e87f1f8-136a-428f-8aa1-393a88973479": {
 "cross": "johns hopkins applied physics laboratory|postdoctoral researcher in robotics and autonomous systems tailored autonomous systems group|laurel md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7374,6 +7411,13 @@
 "first_seen": "2026-10-17T00:21:11+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff": {
+"cross": "flexcompute|software engineer infrastructure|watertown ma",
+"first_seen": "2026-10-17T09:13:15+00:00",
+"page": "3fcb0cb5-8078-8183-ab97-c53c91a93ff6",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:78f040d4-9950-46c8-93de-a0a189144450": {
 "cross": "tiktok|machine learning engineer new grad data search visual search|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7648,6 +7692,11 @@
 "SimplifyJobs:7c7f9ce8-b069-42d1-b4d2-81f1e185889d": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|milwaukee wi",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:7ca735aa-9419-4bb3-aee2-59ff92b695e6": {
+"cross": "avalore|innovation engineer|arlington va",
+"first_seen": "2026-10-17T09:13:15+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:7cb90b67-c1af-4e1f-a9a9-e50dc88da299": {
@@ -15931,8 +15980,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2087,
-"last_success": "2026-10-17T04:55:43+00:00"
+"count": 2084,
+"last_success": "2026-10-17T09:13:15+00:00"
 }
 }
 }
