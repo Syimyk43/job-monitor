@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-18T09:01:48+00:00",
+"last_run": "2026-10-18T13:11:27+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -6988,6 +6988,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:72942882-0bfb-48a4-a88a-5cbf7e511932": {
+"cross": "leonardo|graduate software engineer|newcastle upon tyne uk",
+"first_seen": "2026-10-18T13:11:27+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:729e0655-7375-40c2-8743-9005bfda3209": {
 "cross": "mbda|operational analysis graduate programme|stevenage uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9987,6 +9992,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a10af0a6-a819-4543-af5b-03a215f28763": {
+"cross": "the hut group|graduate data insight analyst|manchester uk",
+"first_seen": "2026-10-18T13:11:27+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a10ca49c-25c2-42e5-971a-9e76f1b60fdb": {
 "cross": "simplisafe|software engineer 1 user systems|boston ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10099,6 +10109,11 @@
 "page": "3f4b0cb5-8078-811d-9fcb-d48427e89867",
 "score": 63,
 "score_v": 1
+},
+"SimplifyJobs:a2948d5d-0733-4548-8351-e4a5d082b4dd": {
+"cross": "tjx|it engineer graduate|watford uk",
+"first_seen": "2026-10-18T13:11:27+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:a29766ff-554e-4aea-82d5-a2a52d9a3c9c": {
 "cross": "pennsylvania state university|research assistant programmer yanxi liu|state college pa",
@@ -16001,8 +16016,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2077,
-"last_success": "2026-10-18T09:01:48+00:00"
+"count": 2078,
+"last_success": "2026-10-18T13:11:27+00:00"
 }
 }
 }
