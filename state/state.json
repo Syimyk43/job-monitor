@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-17T23:58:10+00:00",
+"last_run": "2026-10-18T04:19:54+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -3724,6 +3724,11 @@
 "cross": "figure|data quality analyst|san jose ca",
 "first_seen": "2026-10-13T23:05:17+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:3c77f02f-7923-4b6b-8141-fd3a96423118": {
+"cross": "leonardo|graduate software engineer|edinburgh uk",
+"first_seen": "2026-10-18T04:19:54+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:3c884079-cbcd-4502-8a43-cf5e5f314c4d": {
 "cross": "uk atomic energy authority|graduate knowledge engineer|abingdon uk",
@@ -15525,6 +15530,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f9df073e-edde-4591-9140-29bb70dd3691": {
+"cross": "leonardo|graduate test software engineer|edinburgh uk newcastle upon tyne uk",
+"first_seen": "2026-10-18T04:19:54+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:f9e63e18-4478-4ee4-944c-305f98a747b1": {
 "cross": "vivsoft technologies|front end developer|remote in usa",
 "first_seen": "2026-10-13T18:09:42+00:00",
@@ -15991,8 +16001,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2081,
-"last_success": "2026-10-17T23:58:10+00:00"
+"count": 2080,
+"last_success": "2026-10-18T04:19:54+00:00"
 }
 }
 }

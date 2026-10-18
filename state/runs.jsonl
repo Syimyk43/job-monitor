@@ -78,3 +78,4 @@
 {"time": "2026-10-17T19:16:25+00:00", "bootstrap": false, "fetched": 2082, "kept": 0, "created": 0, "dupes": 0, "skipped": {}, "errors": [], "backfilled": 0, "seconds": 1.1}
 {"time": "2026-10-17T21:41:35+00:00", "bootstrap": false, "fetched": 2081, "kept": 0, "created": 0, "dupes": 0, "skipped": {}, "errors": [], "backfilled": 0, "seconds": 0.2}
 {"time": "2026-10-17T23:58:10+00:00", "bootstrap": false, "fetched": 2081, "kept": 0, "created": 0, "dupes": 0, "skipped": {}, "errors": [], "backfilled": 0, "seconds": 0.7}
+{"time": "2026-10-18T04:19:54+00:00", "bootstrap": false, "fetched": 2080, "kept": 0, "created": 0, "dupes": 0, "skipped": {"non-US location": 2}, "errors": [], "backfilled": 0, "seconds": 0.2}
