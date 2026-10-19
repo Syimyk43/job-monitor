@@ -1,18 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-19T11:11:28+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "VTG - Junior Software Engineer",
-"u": "https://careers.vtgdefense.com/jobs/9669?icims=1"
-},
-{
-"rt": "Data Engineering",
-"t": "OSF HealthCare - Data Engineer 1",
-"u": "https://www.osfcareers.org/jobs/112750?icims=1"
-}
-],
+"last_run": "2026-10-19T17:43:42+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -722,6 +711,13 @@
 "first_seen": "2026-10-17T00:21:11+00:00",
 "page": "3fcb0cb5-8078-818d-830f-f04c0ffe1846",
 "score": 63,
+"score_v": 1
+},
+"SimplifyJobs:0a4cd2e5-65b4-4298-ab71-d0c7705a376c": {
+"cross": "citizens financial group|software engineer 1|johnston ri",
+"first_seen": "2026-10-19T17:43:42+00:00",
+"page": "3feb0cb5-8078-811e-afe4-d01d11073939",
+"score": 73,
 "score_v": 1
 },
 "SimplifyJobs:0a4ddd3e-fd39-4c8e-b938-939631cad5df": {
@@ -6215,6 +6211,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:6396db23-aa49-4c70-b941-411baa6626f6": {
+"cross": "leonardo|graduate software engineer|luton uk",
+"first_seen": "2026-10-19T17:43:42+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:63b734f3-ef25-4f57-bf17-32b0036f8b43": {
 "cross": "tiktok|machine learning engineer graduate app ads and gaming|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6718,6 +6719,11 @@
 "SimplifyJobs:6bd34346-4e1e-4d5b-8ba1-9f643f4e6571": {
 "cross": "conviva|ai ml engineer|foster city ca",
 "first_seen": "2026-10-19T11:11:28+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:6bd9b720-b688-4436-b0fe-a96710105de2": {
+"cross": "sallie mae|engineer 1|indianapolis in",
+"first_seen": "2026-10-19T17:43:42+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:6c3fb746-2d33-44e9-b97d-ada170e96ef0": {
@@ -7788,6 +7794,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:7da86929-8396-4214-8250-79bcaeaa609d": {
+"cross": "mariana minerals|analytical lab chemist|moab ut",
+"first_seen": "2026-10-19T17:43:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:7dbe9685-0792-4856-ab07-9f72967defd3": {
 "cross": "garmin|software engineer 1 android|yarmouth me",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8319,6 +8330,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:862fbdb7-6487-4764-90d9-007607410271": {
+"cross": "leonardo|digital and data graduate|yeovil uk",
+"first_seen": "2026-10-19T17:43:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:865bf71e-5c86-49eb-a0c8-9f04b6ed9aeb": {
 "cross": "interdigital|research engineer 6g ai enabled systems and testbeds|conshohocken pa",
 "first_seen": "2026-10-03T02:17:37+00:00",
@@ -8532,6 +8548,11 @@
 "cross": "sift|software engineer new grad|marina del rey ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:8982c276-3471-4e45-b3d4-15d35b2c5de3": {
+"cross": "wise|graduate product analyst|london uk",
+"first_seen": "2026-10-19T17:43:42+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:89b5d725-a59f-4eb3-9e08-476905ff182c": {
 "cross": "sajix|machine learning engineer trainee|pleasanton ca",
@@ -9284,6 +9305,11 @@
 "SimplifyJobs:9456de54-4372-4974-ba32-7633e24ac927": {
 "cross": "dellfor technologies|entry level net developer|minnesota",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "non-US location"
+},
+"SimplifyJobs:945d226f-b0df-4b79-adae-78707211dc8e": {
+"cross": "northrop grumman|software engineer|cheltenham uk",
+"first_seen": "2026-10-19T17:43:42+00:00",
 "skip": "non-US location"
 },
 "SimplifyJobs:948069a6-1ba7-4d4e-a5ad-e2910de7f5f1": {
@@ -10173,6 +10199,11 @@
 "SimplifyJobs:a29766ff-554e-4aea-82d5-a2a52d9a3c9c": {
 "cross": "pennsylvania state university|research assistant programmer yanxi liu|state college pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:a2a16702-d4f6-4606-8b38-ff0306553401": {
+"cross": "pa consulting|graduate digital data analyst|manchester uk",
+"first_seen": "2026-10-19T17:43:42+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:a2b45a60-8ee3-4c7a-9e53-e95d40fb400c": {
@@ -13960,6 +13991,11 @@
 "first_seen": "2026-10-05T18:20:45+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:e00648e9-b709-449f-beb7-10dafb402e04": {
+"cross": "unilever|unilever future leadership programme data analytics|united kingdom",
+"first_seen": "2026-10-19T17:43:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:e03373d5-4e12-4466-bfdd-b4ad5a3b13f5": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|chicago il",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -15667,6 +15703,11 @@
 "first_seen": "2026-10-15T00:04:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:fa9a97e6-f7c0-4329-9d92-42fc2fd0acc5": {
+"cross": "wise|graduate software engineer|london uk",
+"first_seen": "2026-10-19T17:43:42+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:fabf124a-32b2-45ba-bffe-d3084937296a": {
 "cross": "cerebras|kernel engineer new grad|canada united states",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -15712,6 +15753,11 @@
 "SimplifyJobs:fb2fd973-c7de-4896-a1c6-084a21476b8c": {
 "cross": "rainmaker|atmospheric science fellow atmospheric science|el segundo ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:fb375314-d4b3-4782-ae9a-bfb535164144": {
+"cross": "porsche|advisor business analyst|reading uk",
+"first_seen": "2026-10-19T17:43:42+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:fb6054b8-38c4-4fee-8021-d1997d1a55d1": {
@@ -16071,8 +16117,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2076,
-"last_success": "2026-10-19T11:11:28+00:00"
+"count": 2074,
+"last_success": "2026-10-19T17:43:42+00:00"
 }
 }
 }
