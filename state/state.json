@@ -1,11 +1,16 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-19T05:14:03+00:00",
+"last_run": "2026-10-19T11:11:28+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "VTG - Junior Software Engineer",
 "u": "https://careers.vtgdefense.com/jobs/9669?icims=1"
+},
+{
+"rt": "Data Engineering",
+"t": "OSF HealthCare - Data Engineer 1",
+"u": "https://www.osfcareers.org/jobs/112750?icims=1"
 }
 ],
 "seen": {
@@ -64,6 +69,11 @@
 "SimplifyJobs:00c8a44c-b8b7-434e-a8d7-da14940b8617": {
 "cross": "apex service partners|business intelligence analyst data analytics|tampa fl",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:00d9b277-bd9c-4738-a9dd-dc41fb214de6": {
+"cross": "pa consulting|graduate analyst digital digital data|bristol uk",
+"first_seen": "2026-10-19T11:11:28+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:00e9ac82-474b-46a0-bc46-aa9e240f3efd": {
@@ -314,6 +324,11 @@
 "SimplifyJobs:04af52ae-d053-4a93-8927-e281a49801e6": {
 "cross": "newrez|data product engineering operations specialist multiple teams|coppell tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:04f19d9e-583b-4508-8c9a-b60f84d7de84": {
+"cross": "pa consulting|digital graduate analyst digital data|london uk",
+"first_seen": "2026-10-19T11:11:28+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:04fe7777-df0d-4f23-81c1-360665b5e106": {
@@ -2217,6 +2232,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:22d264c1-a7cc-4340-a28d-c5cdad8ca6bd": {
+"cross": "expedia group|data scientist 1 competitive intelligence|london uk",
+"first_seen": "2026-10-19T11:11:28+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:22d2ca38-32fd-4f0c-9358-01e40037ac66": {
 "cross": "cgs federal contact government services|servicenow architect sna junior|washington dc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3166,6 +3186,11 @@
 "cross": "normal computing|ai research resident|london uk nyc palo alto ca",
 "first_seen": "2026-10-02T13:47:44+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:316c2d00-0f12-44d3-a120-dec7324caeff": {
+"cross": "huntington ingalls industries|software engineer 1|newport news va",
+"dup": true,
+"first_seen": "2026-10-19T11:11:28+00:00"
 },
 "SimplifyJobs:3178144b-682a-48f0-945e-9641657fe6f8": {
 "cross": "uk atomic energy authority|graduate advanced control engineer|abingdon uk",
@@ -5581,6 +5606,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:5a59f0ee-1571-4abb-9f4a-04fb4914313a": {
+"cross": "osf healthcare|data engineer 1|peoria il",
+"first_seen": "2026-10-19T11:11:28+00:00",
+"page": "3feb0cb5-8078-816f-9631-c5e6771c08da",
+"score": 79,
+"score_v": 1
+},
 "SimplifyJobs:5a8a7ba1-2464-4dc8-995e-4cd08627650e": {
 "cross": "tesla|data collection operator optimus|doral fl",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6683,6 +6715,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:6bd34346-4e1e-4d5b-8ba1-9f643f4e6571": {
+"cross": "conviva|ai ml engineer|foster city ca",
+"first_seen": "2026-10-19T11:11:28+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:6c3fb746-2d33-44e9-b97d-ada170e96ef0": {
 "cross": "aiprise|software engineer 1|san jose ca",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -6794,6 +6831,11 @@
 "cross": "palo alto networks|software engineer|california",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:6e69dbab-f1c4-4514-9cef-dcd5e034f435": {
+"cross": "wise|graduate data scientist|london uk",
+"first_seen": "2026-10-19T11:11:28+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:6e73751b-f8d2-41eb-9763-88e3598670e5": {
 "cross": "collaborative robotics|robotics assistant|santa clara ca",
@@ -16029,8 +16071,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2078,
-"last_success": "2026-10-19T05:14:03+00:00"
+"count": 2076,
+"last_success": "2026-10-19T11:11:28+00:00"
 }
 }
 }
