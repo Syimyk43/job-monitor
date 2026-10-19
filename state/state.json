@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-18T21:47:58+00:00",
-"pending_digest": [],
+"last_run": "2026-10-19T00:09:03+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "VTG - Junior Software Engineer",
+"u": "https://careers.vtgdefense.com/jobs/9669?icims=1"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -2174,6 +2180,13 @@
 "cross": "vanguard|technology leadership program application development|dallas tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9": {
+"cross": "vtg|junior software engineer|hanover md",
+"first_seen": "2026-10-19T00:09:03+00:00",
+"page": "3feb0cb5-8078-81f2-bac6-cbc16aed48c5",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:22a10269-db51-459d-b8ce-872e7a7ac070": {
 "cross": "hardin design|entry level web developer|madison wi",
@@ -16016,8 +16029,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2075,
-"last_success": "2026-10-18T21:47:58+00:00"
+"count": 2076,
+"last_success": "2026-10-19T00:09:03+00:00"
 }
 }
 }
