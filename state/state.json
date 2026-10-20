@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-20T06:31:47+00:00",
+"last_run": "2026-10-20T12:03:08+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -350,6 +350,11 @@
 "SimplifyJobs:0541ea68-a2d7-4fe4-b3e4-f7e4d677fe3c": {
 "cross": "domino s|customer service representative|the colony tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:0557e7b9-859d-4a33-a43e-21e7ff5bb8ab": {
+"cross": "chubb|technology associate|jersey city nj philadelphia pa",
+"first_seen": "2026-10-20T12:03:08+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:056b26ef-e0ea-46b5-a9b5-ee49aeb48aff": {
@@ -1326,6 +1331,11 @@
 "cross": "atlassian|software engineer new grad 2027 graduate|burnaby bc canada richmond bc canada vancouver bc canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:14dca508-6481-402d-a5d6-943f5efb9a58": {
+"cross": "intel|cad eda tools software engineer|hillsboro or",
+"first_seen": "2026-10-20T12:03:08+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:14eefce4-0a45-415b-94b9-1a24d1a0729d": {
 "cross": "the aerospace corporation|communications and architecture analyst|chantilly va colorado springs co el segundo ca",
@@ -3034,6 +3044,11 @@
 "cross": "tiktok|machine learning engineer graduate brand ads|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:2ec2d3b8-1016-4a8d-9dcf-b9f16abe4c6d": {
+"cross": "fortinet|senior software developer|burnaby bc canada",
+"first_seen": "2026-10-20T12:03:08+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:2ec98858-3652-4512-8a10-1c0e588bac28": {
 "cross": "applied materials|data scientist new grad bachelor s master s|austin tx",
@@ -4804,6 +4819,11 @@
 "cross": "caci|junior c software engineer|bethesda md",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "citizenship/clearance required"
+},
+"SimplifyJobs:4d3bf7a0-d637-4f21-8c80-06621d2022bf": {
+"cross": "fortinet|embedded software developer|burnaby bc canada",
+"first_seen": "2026-10-20T12:03:08+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:4d438c3b-47f9-456f-af8e-c67ed0178519": {
 "cross": "bytedance|machine learning engineer graduate agent evaluation evolution|san jose ca",
@@ -8439,6 +8459,11 @@
 "first_seen": "2026-10-19T17:43:42+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:8638d86d-9f3a-4759-b7fc-cf57e0ab7815": {
+"cross": "fortinet|senior software development engineer|sunnyvale ca",
+"first_seen": "2026-10-20T12:03:08+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:865bf71e-5c86-49eb-a0c8-9f04b6ed9aeb": {
 "cross": "interdigital|research engineer 6g ai enabled systems and testbeds|conshohocken pa",
 "first_seen": "2026-10-03T02:17:37+00:00",
@@ -9297,6 +9322,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:92c26057-9592-415c-b861-32bd0ce19d43": {
+"cross": "meticulous|forward deployed engineer new grad|london uk",
+"first_seen": "2026-10-20T12:03:08+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:92c6183d-d851-4394-b104-02bfa42a14e0": {
 "cross": "noblis|data analyst|mclean va",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9531,6 +9561,11 @@
 "SimplifyJobs:9682b9f6-49b4-4232-b676-470ac9b9e96f": {
 "cross": "hp inc|software applications engineer|fort collins co",
 "first_seen": "2026-10-20T01:12:56+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:9688e18b-53f3-4354-aea8-0f59f30f3431": {
+"cross": "schonfeld|ai engineer|nyc",
+"first_seen": "2026-10-20T12:03:08+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:96b88f42-fdea-4557-a58f-4847e5ce71d3": {
@@ -11625,6 +11660,11 @@
 "cross": "kbr|jr systems engineer digital engineering course development|chantilly va",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:b8b208fc-1a24-46b3-a41b-b69249a8b359": {
+"cross": "mendix|intelligence center x engineer|cologne germany france frankfurt germany london uk munich germany nuremberg germany paris france rotterdam netherlands stuttgart germany",
+"first_seen": "2026-10-20T12:03:08+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:b908c691-218d-4fdb-9181-fec0f285cd35": {
 "cross": "general dynamics mission systems|systems engineer fcswg process master|pittsfield ma",
@@ -14991,6 +15031,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:eca1024e-adc2-4413-964d-c0c4d61d2a5f": {
+"cross": "fortinet|software development engineer|santa clara ca",
+"first_seen": "2026-10-20T12:03:08+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:eca8ea10-de85-4351-8b0b-063c1196b4da": {
 "cross": "ccc intelligent solutions|financial intelligence analyst financial intelligence|chicago il",
 "first_seen": "2026-10-09T23:10:31+00:00",
@@ -15901,6 +15946,11 @@
 "first_seen": "2026-10-15T00:04:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:fa86f83b-d953-4b1c-96dd-dfd4c96de55b": {
+"cross": "saalex|junior data integrity engineer avionics software data analysis|patuxent river md",
+"first_seen": "2026-10-20T12:03:08+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:fa9a97e6-f7c0-4329-9d92-42fc2fd0acc5": {
 "cross": "wise|graduate software engineer|london uk",
 "first_seen": "2026-10-19T17:43:42+00:00",
@@ -16325,8 +16375,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2075,
-"last_success": "2026-10-20T06:31:47+00:00"
+"count": 2076,
+"last_success": "2026-10-20T12:03:08+00:00"
 }
 }
 }
