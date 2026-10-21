@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-21T07:28:49+00:00",
+"last_run": "2026-10-21T13:10:35+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -16,6 +16,11 @@
 "rt": "Platform",
 "t": "Amazon - Software Development Engineer 1 - AI/ML Network Infrastructure",
 "u": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
+},
+{
+"rt": "Other SWE",
+"t": "Cincinnati Children\u2019s Hospital and Medical Center - Software Developer 1 - Psychiatry",
+"u": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Developer-I_JR223867"
 }
 ],
 "seen": {
@@ -2205,6 +2210,13 @@
 "first_seen": "2026-10-06T00:17:24+00:00",
 "page": "3f1b0cb5-8078-812a-924b-cfa9d63166ea",
 "score": 73,
+"score_v": 1
+},
+"SimplifyJobs:21891d00-3597-4abe-b856-02cb924e0f6c": {
+"cross": "cincinnati children s hospital and medical center|software developer 1 psychiatry|cincinnati oh",
+"first_seen": "2026-10-21T13:10:35+00:00",
+"page": "400b0cb5-8078-8174-bebc-f7a11927c635",
+"score": 58,
 "score_v": 1
 },
 "SimplifyJobs:218ed5a9-b0c2-4de1-a692-7c2c9a16e0fb": {
@@ -6991,6 +7003,11 @@
 "page": "3f1b0cb5-8078-8174-ba99-de4dddbc6ca3",
 "score": 73,
 "score_v": 1
+},
+"SimplifyJobs:6d99930e-e83d-4504-b53f-6c1b9a8698a5": {
+"cross": "omnicom group|senior director data science|chicago il la nyc sf",
+"first_seen": "2026-10-21T13:10:35+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:6df5e739-1248-4b50-b721-fd0c87a900e0": {
 "cross": "hewlett packard enterprise|data science new grad|andover ma bloomington mn chippewa falls wi durham nc fort collins co roseville ca san jose ca spring tx sunnyvale ca westford ma",
@@ -16687,8 +16704,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2099,
-"last_success": "2026-10-21T07:28:49+00:00"
+"count": 2092,
+"last_success": "2026-10-21T13:10:35+00:00"
 }
 }
 }
