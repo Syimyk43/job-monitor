@@ -1,11 +1,21 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-21T01:57:32+00:00",
+"last_run": "2026-10-21T07:28:49+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "NVIDIA - Software Engineer New Grad - Agent Performance Modeling",
 "u": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350"
+},
+{
+"rt": "Platform",
+"t": "Rhoda AI - Software Engineer - Rhoda Platform",
+"u": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true"
+},
+{
+"rt": "Platform",
+"t": "Amazon - Software Development Engineer 1 - AI/ML Network Infrastructure",
+"u": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
 }
 ],
 "seen": {
@@ -914,6 +924,11 @@
 "cross": "blue origin|robotics engineer 1|washington",
 "first_seen": "2026-10-13T03:09:52+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:0e335514-6e0b-4932-bba0-5e2e0d8c9375": {
+"cross": "mach9|software engineer 3d graphics|sf",
+"first_seen": "2026-10-21T07:28:49+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:0e385efe-84ce-47c9-8c1a-c3064dd1c7bd": {
 "cross": "analytic partners|marketing science analyst|denver co",
@@ -2582,6 +2597,13 @@
 "score": 73,
 "score_v": 1
 },
+"SimplifyJobs:26d84509-a16b-4556-99f7-18329fa61191": {
+"cross": "amazon|software development engineer 1 ai ml network infrastructure|cupertino ca",
+"first_seen": "2026-10-21T07:28:49+00:00",
+"page": "400b0cb5-8078-819c-8911-fc7b21262292",
+"score": 90,
+"score_v": 1
+},
 "SimplifyJobs:26f3c78f-dda8-42c5-95af-0b4294303214": {
 "cross": "interimage|full stack developer entry associate level|columbia md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3686,6 +3708,13 @@
 "cross": "alliancebernstein|developer wealth planning tools wealth forecasting system|nashville tn",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:38f6c73a-c860-438a-b2f5-f67b9e0e1d53": {
+"cross": "rhoda ai|software engineer rhoda platform|mountain view ca",
+"first_seen": "2026-10-21T07:28:49+00:00",
+"page": "400b0cb5-8078-81ad-98fb-c7d50ea97e12",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:3909031b-a185-414c-b03c-bc202f0695db": {
 "cross": "mbda|simulation and modelling engineer new grad|bristol uk stevenage uk",
@@ -9607,6 +9636,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:95049413-d496-4bfa-9d12-e16f926251e5": {
+"cross": "blue cross of idaho|ai engineer 1|meridian id",
+"first_seen": "2026-10-21T07:28:49+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:952bbac0-18af-4767-b6a2-6d9e3639a5af": {
 "cross": "charles schwab|software development and engineering associate wealth and advice solutions technology|austin tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -11369,6 +11403,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:b066e806-d56d-4915-a26e-bd7c3461144f": {
+"cross": "storable|software development engineer|seattle wa",
+"first_seen": "2026-10-21T07:28:49+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:b06a41a5-fd2e-44d7-977b-811778f66053": {
 "cross": "northrop grumman|modeling and simulation engineer|el segundo ca",
 "first_seen": "2026-10-06T19:47:13+00:00",
@@ -11569,6 +11608,11 @@
 "SimplifyJobs:b3b345f1-09df-4662-9599-550ea9653c34": {
 "cross": "tiktok|large language model post training engineer graduate research product|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:b3dc0fe4-e07d-4a79-ac44-eddaf4d4abd0": {
+"cross": "wellmark|data wrangler|des moines ia",
+"first_seen": "2026-10-21T07:28:49+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:b3e51016-8050-47fa-940c-069ff6f6b730": {
@@ -15009,6 +15053,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:e7be217f-fe8f-47ee-a0f5-bb01d5ad5782": {
+"cross": "axos bank|data engineer|san diego ca",
+"dup": true,
+"first_seen": "2026-10-21T07:28:49+00:00"
+},
 "SimplifyJobs:e7dc5edb-b756-476f-8e46-5d2797edfabe": {
 "cross": "truveta|software engineer security trust|seattle wa",
 "first_seen": "2026-10-15T00:04:55+00:00",
@@ -16639,7 +16688,7 @@
 "sources": {
 "simplify": {
 "count": 2099,
-"last_success": "2026-10-21T01:57:32+00:00"
+"last_success": "2026-10-21T07:28:49+00:00"
 }
 }
 }
