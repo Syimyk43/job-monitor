@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-21T13:10:35+00:00",
+"last_run": "2026-10-21T18:14:11+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -782,6 +782,11 @@
 "cross": "jobs for humanity|web search evaluator|jacksonville fl",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:0ac04b5c-cd94-4e69-b532-c62eb19b9fa9": {
+"cross": "nvidia|system software engineer automotive cybersecurity tegra security software|bristol uk cambridge uk",
+"first_seen": "2026-10-21T18:14:11+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:0ac8d16a-aff6-441a-8c33-c5adbfafb7d7": {
 "cross": "equifax|data analytics rotational development program associate|alpharetta ga",
@@ -3639,6 +3644,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:3700f49d-fa9a-4dce-8288-7e828433d6ac": {
+"cross": "provectus|associate forward deployed engineer|nyc",
+"dup": true,
+"first_seen": "2026-10-21T18:14:11+00:00"
+},
 "SimplifyJobs:37136fd4-099f-4274-9089-5506ab49a026": {
 "cross": "sim|forward deployed engineer|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4709,6 +4719,11 @@
 "cross": "bytedance|backend development engineer graduate infrastructure platform delivery|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:499eed21-6c70-456b-baa2-1ef4468de5f0": {
+"cross": "ekimetrics|junior data scientist marketing effectiveness|london uk",
+"first_seen": "2026-10-21T18:14:11+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:49a6eea9-f3b2-4c8a-bcb9-73f0f684a0af": {
 "cross": "szns solutions|entry level software engineer|reston va",
@@ -9407,6 +9422,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:918d30c3-15c3-40d4-9b7e-046d5b46152c": {
+"cross": "frost|trust programmer analyst 1|san antonio tx",
+"first_seen": "2026-10-21T18:14:11+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:91908e47-ddd5-4fdd-808c-fb96be1be829": {
 "cross": "thales|ai researcher apprentice level 6 machine learning|crawley uk",
 "first_seen": "2026-10-05T01:53:08+00:00",
@@ -10757,6 +10777,11 @@
 "cross": "roblox|senior machine learning engineer phd early career|san mateo ca",
 "first_seen": "2026-10-08T23:55:12+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:a5f953d4-6f48-46be-b3ba-cc24b0333e17": {
+"cross": "thorlabs|data analyst 1|newton nj",
+"first_seen": "2026-10-21T18:14:11+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:a6073bae-f61c-4b98-a8b6-1a59e7f2d8bd": {
 "cross": "tsmg|robotics ai data collection operator|lafayette ks",
@@ -16071,6 +16096,11 @@
 "first_seen": "2026-10-06T00:17:24+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f699a7ca-d227-4c2b-9b7b-57a806b3100c": {
+"cross": "adler allan|environmental monitoring apprentice|nelson uk",
+"first_seen": "2026-10-21T18:14:11+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:f6c49c8b-3945-40eb-8940-91af8eb8e707": {
 "cross": "field ai|robotics engineer humanoid system integration|irvine ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -16704,8 +16734,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2092,
-"last_success": "2026-10-21T13:10:35+00:00"
+"count": 2073,
+"last_success": "2026-10-21T18:14:11+00:00"
 }
 }
 }
