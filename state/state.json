@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-21T18:14:11+00:00",
+"last_run": "2026-10-21T21:57:07+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -16734,8 +16734,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2073,
-"last_success": "2026-10-21T18:14:11+00:00"
+"count": 2062,
+"last_success": "2026-10-21T21:57:07+00:00"
 }
 }
 }
