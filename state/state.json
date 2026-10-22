@@ -1,18 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-22T11:40:44+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "RTX - Software Engineer 2",
-"u": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-II--Onsite-_01883050"
-},
-{
-"rt": "Full Stack",
-"t": "Kearney - Full Stack Developer",
-"u": "https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JX"
-}
-],
+"last_run": "2026-10-22T17:04:05+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -3375,6 +3364,11 @@
 "first_seen": "2026-10-09T18:47:19+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:319cbcee-d50c-4be3-965d-86b2c09bdc4a": {
+"cross": "computershare|graduate ai engineer|bristol uk",
+"first_seen": "2026-10-22T17:04:05+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:31bd649f-d357-4816-9f4f-d991ca04c596": {
 "cross": "captivation|software engineer 0 multiple teams|annapolis junction md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5711,6 +5705,11 @@
 "score": 58,
 "score_v": 1
 },
+"SimplifyJobs:57c3e597-0998-4bdd-93ed-9ff2e7e67cee": {
+"cross": "computershare|graduate ai engineer|edinburgh uk",
+"first_seen": "2026-10-22T17:04:05+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:57f4a033-f0ed-4ca1-a46f-e084010c71f3": {
 "cross": "chicago trading company|associate engineer|chicago il nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6493,6 +6492,11 @@
 "SimplifyJobs:6338ff56-8ab1-4562-91a9-55a52372041a": {
 "cross": "livescore group|casino graduate insights analyst|london uk",
 "first_seen": "2026-10-22T00:37:11+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:636691a8-a377-4b9f-9540-af9a315361cc": {
+"cross": "r1 rcm|machine learning engineer|nyc remote in usa",
+"first_seen": "2026-10-22T17:04:05+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:6373ead5-4887-46e5-a38a-d348c881770f": {
@@ -9477,6 +9481,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:90126943-996a-4235-bb88-26c2405d1cde": {
+"cross": "n1 health|associate data ops engineer|boston ma",
+"first_seen": "2026-10-22T17:04:05+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:90326487-43c7-4181-ac71-44e331484bf4": {
 "cross": "salesforce|software engineer college grad|bellevue wa dallas tx indianapolis in palo alto ca sf seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -12067,6 +12076,11 @@
 "first_seen": "2026-10-10T02:41:08+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:b81f0d85-3704-4a61-ba56-733b528bd6ba": {
+"cross": "td bank|technology new grad|belfast uk",
+"first_seen": "2026-10-22T17:04:05+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:b8351f3d-ebec-4c3d-8709-81a2cb4edf2d": {
 "cross": "the campbell s company|deductions analyst|hanover pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13564,6 +13578,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:ceafe55a-b038-4f84-97a8-40d747032438": {
+"cross": "draper|software machine learning engineer gnss software defined radio|cambridge ma",
+"first_seen": "2026-10-22T17:04:05+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:cec36906-9fef-4814-9cda-ebc1501ab28e": {
 "cross": "rtx|software engineer 1|cedar rapids ia",
 "dup": true,
@@ -13629,6 +13648,13 @@
 "cross": "microsoft|member of technical staff platform|redmond wa",
 "first_seen": "2026-10-20T23:21:07+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:cfb5c410-4f53-4c7d-ac5a-eafa72cfbe58": {
+"cross": "leidos|electronic warfare software engineer|huntsville al",
+"first_seen": "2026-10-22T17:04:05+00:00",
+"page": "401b0cb5-8078-8125-855c-ec2163928600",
+"score": 23,
+"score_v": 1
 },
 "SimplifyJobs:cfb9fca3-22b5-49d5-aa22-bdb43af80cbb": {
 "cross": "vanasse hangen brustlin|transportation safety analyst|charlotte nc raleigh nc washington dc",
@@ -16252,6 +16278,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f584c833-524b-45c1-916a-90515c42559c": {
+"cross": "mayo clinic|associate data science analyst|jacksonville fl",
+"first_seen": "2026-10-22T17:04:05+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:f5899221-db12-4026-a976-4ea6742899cc": {
 "cross": "true anomaly|software engineer 1 new grad perception|denver co long beach ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -16969,8 +17000,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2082,
-"last_success": "2026-10-22T11:40:44+00:00"
+"count": 2076,
+"last_success": "2026-10-22T17:04:05+00:00"
 }
 }
 }
