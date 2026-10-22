@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-22T06:01:32+00:00",
-"pending_digest": [],
+"last_run": "2026-10-22T11:40:44+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "RTX - Software Engineer 2",
+"u": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-II--Onsite-_01883050"
+},
+{
+"rt": "Full Stack",
+"t": "Kearney - Full Stack Developer",
+"u": "https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JX"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1075,6 +1086,11 @@
 "cross": "obvio|video data annotator|salt lake city ut",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:101d6598-2e85-4e94-89dd-6aaf227ae221": {
+"cross": "petfolk|strategy lead ai ai operations medops|nyc",
+"first_seen": "2026-10-22T11:40:44+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:10282be3-6654-440b-8bd2-74329d579fb0": {
 "cross": "starbucks|application developer application development|seattle wa",
@@ -2436,6 +2452,13 @@
 "first_seen": "2026-10-13T23:05:17+00:00",
 "page": "3f8b0cb5-8078-8191-970e-c27942cdbb90",
 "score": 81,
+"score_v": 1
+},
+"SimplifyJobs:23c417dd-4a2d-4c26-a7d1-380d2a7f24fe": {
+"cross": "rtx|software engineer 2|west valley city ut",
+"first_seen": "2026-10-22T11:40:44+00:00",
+"page": "401b0cb5-8078-816c-9cb9-cc426742daf1",
+"score": 28,
 "score_v": 1
 },
 "SimplifyJobs:23ce9adc-a57c-4d91-a4cc-2228d91a6350": {
@@ -5229,6 +5252,11 @@
 "first_seen": "2026-10-09T23:10:31+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:506eb155-e5c6-4192-abc5-fe5c6c71310b": {
+"cross": "td bank|technology new grad|london uk",
+"first_seen": "2026-10-22T11:40:44+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:5077be7d-bf97-4e0b-8fad-8674bf28d206": {
 "cross": "klaviyo|software engineer 1|boston ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7933,6 +7961,11 @@
 "first_seen": "2026-10-20T23:21:07+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:7a81fe60-44f7-45e8-87de-aedbc27b7a73": {
+"cross": "cruise planners|data ai engineer|coral springs fl",
+"first_seen": "2026-10-22T11:40:44+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:7a9df6f7-6085-43b4-ad7e-c3426ad5d305": {
 "cross": "analog devices|product engineer product development|durham nc wilmington ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9290,6 +9323,11 @@
 "first_seen": "2026-10-20T16:53:20+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:8e041bd2-6931-44d4-bceb-82bc73062c1f": {
+"cross": "sight machine|platform backend engineer|sf",
+"first_seen": "2026-10-22T11:40:44+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:8e1c4d71-6011-41b4-8948-e9bef181663f": {
 "cross": "rtx|software developer engineer 1|huntsville al",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10322,6 +10360,13 @@
 "cross": "universal health services|associate software engineer fsi|king of prussia pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:9e130b58-5f39-4a5b-b464-85ddbc71940d": {
+"cross": "kearney|full stack developer|arlington county arlington va boston ma washington dc",
+"first_seen": "2026-10-22T11:40:44+00:00",
+"page": "401b0cb5-8078-813c-817f-d66af4e9b49e",
+"score": 50,
+"score_v": 1
 },
 "SimplifyJobs:9e276b36-0027-450c-b77d-ba9d4664b668": {
 "cross": "avalore|ai ml engineer|arlington county arlington va",
@@ -11741,6 +11786,11 @@
 "cross": "baton corporation|junior full stack engineer|new york ny",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:b36db06e-f66e-4697-a44b-032cd14a252b": {
+"cross": "welo global|speech voice ai analyst arabic speakers|austin tx boston ma burlingame ca la nyc redmond wa sf seattle wa sunnyvale ca washington dc",
+"first_seen": "2026-10-22T11:40:44+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:b37d1cfc-7588-4b51-ad97-c99036d87f60": {
 "cross": "tesla|data labeler|draper ut",
@@ -15837,6 +15887,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:f0af7b08-4219-47f9-bdb7-9ff2e900dcc8": {
+"cross": "amazon|software development engineer 1 ai ml network infrastructure|cupertino ca",
+"dup": true,
+"first_seen": "2026-10-22T11:40:44+00:00"
+},
 "SimplifyJobs:f0c09f25-6461-4b5e-8bce-950aa917c086": {
 "cross": "sigma computing|software engineer new grad|nyc sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -16914,8 +16969,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2087,
-"last_success": "2026-10-22T06:01:32+00:00"
+"count": 2082,
+"last_success": "2026-10-22T11:40:44+00:00"
 }
 }
 }
