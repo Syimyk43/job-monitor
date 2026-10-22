@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-22T00:37:11+00:00",
+"last_run": "2026-10-22T06:01:32+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -4966,6 +4966,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:4cfab2b8-f3f3-4b5e-b36a-df9c1747f11b": {
+"cross": "bytedance|research scientist|san jose ca",
+"dup": true,
+"first_seen": "2026-10-22T06:01:32+00:00"
+},
 "SimplifyJobs:4d16eaba-a1fb-42c2-93dd-fd62894f764b": {
 "cross": "butler county regional transit authority|planning technician work program|hamilton oh",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5081,6 +5086,11 @@
 "cross": "infleqtion|quantum software engineer compiler control systems|chicago il",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:4ea90a10-156d-4a83-a233-607b41981ee1": {
+"cross": "ascension|data analyst|nashville tn",
+"first_seen": "2026-10-22T06:01:32+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:4eacd61c-05bb-4e8f-9807-6b1db8a41a58": {
 "cross": "innodata|ai content specialist|vermont",
@@ -16904,8 +16914,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2092,
-"last_success": "2026-10-22T00:37:11+00:00"
+"count": 2087,
+"last_success": "2026-10-22T06:01:32+00:00"
 }
 }
 }
