@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-22T23:32:55+00:00",
-"pending_digest": [],
+"last_run": "2026-10-23T01:52:22+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Guidehouse - Technical Associate Application Developer",
+"u": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -924,6 +930,11 @@
 "cross": "university of southern california|programmer analyst 1|la",
 "first_seen": "2026-10-22T00:37:11+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:0d349fe0-7e53-4606-b3b2-8c7323728ba0": {
+"cross": "blue cross blue shield of arizona|software developer|arizona",
+"first_seen": "2026-10-23T01:52:22+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:0d467785-7605-490e-8478-cd894e0ef1f1": {
 "cross": "rtx|raytheon software engineer 1 electro optical infrared advanced products and solutions|mckinney tx",
@@ -2154,6 +2165,11 @@
 "cross": "meta|research engineer ai|montreal qc canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:202513de-0add-442b-a2dd-58e2d4fdb670": {
+"cross": "fanduel|software engineer|edinburgh uk",
+"first_seen": "2026-10-23T01:52:22+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:202582b8-f2ba-49d1-a082-3974fba7627a": {
 "cross": "citadel|sector data scientist central team|nyc",
@@ -7563,6 +7579,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:7378a1c2-8793-422d-83bd-2c750a9c4f0f": {
+"cross": "fge nexanteca|gas lng analyst|london uk",
+"first_seen": "2026-10-23T01:52:22+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:738b2c8e-966f-4e33-b548-d71d5b159004": {
 "cross": "the anywhere|full stack developer|hilton head island sc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7895,6 +7916,11 @@
 "SimplifyJobs:77f16648-b778-4629-8a7e-a451228b24d5": {
 "cross": "genesis ai|robot teleoperation specialist|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:780206a3-eb49-4dd7-a2fe-28606280d916": {
+"cross": "mbda|software modelling apprentice|bristol uk",
+"first_seen": "2026-10-23T01:52:22+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:784ec0c4-a853-4f22-a2e6-437ab3932836": {
@@ -9285,6 +9311,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:8c4b3913-d07d-4778-9227-405aec81c720": {
+"cross": "synqor|electrical product engineer|salem nh",
+"first_seen": "2026-10-23T01:52:22+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:8c6be6a1-2be9-4bd1-bbbf-59f76df80daf": {
 "cross": "general dynamics mission systems|systems engineer fcs auxiliary and training systems|pittsfield ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9621,6 +9652,11 @@
 "cross": "bytedance|software engineer ai agent infrastructure security engineering|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:90b20941-5c93-4b17-9f84-b20c7da51c27": {
+"cross": "aerocloud|full stack developer|manchester uk",
+"first_seen": "2026-10-23T01:52:22+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:90b298d2-1b5e-4a23-84c6-267e6abbf2db": {
 "cross": "england rugby|data analyst|united kingdom",
@@ -10068,6 +10104,13 @@
 "cross": "tiktok|machine learning engineer graduate monetization technology ads core global|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:972b80b8-e865-4003-afae-31d91851fd02": {
+"cross": "guidehouse|technical associate application developer|chicago il",
+"first_seen": "2026-10-23T01:52:22+00:00",
+"page": "402b0cb5-8078-81bc-a2e0-d86a7fef7a50",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:9732b946-6270-4f99-b429-3c5208dafb6e": {
 "cross": "callaway golf|performance fitter columbus oh|columbus oh",
@@ -14215,6 +14258,11 @@
 "first_seen": "2026-10-17T00:21:11+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:d58876b5-ca27-4081-9aa7-36c853104e07": {
+"cross": "mbda|software engineering level 6 degree apprentice|bristol uk",
+"first_seen": "2026-10-23T01:52:22+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:d5b7d966-e703-4f27-ac8a-2d39fe89c0ff": {
 "cross": "deloitte|data scientist ai and data science engineer 1|jersey city nj",
 "first_seen": "2026-10-06T23:45:08+00:00",
@@ -17170,8 +17218,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2099,
-"last_success": "2026-10-22T23:32:55+00:00"
+"count": 2096,
+"last_success": "2026-10-23T01:52:22+00:00"
 }
 }
 }
