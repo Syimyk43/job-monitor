@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-23T01:52:22+00:00",
+"last_run": "2026-10-23T07:22:38+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -1473,6 +1473,11 @@
 "cross": "thales|software engineer new grad|glasgow uk",
 "first_seen": "2026-10-05T01:53:08+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:15e66070-2fc0-44df-a26c-aa4c4303217d": {
+"cross": "nutanix|member of technical staff 2|vancouver bc canada",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:161eebf9-e3e8-494d-b2d2-2cf568885d77": {
 "cross": "bytedance|research scientist graduate foundation model generative ai|san jose ca",
@@ -2970,6 +2975,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:2b5665cf-ffeb-4c91-adce-7d9357641676": {
+"cross": "amazon|software development engineer 1 early career annapurna labs|austin tx cupertino ca nyc seattle wa",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:2b5c4fa6-dba4-4a25-8f49-5396ddd7f07d": {
 "cross": "onemain financial|data science analyst|charlotte nc wilmington de",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3290,6 +3300,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:2f6d69fc-8180-4d54-9897-cbfcd6be4319": {
+"cross": "aptiv|associate cloud engineer|kanata ottawa on canada",
+"dup": true,
+"first_seen": "2026-10-23T07:22:38+00:00"
+},
 "SimplifyJobs:2f96a21c-6810-4832-93d3-75426749562b": {
 "cross": "booz allen|agentic ai engineer|annapolis junction md",
 "first_seen": "2026-10-13T23:05:17+00:00",
@@ -3400,6 +3415,11 @@
 "cross": "chalk|software engineer new grad|nyc sf",
 "first_seen": "2026-10-08T05:52:46+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:312b7b27-dc1b-4ccc-a582-f20be014c2e9": {
+"cross": "amazon|software development engineer prime video personalization discovery|seattle wa",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:3154be10-173a-4b90-8b24-47c92d5b67ae": {
 "cross": "bny|senior data scientist data scientist|pittsburgh pa",
@@ -5092,6 +5112,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:4d59f74a-c96d-4f88-bf07-1f3df967b2de": {
+"cross": "amazon|system development engineer region reliability engineering|denver co",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:4d762004-fbe7-46b2-bdcf-3c4e02d54b87": {
 "cross": "tiktok|machine learning engineer graduate e commerce governance|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5182,6 +5207,11 @@
 "cross": "ascension|data analyst|nashville tn",
 "first_seen": "2026-10-22T06:01:32+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:4ea9a15d-8827-4c79-a444-9729292915db": {
+"cross": "amazon|data engineer early career|toronto on canada",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:4eacd61c-05bb-4e8f-9807-6b1db8a41a58": {
 "cross": "innodata|ai content specialist|vermont",
@@ -5511,6 +5541,11 @@
 "SimplifyJobs:5352619a-3d75-4bd9-b7af-098751f77cad": {
 "cross": "tiktok|machine learning engineer new grad e commerce search|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:5353b527-0cda-43e8-a9ef-cdfa8f45bcd8": {
+"cross": "amazon|front end engineer|seattle wa",
+"first_seen": "2026-10-23T07:22:38+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:5357b22e-9a94-46c0-85a8-cfcab2f2aa98": {
@@ -8813,6 +8848,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:852ad061-3275-418f-8c79-73af87ba089b": {
+"cross": "internet brands|associate ai research operations analyst|el segundo ca",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:8531a8a8-615c-4eb3-8f19-b6a80d1d5d15": {
 "cross": "openai|software engineer applied emerging talent|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10974,6 +11014,11 @@
 "first_seen": "2026-10-02T01:03:47+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a3a1c5c1-54f5-4e78-91a2-6b283f2333fd": {
+"cross": "internet brands|associate ai research operations analyst|el segundo ca",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a3b2484c-c68d-46ca-ac1b-30899e81b01f": {
 "cross": "oracle|software developer 3|santa clara ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -12726,6 +12771,11 @@
 "first_seen": "2026-10-16T18:45:36+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:beb3809f-7e70-4921-8048-c14921c4ba78": {
+"cross": "amazon|software development engineer prime video personalization discovery|nyc seattle wa sunnyvale ca",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:bed7436e-6c48-4818-a11a-c314cfbf6574": {
 "cross": "roblox|software engineer early career|san mateo ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13136,6 +13186,11 @@
 "SimplifyJobs:c5a2fcc5-ec9d-464c-b7cf-d033c2e22fe8": {
 "cross": "hyundai capital america|remarketing analytics associate|toronto on canada",
 "first_seen": "2026-10-06T00:17:24+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:c5a7d1fe-6c08-40a0-818f-a6981dc0e2ac": {
+"cross": "amazon|ai data associate dutch artificial general intelligence|london uk",
+"first_seen": "2026-10-23T07:22:38+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:c5c96698-e25e-4209-8af4-5886495e5a80": {
@@ -14344,6 +14399,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:d7450d6f-7ade-4e48-a679-77133f787850": {
+"cross": "amazon|software development engineer early career|vancouver bc canada",
+"dup": true,
+"first_seen": "2026-10-23T07:22:38+00:00"
+},
 "SimplifyJobs:d7464a56-df34-4389-8516-7a3d68551e07": {
 "cross": "bestgate engineering|systems engineer|hanover md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14410,6 +14470,11 @@
 "cross": "trucking people|data capture technician ai construction|plainview tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:d7d2b059-61d2-4d3c-9eaa-8429779593d4": {
+"cross": "metropolitan transportation authority|application developer analyst level 1 revenue applications|nyc",
+"first_seen": "2026-10-23T07:22:38+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:d7f1b24a-b651-4239-81a5-05805190a745": {
 "cross": "tiktok|research scientist multiple teams|seattle wa",
@@ -17218,8 +17283,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2096,
-"last_success": "2026-10-23T01:52:22+00:00"
+"count": 2094,
+"last_success": "2026-10-23T07:22:38+00:00"
 }
 }
 }
