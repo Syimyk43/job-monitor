@@ -1,13 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-23T07:22:38+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Guidehouse - Technical Associate Application Developer",
-"u": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783"
-}
-],
+"last_run": "2026-10-23T12:50:04+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -268,6 +262,11 @@
 "page": "3efb0cb5-8078-810b-8310-da252cffaf53",
 "score": 48,
 "score_v": 1
+},
+"SimplifyJobs:03ccc631-38b1-451e-8483-f803f4f733dd": {
+"cross": "ekimetrics|junior business scientist data science marketing effectiveness|nyc",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:03e3488f-bdec-49ba-875b-b5128864ae39": {
 "cross": "caterpillar|operations automation technician|champaign il",
@@ -760,6 +759,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:0a14e404-4828-4af4-bb63-2fb23a5a061f": {
+"cross": "palantir|software engineer new grad|nyc",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:0a264790-fc03-4d54-97bd-6403679d2ff3": {
 "cross": "brown brown insurance|software engineer|olivette mo",
 "first_seen": "2026-10-17T00:21:11+00:00",
@@ -843,6 +847,13 @@
 "cross": "renesas electronics|engineer physical ai|ottawa on canada",
 "dup": true,
 "first_seen": "2026-10-06T00:17:24+00:00"
+},
+"SimplifyJobs:0baf47ca-1855-4cb6-ba42-8212b73f6566": {
+"cross": "simventions|systems engineer 1|fredericksburg va",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-81de-945b-dd8c70847900",
+"score": 44,
+"score_v": 1
 },
 "SimplifyJobs:0bbfc987-8101-43c5-b9ae-d4ffa7abdcc6": {
 "cross": "cvs health|analyst software development engineer conversion|alabama alaska arizona arkansas california colorado connecticut delaware florida georgia hawaii idaho illinois indiana iowa kansas kentucky louisiana maine maryland massachusetts michigan minnesota mississippi missouri montana nyc nebraska nevada new hampshire new jersey new mexico north carolina north dakota ohio oklahoma oregon pennsylvania rhode island south carolina south dakota tennessee texas utah vermont virginia washington washington dc west virginia wisconsin wyoming",
@@ -1016,6 +1027,11 @@
 "SimplifyJobs:0efa7fd4-ba4d-4759-b06c-944d4658c207": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|salt lake city ut",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:0f13303e-f2f1-4e7f-b71c-15603aa14803": {
+"cross": "welocalize|data labeling associate|nyc remote in usa sf",
+"first_seen": "2026-10-23T12:50:04+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:0f38cb8f-9548-4161-b1d2-a6734d216f12": {
@@ -1445,6 +1461,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:152af2dd-b2be-4726-8e26-0344e48e9377": {
+"cross": "hewlett packard enterprise|research engineer|milpitas ca",
+"dup": true,
+"first_seen": "2026-10-23T12:50:04+00:00"
+},
 "SimplifyJobs:15516d2c-266f-4437-aa09-f737ed54939c": {
 "cross": "retell ai|internal deployed engineer|san carlos ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -1599,6 +1620,11 @@
 "cross": "bytedance|machine learning engineer graduate e commerce risk control|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:185df712-175a-42c5-bea3-e43095850dbb": {
+"cross": "humble robotics|ml software engineer|sf",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:1867969a-db0e-4b61-bcfe-810cf5e1f73c": {
 "cross": "general motors|machine learning engineer ai inference solutions|sunnyvale ca",
@@ -1772,6 +1798,11 @@
 "cross": "dellfor technologies|entry level net developer|kansas",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:1ad5e34b-7418-46fe-9725-948719ed2572": {
+"cross": "city and county of san francisco|technology engineer associate applications specialty|sf",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:1add3426-ab0d-407a-9e68-5227d97d754d": {
 "cross": "global lending services|data scientist december 2026|greenville sc",
@@ -2326,6 +2357,11 @@
 "SimplifyJobs:21f096f7-9d22-4792-97b3-59eb6f470eab": {
 "cross": "national software management|entry level data analyst business analyst|atlanta ga",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:21f7144e-f7d3-4dc0-9e59-5a49f5f04f28": {
+"cross": "ptc|associate enterprise integration engineer|boston ma",
+"first_seen": "2026-10-23T12:50:04+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:220ebe6a-b4c3-4df9-ae47-b15716b1b0b3": {
@@ -3201,6 +3237,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:2e33f293-d66b-48dc-9a1c-6feb41db4879": {
+"cross": "canonical|software engineer secure container images|remote in afghanistan remote in albania remote in algeria remote in american samoa remote in andorra remote in angola remote in anguilla remote in antigua and barbuda remote in argentina remote in armenia remote in aruba remote in australia remote in austria remote in azerbaijan remote in bahamas remote in bahrain remote in bangladesh remote in barbados remote in belarus remote in belgium remote in belize remote in benin remote in bermuda remote in bhutan remote in bolivia remote in bonaire sint eustatius and saba remote in bosnia and herzegovina remote in botswana remote in bouvet island remote in brazil remote in british indian ocean territory remote in brunei darussalam remote in bulgaria remote in burkina faso remote in burundi remote in cabo verde remote in cambodia remote in cameroon remote in canada remote in cayman islands remote in central african republic remote in chad remote in chile remote in china remote in christmas island remote in cocos keeling islands remote in colombia remote in comoros remote in congo remote in congo the democratic republic of the remote in cook islands remote in costa rica remote in croatia remote in cuba remote in cura ao remote in cyprus remote in czechia remote in c te d ivoire remote in denmark remote in djibouti remote in dominica remote in dominican republic remote in ecuador remote in egypt remote in el salvador remote in equatorial guinea remote in eritrea remote in estonia remote in eswatini remote in ethiopia remote in falkland islands malvinas remote in faroe islands remote in fiji remote in finland remote in france remote in french guiana remote in french polynesia remote in french southern territories remote in gabon remote in gambia remote in georgia remote in germany remote in ghana remote in gibraltar remote in greece remote in greenland remote in grenada remote in guadeloupe remote in guam remote in guatemala remote in guernsey remote in guinea remote in guinea bissau remote in guyana remote in haiti remote in heard island and mcdonald islands remote in holy see vatican city state remote in honduras remote in hong kong remote in hungary remote in iceland remote in india remote in indonesia remote in iran remote in iraq remote in ireland remote in isle of man remote in israel remote in italy remote in jamaica remote in japan remote in jersey remote in jordan remote in kazakhstan remote in kenya remote in kiribati remote in kuwait remote in kyrgyzstan remote in laos remote in latvia remote in lebanon remote in lesotho remote in liberia remote in libya remote in liechtenstein remote in lithuania remote in luxembourg remote in macao remote in madagascar remote in malawi remote in malaysia remote in maldives remote in mali remote in malta remote in marshall islands remote in martinique remote in mauritania remote in mauritius remote in mayotte remote in mexico remote in micronesia federated states of remote in moldova remote in monaco remote in mongolia remote in montenegro remote in montserrat remote in morocco remote in mozambique remote in myanmar remote in namibia remote in nauru remote in nepal remote in netherlands remote in new caledonia remote in new zealand remote in nicaragua remote in niger remote in nigeria remote in niue remote in norfolk island remote in north korea remote in north macedonia remote in northern mariana islands remote in norway remote in oman remote in pakistan remote in palau remote in palestine state of remote in panama remote in papua new guinea remote in paraguay remote in peru remote in philippines remote in pitcairn remote in poland remote in portugal remote in puerto rico remote in qatar remote in romania remote in russia remote in rwanda remote in r union remote in saint barth lemy remote in saint helena ascension and tristan da cunha remote in saint kitts and nevis remote in saint lucia remote in saint martin french part remote in saint pierre and miquelon remote in saint vincent and the grenadines remote in samoa remote in san marino remote in sao tome and principe remote in saudi arabia remote in senegal remote in serbia remote in seychelles remote in sierra leone remote in singapore remote in sint maarten dutch part remote in slovakia remote in slovenia remote in solomon islands remote in somalia remote in south africa remote in south georgia and the south sandwich islands remote in south korea remote in south sudan remote in spain remote in sri lanka remote in sudan remote in suriname remote in svalbard and jan mayen remote in sweden remote in switzerland remote in syria remote in taiwan remote in tajikistan remote in tanzania remote in thailand remote in timor leste remote in togo remote in tokelau remote in tonga remote in trinidad and tobago remote in tunisia remote in turkey remote in turkmenistan remote in turks and caicos islands remote in tuvalu remote in uk remote in usa remote in uganda remote in ukraine remote in united arab emirates remote in united states minor outlying islands remote in uruguay remote in uzbekistan remote in vanuatu remote in venezuela remote in vietnam remote in virgin islands british remote in virgin islands u s remote in wallis and futuna remote in western sahara remote in yemen remote in zambia remote in zimbabwe remote in land islands",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-814b-9f2d-e616d2a3ba5d",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:2e4c045e-75a6-49ad-8d48-309400c9abd5": {
 "cross": "unlimited|modeling and analysis engineer|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3333,6 +3376,11 @@
 "SimplifyJobs:2fc1a282-b44e-490c-8d31-be0213a206ab": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|oklahoma city ok",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:2fddc977-2616-4eaa-91a8-7f43de3fd9ad": {
+"cross": "dp world|business intelligence apprentice|stanford le hope uk",
+"first_seen": "2026-10-23T12:50:04+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:2ff8021a-9741-4562-a72d-7e1ba5fd39bf": {
@@ -3893,6 +3941,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:3949bef8-4dde-461b-814a-a3a54e871af0": {
+"cross": "dataiku|fullstack software engineer core|remote in france remote in germany remote in spain remote in uk",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:3985a844-5488-44dd-b1c2-938877e7d062": {
 "cross": "oligo space|ai space systems software engineer|hawthorne ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3981,6 +4034,13 @@
 "cross": "pjt partners|business intelligence analyst dealcloud|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:3af86a17-91d4-4605-b65c-f1dc1266af9d": {
+"cross": "solerity|javascript developer software engineer 1|fort meade md",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-81ea-981a-dd84db46d12e",
+"score": 58,
+"score_v": 1
 },
 "SimplifyJobs:3b0e24f6-2154-493b-9917-855a53ab3daf": {
 "cross": "synergy ecp|software engineer|annapolis junction md",
@@ -4396,6 +4456,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:41dab1e4-72c6-48b7-8746-ed1c6a3018f3": {
+"cross": "aveva|r d software engineer|cambridge uk",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:42007113-3fab-4dcf-9ae7-6bb88c3feb3c": {
 "cross": "accora|graduate technology ai engineer|orwell royston uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4412,6 +4477,11 @@
 "cross": "blackstone|software engineer analyst|london uk",
 "first_seen": "2026-10-02T23:13:14+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:421906ce-01b4-4733-9e1b-141189b5a24f": {
+"cross": "state of north carolina|guest surveyor|asheboro nc",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:421b42ef-fb19-4a10-a0f8-b9b3b6a3fc36": {
 "cross": "expleo|pre sales executive|preston uk",
@@ -4536,6 +4606,11 @@
 "cross": "ontic|associate software engineer full stack|austin tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:4407704d-e239-4257-ac13-403d75458d63": {
+"cross": "verne robotics|robot operations engineer|sf",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:4407e7f9-84bc-46f9-8221-059b51e587e0": {
 "cross": "bytedance|research scientist model capability boundary exploration and ai data flywheel system development global frontier tech recruitment program 2027 start phd|seattle wa",
@@ -4693,6 +4768,11 @@
 "first_seen": "2026-10-02T23:13:14+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:46a7df21-ee88-4c60-80b9-74999911a536": {
+"cross": "artefact|junior engineer|london uk",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:46c385ad-61c8-4e3f-abe7-4e3c5205c5e0": {
 "cross": "welo global|speech voice ai analyst|boston ma burlingame ca la nyc redmond wa sf seattle wa sunnyvale ca washington dc",
 "first_seen": "2026-10-13T11:01:41+00:00",
@@ -4722,6 +4802,11 @@
 "cross": "cvs health|associate software development engineer conversion|alabama alaska arizona arkansas california colorado connecticut delaware florida georgia hawaii idaho illinois indiana iowa kansas kentucky louisiana maine maryland massachusetts michigan minnesota mississippi missouri montana nyc nebraska nevada new hampshire new jersey new mexico north carolina north dakota ohio oklahoma oregon pennsylvania rhode island south carolina south dakota tennessee texas utah vermont virginia washington washington dc west virginia wisconsin wyoming",
 "dup": true,
 "first_seen": "2026-10-07T23:45:51+00:00"
+},
+"SimplifyJobs:4762de7d-d90a-4004-bf12-486138c11efc": {
+"cross": "amazon|software development engineer apprentice military veterans|arlington county arlington va bellevue wa cupertino ca denver co glendale co seattle wa",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:476e726d-bfa3-4da0-bdb9-b2bd233304dc": {
 "cross": "geo owl|full motion video analyst intelligence analyst|mclean va",
@@ -5289,6 +5374,18 @@
 "cross": "lawrence livermore national laboratory llnl|academic graduate appointee|livermore ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:4f856302-5fb4-4107-a203-d6af516b1220": {
+"cross": "bytedance|research scientist ai infra|san jose ca",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:4f87a199-9c4d-468f-b17c-66ea30769939": {
+"cross": "worldscape technology|game engine engineer platform|redmond wa",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-8152-90b0-d60a7ffbd706",
+"score": 65,
+"score_v": 1
 },
 "SimplifyJobs:4fa11d47-e066-4706-be18-9b9b784bcd1a": {
 "cross": "periodic labs|research scientist scaling rl|menlo park ca montreal qc canada",
@@ -5859,6 +5956,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:589eaec6-f27f-4183-ba90-c5396f9c5795": {
+"cross": "blue matter|associate associate consultant analytics|south sf",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:58a29872-deec-4a7e-8a5a-237b34edd4af": {
 "cross": "constant contact|software engineering development program|waltham ma",
 "first_seen": "2026-10-06T00:17:24+00:00",
@@ -6139,6 +6241,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:5c30c57b-5d82-4664-968a-b1e007d65353": {
+"cross": "canonical|software engineer python container images|remote in albania remote in algeria remote in andorra remote in angola remote in armenia remote in austria remote in azerbaijan remote in bahrain remote in belarus remote in belgium remote in benin remote in bosnia and herzegovina remote in botswana remote in british indian ocean territory remote in bulgaria remote in burkina faso remote in burundi remote in cabo verde remote in cameroon remote in central african republic remote in chad remote in comoros remote in congo remote in congo the democratic republic of the remote in croatia remote in cyprus remote in czechia remote in c te d ivoire remote in denmark remote in djibouti remote in egypt remote in equatorial guinea remote in eritrea remote in estonia remote in eswatini remote in ethiopia remote in faroe islands remote in finland remote in france remote in french southern territories remote in gabon remote in gambia remote in georgia remote in germany remote in ghana remote in gibraltar remote in greece remote in guernsey remote in guinea remote in guinea bissau remote in holy see vatican city state remote in hungary remote in iceland remote in iran remote in iraq remote in ireland remote in isle of man remote in israel remote in italy remote in jersey remote in jordan remote in kenya remote in kuwait remote in latvia remote in lebanon remote in lesotho remote in liberia remote in libya remote in liechtenstein remote in lithuania remote in luxembourg remote in madagascar remote in malawi remote in mali remote in malta remote in mauritania remote in mauritius remote in mayotte remote in moldova remote in monaco remote in montenegro remote in morocco remote in mozambique remote in namibia remote in netherlands remote in niger remote in nigeria remote in north macedonia remote in norway remote in oman remote in palestine state of remote in poland remote in portugal remote in qatar remote in romania remote in russia remote in rwanda remote in r union remote in saint helena ascension and tristan da cunha remote in san marino remote in sao tome and principe remote in saudi arabia remote in senegal remote in serbia remote in seychelles remote in sierra leone remote in slovakia remote in slovenia remote in somalia remote in south africa remote in south sudan remote in spain remote in sudan remote in svalbard and jan mayen remote in sweden remote in switzerland remote in syria remote in tanzania remote in togo remote in tunisia remote in turkey remote in uk remote in uganda remote in ukraine remote in united arab emirates remote in western sahara remote in yemen remote in zambia remote in zimbabwe remote in land islands",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-8121-baf4-c7895bcd58e8",
+"score": 56,
+"score_v": 1
+},
 "SimplifyJobs:5c436bc1-72a2-4053-b21c-fed118fb02c9": {
 "cross": "gartner|associate data scientist|irving tx stamford ct",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6243,6 +6352,11 @@
 "dup": true,
 "first_seen": "2026-10-01T21:15:18+00:00"
 },
+"SimplifyJobs:5d7ae207-e8c4-4562-9e0d-5df316223461": {
+"cross": "tiktok|research scientist new grad tiktok recommendation|san jose ca",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:5d7b062e-7a3b-4e6b-b682-2c51f14fb6d7": {
 "cross": "vanguard|data analyst data analytics technology leadership program|charlotte nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6323,6 +6437,11 @@
 "cross": "plusai|senior machine learning engineer perception|santa clara ca",
 "first_seen": "2026-10-15T04:29:03+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:5e6aa3fc-45fa-4932-829b-6fdc3d5a0564": {
+"cross": "nucleusteq|graduate trainee|phoenix az",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:5e775d03-2974-4788-a51e-41896502a1c2": {
 "cross": "longshot systems|machine learning researcher|london uk",
@@ -6464,6 +6583,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:60ef0052-1933-4d31-9094-afe931faa4bc": {
+"cross": "bild ai|founding ai engineer|sf",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:60f2d50b-cb5f-4801-82e7-8217eae8dbb9": {
 "cross": "think cell|c developer|remote in uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6511,6 +6635,11 @@
 "SimplifyJobs:6179b0ff-cbcf-4f7c-89fe-69676d906dd0": {
 "cross": "garner health|feed integrations associate|remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:617b2bc3-5bca-4966-a81e-29f59cd18949": {
+"cross": "pennsylvania state university|research assistant|university park state college pa",
+"first_seen": "2026-10-23T12:50:04+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:617f05a7-e40b-4c9a-b24b-a6096a0fde86": {
@@ -7170,6 +7299,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:6b794bd6-24d6-4522-b680-dfd27d0b328a": {
+"cross": "mach9|ml engineer research|sf",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:6b7f15e6-d3e2-479a-a930-500b30ef65b5": {
 "cross": "arcfield|software engineer on call|middletown ri",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -7216,6 +7350,11 @@
 "score": 81,
 "score_v": 1
 },
+"SimplifyJobs:6c42deb1-7d23-433f-9aad-8a5b79c3285d": {
+"cross": "rhoda ai|robot pilot tier 2|mountain view ca",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:6c47c3f9-1c48-441a-bf9d-14b9b872d8e6": {
 "cross": "stryker|design engineer software rise|portage mi",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7232,6 +7371,11 @@
 "cross": "the home depot|associate data scientist supply chain|atlanta ga",
 "first_seen": "2026-10-07T19:29:32+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:6c83cb46-84d6-4867-99c6-4ed77f4a81a5": {
+"cross": "unconventional ai|junior member of technical staff system modeling|mountain view ca remote in usa",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:6cc1dadd-e02a-4477-8917-242924cc0c58": {
 "cross": "anima|product engineer|london uk",
@@ -7663,6 +7807,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:74333d30-58ba-4ff7-8045-b83f0f107e27": {
+"cross": "palo alto networks|software engineer|california",
+"dup": true,
+"first_seen": "2026-10-23T12:50:04+00:00"
+},
 "SimplifyJobs:74391b84-c863-477a-a54b-f52e947e9724": {
 "cross": "bytedance|research scientist graduate ml recommendation systems|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7958,6 +8107,11 @@
 "first_seen": "2026-10-23T01:52:22+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:78322ed4-24c0-4260-b2dd-a704d220ee08": {
+"cross": "datalab usa|programmer analyst marketing analytics|germantown md",
+"dup": true,
+"first_seen": "2026-10-23T12:50:04+00:00"
+},
 "SimplifyJobs:784ec0c4-a853-4f22-a2e6-437ab3932836": {
 "cross": "cvs health|associate software development engineer conversion|alabama alaska arizona arkansas california colorado connecticut delaware florida georgia hawaii idaho illinois indiana iowa kansas kentucky louisiana maine maryland massachusetts michigan minnesota mississippi missouri montana nyc nebraska nevada new hampshire new jersey new mexico north carolina north dakota ohio oklahoma oregon pennsylvania rhode island south carolina south dakota tennessee texas utah vermont virginia washington washington dc west virginia wisconsin wyoming",
 "dup": true,
@@ -8096,6 +8250,13 @@
 "score": 48,
 "score_v": 1
 },
+"SimplifyJobs:7a360d8e-fe35-401d-93bf-1533bb66be44": {
+"cross": "spacex|software engineer components test starshield|hawthorne ca",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-814b-811b-c1349dd7d797",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:7a3bc98d-8348-42c8-9e7f-c14d66a75d0a": {
 "cross": "mbda|computer vision and artificial intelligence engineer image processing uk|bristol uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8127,6 +8288,13 @@
 "cross": "cruise planners|data ai engineer|coral springs fl",
 "first_seen": "2026-10-22T11:40:44+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:7a93f1c2-7460-40ed-871a-9f54573f0579": {
+"cross": "canonical|software engineer automotive and industrial architecture|remote in albania remote in algeria remote in andorra remote in angola remote in armenia remote in austria remote in azerbaijan remote in bahrain remote in belarus remote in belgium remote in benin remote in bosnia and herzegovina remote in botswana remote in british indian ocean territory remote in bulgaria remote in burkina faso remote in burundi remote in cabo verde remote in cameroon remote in central african republic remote in chad remote in comoros remote in congo remote in congo the democratic republic of the remote in croatia remote in cyprus remote in czechia remote in c te d ivoire remote in denmark remote in djibouti remote in egypt remote in equatorial guinea remote in eritrea remote in estonia remote in eswatini remote in ethiopia remote in faroe islands remote in finland remote in france remote in french southern territories remote in gabon remote in gambia remote in georgia remote in germany remote in ghana remote in gibraltar remote in greece remote in guernsey remote in guinea remote in guinea bissau remote in holy see vatican city state remote in hungary remote in iceland remote in iran remote in iraq remote in ireland remote in isle of man remote in israel remote in italy remote in jersey remote in jordan remote in kenya remote in kuwait remote in latvia remote in lebanon remote in lesotho remote in liberia remote in libya remote in liechtenstein remote in lithuania remote in luxembourg remote in madagascar remote in malawi remote in mali remote in malta remote in mauritania remote in mauritius remote in mayotte remote in moldova remote in monaco remote in montenegro remote in morocco remote in mozambique remote in namibia remote in netherlands remote in niger remote in nigeria remote in north macedonia remote in norway remote in oman remote in palestine state of remote in poland remote in portugal remote in qatar remote in romania remote in russia remote in rwanda remote in r union remote in saint helena ascension and tristan da cunha remote in san marino remote in sao tome and principe remote in saudi arabia remote in senegal remote in serbia remote in seychelles remote in sierra leone remote in slovakia remote in slovenia remote in somalia remote in south africa remote in south sudan remote in spain remote in sudan remote in svalbard and jan mayen remote in sweden remote in switzerland remote in syria remote in tanzania remote in togo remote in tunisia remote in turkey remote in uk remote in uganda remote in ukraine remote in united arab emirates remote in western sahara remote in yemen remote in zambia remote in zimbabwe remote in land islands",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-818c-9aac-c4f0e52728b0",
+"score": 48,
+"score_v": 1
 },
 "SimplifyJobs:7a9df6f7-6085-43b4-ad7e-c3426ad5d305": {
 "cross": "analog devices|product engineer product development|durham nc wilmington ma",
@@ -8548,6 +8716,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:80920399-177f-4d44-912d-5777bde423fd": {
+"cross": "mytos|junior mid software engineer|london uk",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:80a6fe19-0d74-4dcf-82d0-0833ae58fd78": {
 "cross": "tiktok|machine learning engineer graduate trust and safety|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -8812,6 +8985,11 @@
 "page": "3efb0cb5-8078-817f-984a-de25327896e0",
 "score": 58,
 "score_v": 1
+},
+"SimplifyJobs:8491157e-ce81-4f76-baab-038206c23ae6": {
+"cross": "pennsylvania state university|data extraction programming|state college pa university park state college pa",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:84b7e139-e250-4722-9c0c-3b35d48ac62f": {
 "cross": "atlas energy solutions|ai developer|austin tx",
@@ -10275,6 +10453,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:99283317-d8aa-4b4e-be87-1a9bd31e8e11": {
+"cross": "northeastern university|r d software engineer|burlington ma",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-81a9-845f-efd62c7a5543",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:99404c39-7108-4b92-89ba-eb3166763456": {
 "cross": "valon|software engineer new grad|nyc sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10365,6 +10550,11 @@
 "page": "3fcb0cb5-8078-81a9-8ee1-dcf41f33255b",
 "score": 34,
 "score_v": 1
+},
+"SimplifyJobs:9a28e7b4-e887-4ab7-b5d2-839bdb0a9d53": {
+"cross": "red ventures|associate data scientist home client services|charlotte nc",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:9a38b8aa-e7f7-4f8d-850f-08fecd27384b": {
 "cross": "louisiana state university|administrative wae|united states",
@@ -10496,10 +10686,22 @@
 "first_seen": "2026-10-07T13:12:03+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:9bdd8995-6afb-43bb-bb7a-b461fddace53": {
+"cross": "qualcomm|ai software core software engineer ai software platform machine learning engineering|san diego ca",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-810e-9388-d0552cfc5ef4",
+"score": 65,
+"score_v": 1
+},
 "SimplifyJobs:9c338480-379d-4ca7-b5c9-3cb606516e95": {
 "cross": "cylake|software engineer university grad|sunnyvale ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:9c3d73c1-63a7-4398-8983-ec5e79aaedb1": {
+"cross": "crane co|test measurement associate software engineer|leicester uk",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:9c4220ab-f3bd-423f-94ac-5cdcd9d06c63": {
 "cross": "citizens financial group|software engineer|johnston ri phoenix az plano tx",
@@ -10751,6 +10953,11 @@
 "score": 9,
 "score_v": 1
 },
+"SimplifyJobs:a047bced-8ab7-4f03-a3e4-a621ac14e102": {
+"cross": "ancestry|imaging data technician imaging operations|draper ut",
+"dup": true,
+"first_seen": "2026-10-23T12:50:04+00:00"
+},
 "SimplifyJobs:a0548532-3712-4c26-9172-4f2c8f2a6a8d": {
 "cross": "alpha nexus group|c software engineer|chicago il",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10801,6 +11008,11 @@
 "page": "3ecb0cb5-8078-812b-9e58-ff4c521eb202",
 "score": 56,
 "score_v": 1
+},
+"SimplifyJobs:a0d7a974-5252-4602-b152-60c7f1945452": {
+"cross": "epri|computer vision 3d asset reconstruction student employee|charlotte nc",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:a0fdba6e-e9ce-48f1-80e7-8844cfa6cb5d": {
 "cross": "booz allen|quantum research professional|washington dc",
@@ -10900,6 +11112,11 @@
 "cross": "mbda|weapon systems algorithms engineer new grad|bristol uk stevenage uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:a1f5f63a-0971-4a61-969b-c3d1f0a264e3": {
+"cross": "deloitte|delivery analyst multiple teams|gilbert az",
+"dup": true,
+"first_seen": "2026-10-23T12:50:04+00:00"
 },
 "SimplifyJobs:a21b609a-b72b-47d9-a330-6549d9172b60": {
 "cross": "greenboard|software engineer|nyc",
@@ -11139,6 +11356,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a5b917ab-9391-450c-bfc5-59a62a120ae6": {
+"cross": "palo alto networks|software engineer|california",
+"dup": true,
+"first_seen": "2026-10-23T12:50:04+00:00"
+},
 "SimplifyJobs:a5e3e6a9-c7ea-4b56-822e-5ac9d108ab9e": {
 "cross": "data intellect|graduate stem developer|belfast uk",
 "first_seen": "2026-10-12T15:12:32+00:00",
@@ -11248,6 +11470,11 @@
 "cross": "western digital|software engineer apps|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:a7b4ad9a-c794-4583-b22f-a118d879807c": {
+"cross": "newrocket|ai engineer new grad|remote in albania remote in andorra remote in austria remote in belarus remote in belgium remote in bosnia and herzegovina remote in bulgaria remote in croatia remote in czechia remote in denmark remote in estonia remote in faroe islands remote in finland remote in france remote in germany remote in gibraltar remote in greece remote in guernsey remote in holy see vatican city state remote in hungary remote in iceland remote in ireland remote in isle of man remote in italy remote in jersey remote in latvia remote in liechtenstein remote in lithuania remote in luxembourg remote in malta remote in moldova remote in monaco remote in montenegro remote in netherlands remote in north macedonia remote in norway remote in poland remote in portugal remote in romania remote in russia remote in san marino remote in serbia remote in slovakia remote in slovenia remote in spain remote in svalbard and jan mayen remote in sweden remote in switzerland remote in uk remote in ukraine remote in land islands",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:a7b87475-1141-4285-a578-2143729a4704": {
 "cross": "tiktok|research scientist new grad recommendation|san jose ca",
@@ -11986,6 +12213,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:b2f27b97-8005-4635-9891-d7ba929f9640": {
+"cross": "welo global|search quality rater simplified chinese|remote in canada",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:b3015cae-3273-4a68-adfd-587d522af9c7": {
 "cross": "intercontinental exchange|analyst infrastructure development automation|atlanta ga",
 "first_seen": "2026-10-04T12:14:46+00:00",
@@ -12295,6 +12527,11 @@
 "first_seen": "2026-10-10T02:41:08+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:b8148e0d-633c-495b-9994-e1ec99b84c23": {
+"cross": "american express|data science manager global decision science credit fraud risk|nyc",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:b81f0d85-3704-4a61-ba56-733b528bd6ba": {
 "cross": "td bank|technology new grad|belfast uk",
 "first_seen": "2026-10-22T17:04:05+00:00",
@@ -12598,6 +12835,11 @@
 "page": "3f8b0cb5-8078-817a-b9d5-d0687a617d19",
 "score": 63,
 "score_v": 1
+},
+"SimplifyJobs:bc816593-ba1f-4122-96df-ff3cd3b19a7a": {
+"cross": "regal|ai agent product specialist|nyc",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:bc95d401-fd0e-43df-8732-6c8d7dc5c943": {
 "cross": "canadian tire|specialist merch data governance merch data governance|toronto on canada",
@@ -13057,6 +13299,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:c3cd7b0a-46da-4a24-a48f-e289628432d4": {
+"cross": "parker|data analyst 1|remote in albania remote in andorra remote in austria remote in belarus remote in belgium remote in bosnia and herzegovina remote in bulgaria remote in croatia remote in czechia remote in denmark remote in estonia remote in faroe islands remote in finland remote in france remote in germany remote in gibraltar remote in greece remote in guernsey remote in holy see vatican city state remote in hungary remote in iceland remote in ireland remote in isle of man remote in italy remote in jersey remote in latvia remote in liechtenstein remote in lithuania remote in luxembourg remote in malta remote in moldova remote in monaco remote in montenegro remote in netherlands remote in north macedonia remote in norway remote in poland remote in portugal remote in romania remote in russia remote in san marino remote in serbia remote in slovakia remote in slovenia remote in spain remote in svalbard and jan mayen remote in sweden remote in switzerland remote in uk remote in ukraine remote in land islands",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:c3d0d3f7-cc27-4cc2-9950-e1a94f3abf4d": {
 "cross": "tiktok|multimodal generative ai research scientist intelligent creation|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13227,6 +13474,13 @@
 "cross": "fs studio|teleoperator robotics|palo alto ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:c66fca3e-27e8-42e5-a6c7-38a60f39230b": {
+"cross": "ascensus|associate software engineer software development|horsham pa lake mary fl newton ma",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-8164-962d-ce29b98cf80f",
+"score": 58,
+"score_v": 1
 },
 "SimplifyJobs:c67013f3-bb2d-4b62-9127-75264ad45442": {
 "cross": "capgemini|associate application consultant|atlanta ga bridgewater nj chicago il nyc nashville tn",
@@ -13603,6 +13857,11 @@
 "cross": "generalist|research assistant|cambridge ma san mateo ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:cb96d32f-67a9-4494-8a76-7c40bfd6a366": {
+"cross": "halliburton|associate software engineer|abingdon uk",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:cbbb7f51-7564-48f8-93c7-f822d8b5a568": {
 "cross": "space tango|software engineer level 1 2 or 3|lexington ky",
@@ -14377,6 +14636,11 @@
 "score": 80,
 "score_v": 1
 },
+"SimplifyJobs:d6d9aa9b-d516-4a21-b8ba-e2b4ba217313": {
+"cross": "fortinet|software developer agent security|burnaby bc canada",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:d6e19b01-22aa-46ab-a8b0-95bb1092f446": {
 "cross": "charles schwab|associate java developer|southlake tx",
 "first_seen": "2026-10-07T23:45:51+00:00",
@@ -14420,6 +14684,13 @@
 "cross": "spry methods|intelligence analyst 1|washington dc",
 "first_seen": "2026-10-22T00:37:11+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:d75dc307-5c8a-4306-9b07-36e3d53715ff": {
+"cross": "trinet|associate software engineer|atlanta ga remote in usa",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-81ec-b5fd-c39a61ffdddf",
+"score": 58,
+"score_v": 1
 },
 "SimplifyJobs:d76fbe12-b84b-46ff-9963-f1995dbcadea": {
 "cross": "nvidia|research scientist phd new grad autonomous systems and physical ai research|santa clara ca",
@@ -14527,6 +14798,11 @@
 "cross": "ncr voyix|software engineer 1|atlanta ga",
 "dup": true,
 "first_seen": "2026-10-22T00:37:11+00:00"
+},
+"SimplifyJobs:d89be8a9-e6d6-49cd-8492-5dbafba0c8a8": {
+"cross": "teamsnap|full stack engineer backend focused|la",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:d89f0ee8-17d9-4a58-9c3e-9d4cfaf2b635": {
 "cross": "highmark health|etdp associate software engineering|pittsburgh pa",
@@ -14754,6 +15030,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:db729439-81c9-4d53-9200-60ed9fa14fb9": {
+"cross": "zen3|software engineer 1 software development engineer azure c programming|redmond wa",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-8105-81d6-cccdacb062f4",
+"score": 44,
+"score_v": 1
+},
 "SimplifyJobs:db894db3-f0ec-4d30-9a74-12bff5188ae7": {
 "cross": "capgemini|junior frontend developer|atlanta ga",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -14868,6 +15151,13 @@
 "first_seen": "2026-10-09T18:47:19+00:00",
 "page": "3f4b0cb5-8078-81f1-bee3-e5ea1acc39e4",
 "score": 63,
+"score_v": 1
+},
+"SimplifyJobs:dd4a3413-dd61-40f2-9b74-1b9d87213560": {
+"cross": "spacex|software engineer development test starlink|redmond wa",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"page": "402b0cb5-8078-81eb-82a2-fc21c8b7bb3f",
+"score": 48,
 "score_v": 1
 },
 "SimplifyJobs:dd5ec129-4b7c-422b-8927-f7c265938023": {
@@ -15518,6 +15808,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:e5efd84d-ee5e-47b6-8b5c-f101e7094c9f": {
+"cross": "apple|software engineer infrastructure services cloud network fault tolerance|california",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:e5f41de9-f6f5-454c-b80a-c5df9b9e417a": {
 "cross": "applied intuition|research engineer new grad|sunnyvale ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -15583,6 +15878,11 @@
 "page": "3edb0cb5-8078-8190-8af9-de446a0190cb",
 "score": 81,
 "score_v": 1
+},
+"SimplifyJobs:e7428679-0ff4-45b7-8a59-135cb9b646cc": {
+"cross": "ernst young|agent development architect senior|atlanta ga",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:e74adfd5-9138-466d-af45-4a26c1c886f9": {
 "cross": "tiktok|backend engineer graduate user growth|san jose ca",
@@ -16655,6 +16955,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f6ed3c12-937d-4acf-932c-a7075534da17": {
+"cross": "pennsylvania state university|research assistant analyst|university park state college pa",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:f6f83b45-cf4c-4a3e-8f32-4c64672610a1": {
 "cross": "palantir|forward deployed software engineer new grad|washington dc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -16684,6 +16989,11 @@
 "cross": "state street|ai developer senior associate|burlington ma",
 "first_seen": "2026-10-06T00:17:24+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:f79e8b9d-0778-4688-b89e-ed8ec12a8e09": {
+"cross": "optisigns|junior ui engineer|houston tx",
+"first_seen": "2026-10-23T12:50:04+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:f7a49f5e-9e77-4384-862f-b5575135ec64": {
 "cross": "microsoft|software engineer|redmond wa",
@@ -17283,8 +17593,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2094,
-"last_success": "2026-10-23T07:22:38+00:00"
+"count": 2084,
+"last_success": "2026-10-23T12:50:04+00:00"
 }
 }
 }
