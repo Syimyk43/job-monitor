@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-26T14:09:07+00:00",
+"last_run": "2026-10-26T20:06:49+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -1663,6 +1663,11 @@
 "SimplifyJobs:173a8b63-ed46-4aa4-be9f-9519b5d3ebe2": {
 "cross": "bytedance|machine learning engineer graduate e commerce risk control|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:173e402a-974c-4a05-a0d5-6cc9c6324a6f": {
+"cross": "booz allen|junior data scientist|washington dc",
+"first_seen": "2026-10-26T20:06:49+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:179e11a1-a541-4256-a6c3-e36544663802": {
@@ -3356,6 +3361,11 @@
 "page": "402b0cb5-8078-814b-9f2d-e616d2a3ba5d",
 "score": 48,
 "score_v": 1
+},
+"SimplifyJobs:2e46bdd4-7f22-406a-8d89-7edb68f1ff91": {
+"cross": "fife council|geographical information systems spatial data officer|glenrothes uk",
+"first_seen": "2026-10-26T20:06:49+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:2e4c045e-75a6-49ad-8d48-309400c9abd5": {
 "cross": "unlimited|modeling and analysis engineer|sf",
@@ -10390,6 +10400,11 @@
 "first_seen": "2026-10-06T14:07:50+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:92271fcd-c5ba-4a82-aae4-92bc952be01b": {
+"cross": "relx|software engineer new grad|london uk",
+"first_seen": "2026-10-26T20:06:49+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:9232a103-0f6b-4b06-afca-1092679f25db": {
 "cross": "assetmark|associate data stewardship|charlotte nc",
 "first_seen": "2026-10-02T23:13:14+00:00",
@@ -12956,6 +12971,11 @@
 "score": 81,
 "score_v": 1
 },
+"SimplifyJobs:b5e38f93-270f-4bb5-ac95-6f7942c8fc57": {
+"cross": "lexisnexis risk solutions|software engineer new grad|london uk",
+"first_seen": "2026-10-26T20:06:49+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:b62812e2-241d-4fc7-810e-2726318274e3": {
 "cross": "curtiss wright corporation|graduate engineer|frederick md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13708,6 +13728,11 @@
 "first_seen": "2026-10-06T14:07:50+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:c0ef6333-a128-4753-99d7-a0f5f50ff3da": {
+"cross": "interface|data coordinator|lagrange ga",
+"first_seen": "2026-10-26T20:06:49+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:c136e02a-fcb4-489e-9b3f-92e8bce872b9": {
 "cross": "emory university|data analyst school of medicine bmi|atlanta ga",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14010,6 +14035,11 @@
 "SimplifyJobs:c5c96698-e25e-4209-8af4-5886495e5a80": {
 "cross": "deeter analytics|machine learning engineer|remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:c5e57b36-c4df-4c41-8f7b-3710a0fa455f": {
+"cross": "welo global|robotics teleoperator|palo alto ca",
+"first_seen": "2026-10-26T20:06:49+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:c5ebc0c0-8869-4687-9766-de50225f915b": {
@@ -15384,6 +15414,11 @@
 "SimplifyJobs:d8615acc-6f32-4c16-a90c-76330c1a5550": {
 "cross": "thales|software engineering new grad|templecombe uk",
 "first_seen": "2026-10-05T01:53:08+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:d88515c5-27c1-4151-849e-66ee6c00bec5": {
+"cross": "motia|graduate data scientist|leeds uk",
+"first_seen": "2026-10-26T20:06:49+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:d899f8fd-9b88-4410-8fe0-21f2f0ac1d3d": {
@@ -18266,8 +18301,8 @@
 },
 "sources": {
 "simplify": {
-"count": 1987,
-"last_success": "2026-10-26T14:09:07+00:00"
+"count": 1969,
+"last_success": "2026-10-26T20:06:49+00:00"
 }
 }
 }
