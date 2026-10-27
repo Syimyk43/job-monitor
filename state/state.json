@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-26T23:49:49+00:00",
-"pending_digest": [],
+"last_run": "2026-10-27T04:52:35+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Lawrence Livermore National Laboratory (LLNL) - Data Visualization Software Engineer",
+"u": "https://jobs.smartrecruiters.com/LLNL/3743990016422126"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -3930,6 +3936,11 @@
 "SimplifyJobs:3579b778-81af-4e4a-b052-0c828b8c4845": {
 "cross": "innodata|generative ai associate|alabama",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:357b4fdc-c3ec-4ebf-8828-c49a27da35e9": {
+"cross": "nutanix|forward deployed engineer ai inference systems research|vancouver bc canada",
+"first_seen": "2026-10-27T04:52:35+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:35893c47-402b-4538-9d53-6d41d4ee9a72": {
@@ -9395,6 +9406,13 @@
 "score": 61,
 "score_v": 1
 },
+"SimplifyJobs:83774569-427b-4fdc-8cdf-d17695ad5ae4": {
+"cross": "abacus insights|associate data engineer|remote in usa",
+"first_seen": "2026-10-27T04:52:35+00:00",
+"page": "406b0cb5-8078-81a1-9999-e389bab167eb",
+"score": 79,
+"score_v": 1
+},
 "SimplifyJobs:83a81125-8501-43a2-b0c7-82b520ae9102": {
 "cross": "aerovironment|junior software engineer|jessup md",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -10128,6 +10146,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:8d755569-a3ce-460a-bafb-4e49b570a177": {
+"cross": "the home depot|associate data scientist generative bi|atlanta ga",
+"first_seen": "2026-10-27T04:52:35+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:8d793da3-cd90-4612-a78f-1141d7c1a313": {
 "cross": "caterpillar|data scientist technical analyst|chicago il irving tx mossville il peoria il",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10499,6 +10522,13 @@
 "cross": "starbucks|application developer application development|nashville tn",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:9288d3f9-b0e5-4d21-8dd2-6910da83436f": {
+"cross": "lawrence livermore national laboratory llnl|data visualization software engineer|livermore ca",
+"first_seen": "2026-10-27T04:52:35+00:00",
+"page": "406b0cb5-8078-81a1-89c1-f128125b7a0d",
+"score": 71,
+"score_v": 1
 },
 "SimplifyJobs:928db489-f3fc-4310-95d0-24f58d1d07b8": {
 "cross": "varian|software engineer devops net azure|germany hoffman estates il india knoxville tn",
@@ -11518,6 +11548,11 @@
 "cross": "wyetech|sigdev analyst 2 ccas accepted|annapolis junction md",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:9fe507c0-fe3a-44e4-8e7d-238340757cae": {
+"cross": "sampura research|founding member of technical staff|london uk",
+"first_seen": "2026-10-27T04:52:35+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:a012a300-cb95-495b-9875-a2f2d0a8a1f0": {
 "cross": "brain co|machine learning engineer new grad|sf",
@@ -17765,6 +17800,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:f62e793a-1644-4b8d-a76d-ed67face4722": {
+"cross": "planview|software engineer 1|vancouver bc canada",
+"first_seen": "2026-10-27T04:52:35+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:f65657ff-9f42-4256-ac69-c3a4b36628ea": {
 "cross": "virtu financial|software engineer desktop frontend developer c winforms|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -18462,8 +18502,8 @@
 },
 "sources": {
 "simplify": {
-"count": 1997,
-"last_success": "2026-10-26T23:49:49+00:00"
+"count": 2007,
+"last_success": "2026-10-27T04:52:35+00:00"
 }
 }
 }
