@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-28T13:28:31+00:00",
-"pending_digest": [],
+"last_run": "2026-10-28T19:03:39+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Leidos - Junior Software Engineer",
+"u": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00195656"
+},
+{
+"rt": "Other SWE",
+"t": "Northrop Grumman - Associate Software Engineer / Software Engineer",
+"u": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986"
+},
+{
+"rt": "Other SWE",
+"t": "USAA - Software Engineer",
+"u": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1129,6 +1145,13 @@
 "cross": "finn partners|airport survey interviewer research|honolulu hi",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:0f4f6ee2-0933-4e35-9a55-dc0f3016ac4d": {
+"cross": "northrop grumman|associate software engineer software engineer|huntsville al",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"page": "407b0cb5-8078-812e-9c15-ecaa73e9fe32",
+"score": 48,
+"score_v": 1
 },
 "SimplifyJobs:0f6dc8b2-0659-443b-a4a0-9099dcb59615": {
 "cross": "xaira therapeutics|robotics engineer lab automation|south sf",
@@ -4210,6 +4233,11 @@
 "first_seen": "2026-10-02T01:03:47+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:38a71f1f-19a2-4839-9092-609c2f710dcc": {
+"cross": "intetics|city explorer|detroit mi",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:38aea7bc-a413-40ab-984d-4d9dcbe01c56": {
 "cross": "expedock|data annotator|remote in anguilla remote in antigua and barbuda remote in argentina remote in aruba remote in bahamas remote in barbados remote in belize remote in bolivia remote in bonaire sint eustatius and saba remote in bouvet island remote in brazil remote in cayman islands remote in chile remote in colombia remote in costa rica remote in cuba remote in cura ao remote in dominica remote in dominican republic remote in ecuador remote in el salvador remote in falkland islands malvinas remote in french guiana remote in grenada remote in guadeloupe remote in guatemala remote in guyana remote in haiti remote in honduras remote in jamaica remote in martinique remote in mexico remote in montserrat remote in nicaragua remote in panama remote in paraguay remote in peru remote in puerto rico remote in saint barth lemy remote in saint kitts and nevis remote in saint lucia remote in saint martin french part remote in saint vincent and the grenadines remote in sint maarten dutch part remote in south georgia and the south sandwich islands remote in suriname remote in trinidad and tobago remote in turks and caicos islands remote in usa remote in uruguay remote in venezuela remote in virgin islands british remote in virgin islands u s",
 "first_seen": "2026-10-27T10:25:24+00:00",
@@ -5059,6 +5087,11 @@
 "first_seen": "2026-10-15T00:04:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:4517ade3-c19e-483b-8589-1506dbcf03c8": {
+"cross": "oxbridge health|ai engineer|norwalk ct",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:452c607b-c2a8-4bee-8e65-237fd446b21a": {
 "cross": "varsity brands|front end developer|indiana kansas texas",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5162,6 +5195,11 @@
 "cross": "reliance|ai software engineer 1|chicago il",
 "first_seen": "2026-10-02T01:03:47+00:00",
 "page": "3edb0cb5-8078-811b-8ffb-f946619c2e3a"
+},
+"SimplifyJobs:47045f8c-0272-44ed-a512-99cd081fe928": {
+"cross": "cisco|data science analyst 1 united states gsc sct etr|san jose ca",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:4712a8f4-e39e-4b35-b043-ac09928e8b0f": {
 "cross": "sierra nevada corporation|software engineer fellow|fort worth tx",
@@ -5583,6 +5621,13 @@
 "cross": "butler county regional transit authority|planning technician work program|hamilton oh",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:4d284738-4d7d-4b47-b60d-aaeda221fb75": {
+"cross": "tyson foods|data engineer 1|springdale ar",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"page": "407b0cb5-8078-814b-a53d-c067e87f4322",
+"score": 79,
+"score_v": 1
 },
 "SimplifyJobs:4d3acee9-3b15-433a-a4c9-4ca461058f7a": {
 "cross": "tiktok|research scientist software engineer neural graphics and world models|san jose ca",
@@ -9488,6 +9533,11 @@
 "score": 63,
 "score_v": 1
 },
+"SimplifyJobs:810d5e74-8083-4436-bc36-278b715b54af": {
+"cross": "travis perkins|pricing analyst|united kingdom",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:8113e7ea-e9cc-43a3-954a-fc16e84b2b59": {
 "cross": "accenture|finance data platform consultant|birmingham uk edinburgh uk london uk manchester uk",
 "first_seen": "2026-10-06T19:47:13+00:00",
@@ -11166,6 +11216,11 @@
 "cross": "bank of america|risk analysis analyst|charlotte nc newark nj",
 "first_seen": "2026-10-20T23:21:07+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:96928042-71c9-4ee8-9207-cec264daff3f": {
+"cross": "project healthy minds|services researcher|la",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:96b6092b-58e1-4305-a553-4a0f1784d9f2": {
 "cross": "the aerospace corporation|junior full stack engineer associate member of technical staff software architecture engineering and cloud computing architecture|chantilly va",
@@ -13195,6 +13250,13 @@
 "score": 48,
 "score_v": 1
 },
+"SimplifyJobs:b0f48ab2-fa93-4288-9a16-412d0dfbc180": {
+"cross": "leidos|junior software engineer|bethesda md",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"page": "407b0cb5-8078-8186-8485-ead60446a2b7",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:b0fe5972-0ce7-4cbd-9e12-7eb974deba3b": {
 "cross": "quantcast|machine learning engineer|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14240,6 +14302,11 @@
 "cross": "rtx|systems engineer 1|marlborough ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:bf93f43a-d757-41b2-85ca-fc98d3213d99": {
+"cross": "intetics|data collector|detroit mi",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:bf9c69e7-fff4-453c-ba04-3b0a7f1bc733": {
 "cross": "viavi solutions|development engineer software engineering ai track|indianapolis in",
@@ -17833,6 +17900,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ef912e83-5396-42ce-b372-3e501ffa4a19": {
+"cross": "usaa|software engineer|plano tx san antonio tx",
+"first_seen": "2026-10-28T19:03:39+00:00",
+"page": "407b0cb5-8078-8151-8c5f-ff60d8116526",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:ef913f60-7fb2-4a28-90b3-2aeb1155097e": {
 "cross": "collectors|data annotation specialist|santa ana ca",
 "first_seen": "2026-10-14T07:29:51+00:00",
@@ -19118,8 +19192,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2048,
-"last_success": "2026-10-28T13:28:31+00:00"
+"count": 2037,
+"last_success": "2026-10-28T19:03:39+00:00"
 }
 }
 }
