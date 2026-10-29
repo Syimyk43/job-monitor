@@ -1,11 +1,21 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-29T02:47:08+00:00",
+"last_run": "2026-10-29T09:49:10+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "i360technologies - Oracle Analytics FDI Developer",
 "u": "https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009"
+},
+{
+"rt": "Platform",
+"t": "Cloudflare - Systems Engineer - Browser Isolation",
+"u": "https://boards.greenhouse.io/cloudflare/jobs/8276155"
+},
+{
+"rt": "Other SWE",
+"t": "Atomic Object - Software Developer Accelerator",
+"u": "https://job-boards.greenhouse.io/atomicobject/jobs/4390717009"
 }
 ],
 "seen": {
@@ -1819,6 +1829,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:189939a5-677d-49db-b869-65cd42c66924": {
+"cross": "osmo|contract sensory panelist fragrance|elizabeth nj",
+"dup": true,
+"first_seen": "2026-10-29T09:49:10+00:00"
+},
 "SimplifyJobs:18a4d979-0dfb-4e04-b57b-34966be64717": {
 "cross": "tiktok|machine learning engineer graduate e commerce user growth|san jose ca",
 "first_seen": "2026-10-08T23:55:12+00:00",
@@ -2387,6 +2402,13 @@
 "cross": "university corporation for atmospheric research|data science student assistant 3|boulder co",
 "first_seen": "2026-10-28T23:08:11+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:1fa2c9e1-e059-42a4-b327-8391cb6596fc": {
+"cross": "cloudflare|systems engineer browser isolation|united states",
+"first_seen": "2026-10-29T09:49:10+00:00",
+"page": "408b0cb5-8078-816f-bb62-e749663d25b0",
+"score": 34,
+"score_v": 1
 },
 "SimplifyJobs:1fa68e98-48a1-464f-8d59-590a0c5a8dae": {
 "cross": "welo global|data labeling analyst speech voice ai|sf",
@@ -7738,6 +7760,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:67522462-66e8-4ad0-af94-102f769210e5": {
+"cross": "intetics|job for students|detroit mi",
+"first_seen": "2026-10-29T09:49:10+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:6753e83e-b85a-4ab7-9211-95f03794a58c": {
 "cross": "microsoft|software engineer|redmond wa",
 "dup": true,
@@ -8312,6 +8339,11 @@
 "cross": "palantir|privacy civil liberties engineer new grad|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:6f6e177e-6489-412b-b087-1cdcceb47a7a": {
+"cross": "capital de recherche tower|c software developer new grad|montreal qc canada",
+"first_seen": "2026-10-29T09:49:10+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:6f752ecb-e434-47f8-b6cc-34d63ebefaa5": {
 "cross": "aerovironment|software engineer|albuquerque nm",
@@ -12372,6 +12404,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:a3337344-ef18-4095-a8c8-02b8f7270e0d": {
+"cross": "atomic object|software developer accelerator|ann arbor mi chicago il grand rapids mi raleigh nc",
+"first_seen": "2026-10-29T09:49:10+00:00",
+"page": "408b0cb5-8078-8157-8f2d-f912eee44079",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:a339dae3-c079-4987-a6be-c0b863c83fb6": {
 "cross": "tiktok|machine learning engineer graduate e commerce recommendation video|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14408,6 +14447,11 @@
 "SimplifyJobs:beffea84-5be8-454d-9c18-9bbe7f0a9fc9": {
 "cross": "wash u|business technology application analyst 1 pathology and immunology|st louis mo",
 "first_seen": "2026-10-06T23:45:08+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:bf0c4779-e0c0-44cc-98ee-d70bc3d28ac7": {
+"cross": "signet jewelers|business analyst sourcing|akron oh irving tx",
+"first_seen": "2026-10-29T09:49:10+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:bf10a48d-c59f-4775-844e-c402c2ee86a7": {
@@ -19399,8 +19443,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2060,
-"last_success": "2026-10-29T02:47:08+00:00"
+"count": 2055,
+"last_success": "2026-10-29T09:49:10+00:00"
 }
 }
 }
