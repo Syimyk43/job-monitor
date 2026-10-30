@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-30T01:52:38+00:00",
+"last_run": "2026-10-30T08:31:10+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -2893,6 +2893,11 @@
 "page": "401b0cb5-8078-81bb-ae65-e869de410702",
 "score": 63,
 "score_v": 1
+},
+"SimplifyJobs:23eb3ce6-e1fc-472c-a546-e4b2a19212cd": {
+"cross": "verizon communications|engineer 1 systems engineering generative ai agentic systems|temple terrace fl",
+"first_seen": "2026-10-30T08:31:10+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:240aec7f-4292-4146-b546-08c1b4d6430f": {
 "cross": "hewlett packard enterprise|software engineer graduate|andover ma bloomington mn chippewa falls wi durham nc fort collins co roseville ca san jose ca spring tx sunnyvale ca westford ma",
@@ -6532,6 +6537,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:55ba0956-0e09-42c8-8f97-48e07265c5d3": {
+"cross": "dexcom|software development engineer 1|san diego ca",
+"first_seen": "2026-10-30T08:31:10+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:55c4cf2d-b5d2-445e-b104-ba4e1afdcee9": {
 "cross": "shift|graduate data scientist|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9537,6 +9547,11 @@
 "SimplifyJobs:7b378fc1-72f3-4164-86d6-afb4137a7a0b": {
 "cross": "rtx|research engineer 2|richardson tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:7b60df8a-219b-4823-b868-c215faedebd5": {
+"cross": "alpha fmc|digital engineering analyst graduate data ai|london uk",
+"first_seen": "2026-10-30T08:31:10+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:7b666801-fc12-4d52-bec8-29423fb85a3a": {
@@ -19982,8 +19997,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2128,
-"last_success": "2026-10-30T01:52:38+00:00"
+"count": 2116,
+"last_success": "2026-10-30T08:31:10+00:00"
 }
 }
 }
