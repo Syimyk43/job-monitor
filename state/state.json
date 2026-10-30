@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-30T08:31:10+00:00",
-"pending_digest": [],
+"last_run": "2026-10-30T15:17:07+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "BodySpec - Junior Software Engineer",
+"u": "https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer"
+},
+{
+"rt": "Data Engineering",
+"t": "State of Nebraska - Data Engineer",
+"u": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Data-Engineer_JR2026-00030195"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -200,6 +211,11 @@
 "cross": "costar group|associate software engineer|richmond va",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "page": "3ecb0cb5-8078-8184-99a6-e526a974b413"
+},
+"SimplifyJobs:02ac8a2d-f366-4013-9348-467a4d1a5e6a": {
+"cross": "xai|ai tutor estonian|remote in australia remote in canada remote in uk remote in usa",
+"first_seen": "2026-10-30T15:17:07+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:02b1a0de-a038-4729-9f05-bf985321a918": {
 "cross": "cadence design systems|software engineer new grad|san jose ca",
@@ -2010,6 +2026,11 @@
 "SimplifyJobs:1a403d17-88bf-4d3d-919a-954fa39fa641": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|des moines ia",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:1a4a719d-1af6-4e2d-b468-5929d8a8611a": {
+"cross": "xai|ai tutor oromo|remote in australia remote in canada remote in uk remote in usa",
+"first_seen": "2026-10-30T15:17:07+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:1a605e3c-724b-47d8-8424-56b412aec324": {
@@ -4374,6 +4395,13 @@
 "first_seen": "2026-10-20T23:21:07+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:378a66b2-3fa8-4866-940d-2dbb603043af": {
+"cross": "state of nebraska|data engineer|lincoln ne",
+"first_seen": "2026-10-30T15:17:07+00:00",
+"page": "409b0cb5-8078-8130-ba6c-da9059282dc2",
+"score": 69,
+"score_v": 1
+},
 "SimplifyJobs:37a4e5ac-cef9-494a-a468-546342e2af97": {
 "cross": "xpeng motors|senior machine learning engineer llm quantization deployment|santa clara ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4627,6 +4655,11 @@
 "cross": "tiktok|backend software engineer new grad trust safety|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:3bf9a606-610d-4096-9de8-9b165affc91e": {
+"cross": "iowa state university|data management and reporting analyst|ames ia",
+"first_seen": "2026-10-30T15:17:07+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:3c009b4f-77db-4adf-a566-988bc63d5ba6": {
 "cross": "pennsylvania state university|software engineer|state college pa",
@@ -4946,6 +4979,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:409dfbad-b9e8-4879-b658-d5024592e208": {
+"cross": "xai|ai tutor portuguese|remote in australia remote in canada remote in uk remote in usa",
+"first_seen": "2026-10-30T15:17:07+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:40c50ca0-ce27-4a13-8cc4-4633271be5ef": {
 "cross": "american express|ai engineer 1 enterprise technology services|sunrise fl",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5020,6 +5058,11 @@
 "SimplifyJobs:419b51f7-0519-48f9-9cb3-a6ee986dcf61": {
 "cross": "cigna group|technology development program associate data analytics engineering track|bloomfield ct morris plains nj st louis mo",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:41b6d874-c6e0-42f4-943c-19dd808bc3c0": {
+"cross": "clear|forward deployed ai engineer 1|nyc",
+"first_seen": "2026-10-30T15:17:07+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:41c610fc-ef83-4d99-94f8-8a20caf0fe0c": {
@@ -7082,6 +7125,11 @@
 "dup": true,
 "first_seen": "2026-10-26T06:56:58+00:00"
 },
+"SimplifyJobs:5c56c311-5f00-4ba4-bd70-407f32096c97": {
+"cross": "wise|graduate product analyst|austin tx",
+"first_seen": "2026-10-30T15:17:07+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:5c5fc62e-abf7-4944-a1ef-7941a70c803c": {
 "cross": "bdo canada|data analytics ai consultant|toronto on canada",
 "first_seen": "2026-10-15T00:04:55+00:00",
@@ -8027,6 +8075,11 @@
 "SimplifyJobs:67f368d8-8e94-4a38-9537-7fb927054d41": {
 "cross": "osmo|contract sensory panelist fragrance|elizabeth nj",
 "first_seen": "2026-10-23T17:50:42+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:67f581ee-ba46-4d73-915e-8eb8377bf155": {
+"cross": "xai|ai tutor german|remote in australia remote in canada remote in uk remote in usa",
+"first_seen": "2026-10-30T15:17:07+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:68188134-cafa-4b8d-aa5c-4edf4278eb7c": {
@@ -10648,6 +10701,11 @@
 "first_seen": "2026-10-19T17:43:42+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:898cbbae-3d07-4520-a147-ae08e2a40e10": {
+"cross": "xai|ai tutor croatian|remote in australia remote in canada remote in uk remote in usa",
+"first_seen": "2026-10-30T15:17:07+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:89b5d725-a59f-4eb3-9e08-476905ff182c": {
 "cross": "sajix|machine learning engineer trainee|pleasanton ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10876,6 +10934,11 @@
 "SimplifyJobs:8c732701-b682-414e-8968-708f8b132ff0": {
 "cross": "salesforce|ai labs rotational fellow emerging talent|nyc sf seattle wa",
 "first_seen": "2026-10-17T00:21:11+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:8c7583df-5a6a-4cc8-aa70-1f9c3e63c9c1": {
+"cross": "xai|ai tutor finnish|remote in usa",
+"first_seen": "2026-10-30T15:17:07+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:8c775e3d-bd55-4375-86f3-e8416d7c56b7": {
@@ -17811,6 +17874,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:e48f1756-52c3-4e86-99ac-e8ad21fefa8b": {
+"cross": "capital on tap|frontend software engineer|london uk porto portugal",
+"first_seen": "2026-10-30T15:17:07+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:e49aa991-ccca-47e8-9561-11cabf65f0a1": {
 "cross": "spacex|embedded software engineer os platform starlink|redmond wa",
 "first_seen": "2026-10-04T00:00:24+00:00",
@@ -19306,6 +19374,13 @@
 "first_seen": "2026-10-13T23:05:17+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f7888bad-462c-451b-a9e7-6c7506eea223": {
+"cross": "bodyspec|junior software engineer|austin tx",
+"first_seen": "2026-10-30T15:17:07+00:00",
+"page": "409b0cb5-8078-8156-af13-f5d38ea7773d",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:f79114e4-14f4-4b37-9f55-d001dab2d6af": {
 "cross": "state street|ai developer senior associate|burlington ma",
 "first_seen": "2026-10-06T00:17:24+00:00",
@@ -19997,8 +20072,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2116,
-"last_success": "2026-10-30T08:31:10+00:00"
+"count": 2109,
+"last_success": "2026-10-30T15:17:07+00:00"
 }
 }
 }
