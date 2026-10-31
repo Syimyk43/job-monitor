@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-30T23:41:28+00:00",
+"last_run": "2026-10-31T05:25:06+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -797,6 +797,11 @@
 "SimplifyJobs:093acc82-ac5e-463e-8739-43de0fe8a38d": {
 "cross": "bytedance|graduate software development engineer|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:09533cd4-5b6e-4ab1-a1cd-8839de5efca7": {
+"cross": "ascension|data analyst|st louis mo",
+"first_seen": "2026-10-31T05:25:06+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:096dd1a7-6f69-44f6-bd38-37c398745271": {
@@ -15630,6 +15635,11 @@
 "first_seen": "2026-10-14T13:03:25+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:c7e4210b-fdb9-402c-8f8b-86db118cfd8b": {
+"cross": "discernis|software engineer|nyc",
+"first_seen": "2026-10-31T05:25:06+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:c7f2b025-9cd7-46ef-82d2-99e8977a1a9b": {
 "cross": "innodata|generative ai associate|indiana",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -15928,6 +15938,11 @@
 "cross": "diesel laptops|software engineer|dallas tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:cb5c29ed-d3aa-44c6-b0fc-430c82877b0e": {
+"cross": "nvidia|research scientist new grad ai for graphics and gaming|canada santa clara ca united states",
+"first_seen": "2026-10-31T05:25:06+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:cb8dc8d0-08d0-4627-b3f1-34bc11eba9ea": {
 "cross": "peak 21|marketing analytics business intelligence analyst|london uk",
@@ -17383,6 +17398,11 @@
 "SimplifyJobs:dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6": {
 "cross": "bytedance|machine learning engineer graduate e commerce risk control|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:dc799011-53dd-40eb-a0b4-033ea01b7cb4": {
+"cross": "nvidia|research scientist new grad ml systems|austin tx santa clara ca seattle wa westford ma",
+"first_seen": "2026-10-31T05:25:06+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:dc874144-b255-49cc-81bf-11a6d9aed4dd": {
@@ -20248,8 +20268,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2131,
-"last_success": "2026-10-30T23:41:28+00:00"
+"count": 2126,
+"last_success": "2026-10-31T05:25:06+00:00"
 }
 }
 }
