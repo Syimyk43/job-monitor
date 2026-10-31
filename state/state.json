@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-31T11:09:37+00:00",
+"last_run": "2026-10-31T16:17:47+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -11,6 +11,11 @@
 "rt": "Other SWE",
 "t": "Integration Innovation (i3) - Entry Level Software Engineer",
 "u": "https://i3-corps.jibeapply.com/jobs/5218?icims=1"
+},
+{
+"rt": "Other SWE",
+"t": "Northrop Grumman - Associate Software Engineer",
+"u": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
 }
 ],
 "seen": {
@@ -1146,6 +1151,11 @@
 "SimplifyJobs:0e90651f-2008-4290-b336-a660bb4398af": {
 "cross": "tiktok|graduate machine learning engineer|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:0e9101fd-5e85-4911-b076-604e6c2fc6ef": {
+"cross": "bristol myers squibb|associate engineer analytical ai engineering|princeton nj",
+"first_seen": "2026-10-31T16:17:47+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:0e951ce4-39c4-46ef-ab06-3c7ed19fd9af": {
@@ -17513,6 +17523,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:dc6e6af1-c573-4952-aef5-9791f94fcd44": {
+"cross": "northrop grumman|associate software engineer|hollywood md",
+"first_seen": "2026-10-31T16:17:47+00:00",
+"page": "40ab0cb5-8078-8160-ab86-fccbda476a88",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:dc799011-53dd-40eb-a0b4-033ea01b7cb4": {
 "cross": "nvidia|research scientist new grad ml systems|austin tx santa clara ca seattle wa westford ma",
 "first_seen": "2026-10-31T05:25:06+00:00",
@@ -19720,6 +19737,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f8132bd9-b6f0-40a3-8199-b5d339caac61": {
+"cross": "verisk|data scientist|london uk norwich uk",
+"first_seen": "2026-10-31T16:17:47+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:f82c787f-5f5b-4dfd-b238-2d263687e814": {
 "cross": "nexttoken|member of technical staff ml systems|mountain view ca sf",
 "first_seen": "2026-10-30T23:41:28+00:00",
@@ -20388,8 +20410,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2140,
-"last_success": "2026-10-31T11:09:37+00:00"
+"count": 2142,
+"last_success": "2026-10-31T16:17:47+00:00"
 }
 }
 }
