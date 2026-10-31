@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-31T05:25:06+00:00",
-"pending_digest": [],
+"last_run": "2026-10-31T11:09:37+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Peraton - Software Engineer - Ignite Innovator Program",
+"u": "https://peraton.jibeapply.com/jobs/169664?icims=1"
+},
+{
+"rt": "Other SWE",
+"t": "Integration Innovation (i3) - Entry Level Software Engineer",
+"u": "https://i3-corps.jibeapply.com/jobs/5218?icims=1"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1443,6 +1454,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:1257b80c-986b-4e3a-9d16-00a5437f5eb2": {
+"cross": "cambridge consultants|graduate cloud software engineer|united kingdom",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:12588026-4145-4a34-9255-a9c38358cc20": {
 "cross": "zoom|ai engineer|seattle wa",
 "first_seen": "2026-10-30T01:52:38+00:00",
@@ -2520,6 +2536,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:1fe52eba-4aaa-4857-9286-d90dd4b544a4": {
+"cross": "cambridge consultants|graduate human centric ai engineer|united kingdom",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:1ff12d45-ac6d-4306-977c-9e46ffa4f701": {
 "cross": "north star staffing solutions|principal product engineer electronics|farmington hills mi",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -2679,6 +2700,11 @@
 "dup": true,
 "first_seen": "2026-10-01T21:15:18+00:00"
 },
+"SimplifyJobs:21a3051d-13bb-453c-b031-b40c7a514a3d": {
+"cross": "peraton|image scientist|springfield va",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:21a87bd3-3069-4bbe-9641-a5c2f04cdadb": {
 "cross": "foundation health|software engineer|orlando fl remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -2829,6 +2855,11 @@
 "SimplifyJobs:22f4cbf0-ea63-4e72-9fba-4319ef8415c3": {
 "cross": "blue origin|software development engineer 1 early career|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:22fee02b-5498-486c-ab37-238c4f4c7ec1": {
+"cross": "veeva systems|associate technical consultant entry level consulting life sciences|madison wi",
+"first_seen": "2026-10-31T11:09:37+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:230fb8ba-26d1-49ac-a49a-8126c1503213": {
@@ -3884,6 +3915,11 @@
 "page": "3f4b0cb5-8078-813c-be49-ceba512bd7cf",
 "score": 53,
 "score_v": 1
+},
+"SimplifyJobs:3044c216-bdf5-4c91-af38-8b4b2030d9bb": {
+"cross": "peraton|cobol software developer|united states",
+"dup": true,
+"first_seen": "2026-10-31T11:09:37+00:00"
 },
 "SimplifyJobs:304edc4b-549b-4911-a0b2-84a984d579d2": {
 "cross": "mastercard|software engineer launch program|vancouver bc canada",
@@ -7597,6 +7633,11 @@
 "first_seen": "2026-10-07T13:12:03+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:6130cb8f-229a-4ad9-9042-04dbaa415019": {
+"cross": "publicis groupe|media analytics analyst|chicago il",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:614d69aa-cada-486b-8e62-b164a933b266": {
 "cross": "capgemini|graduate software developer|birmingham uk cardiff uk inverness uk london uk manchester uk woking uk",
 "first_seen": "2026-10-06T19:47:13+00:00",
@@ -9838,6 +9879,13 @@
 "score": 81,
 "score_v": 1
 },
+"SimplifyJobs:7d4ee985-9d3b-40be-9364-3d7f5c9cee84": {
+"cross": "integration innovation i3|entry level software engineer|huntsville al",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"page": "40ab0cb5-8078-8133-a82b-ca36a0d45814",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:7d6e10fd-c6d0-48b6-932d-1e778b7aebed": {
 "cross": "stripe|software engineer|toronto on canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10375,6 +10423,11 @@
 "first_seen": "2026-10-15T00:04:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:844c1760-dfb8-4559-a3a8-832a2d23951c": {
+"cross": "orbis operations|research engineer ai|remote in usa",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:845f6b5a-4840-47d7-ae70-0c81ee81d46a": {
 "cross": "slice slicelife com|software developer services|remote in canada remote in uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10567,6 +10620,11 @@
 "cross": "eversource energy|associate technician gis|berlin ct",
 "first_seen": "2026-10-02T01:03:47+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:86b9a2cc-8f56-4ad1-b7a0-70772dcaa461": {
+"cross": "peraton|artificial intelligence machine learning engineer 1|laurel md",
+"dup": true,
+"first_seen": "2026-10-31T11:09:37+00:00"
 },
 "SimplifyJobs:86d61b4b-0780-49a6-9bbd-a5448f91236b": {
 "cross": "sandvik|remote monitoring analyst|white pine tn",
@@ -11011,6 +11069,11 @@
 "cross": "geneva trading|junior software engineer|chicago il",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:8c0e4885-6127-43aa-87bf-feb4c2d73be8": {
+"cross": "deliveroo|software engineer new grad|london uk",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:8c0fb250-98e8-4bab-9869-2339235ac275": {
 "cross": "oneimaging|associate data engineer|miami fl",
@@ -11499,6 +11562,11 @@
 "cross": "dunn solutions group|java developer|skokie il",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:91c1de81-f4f2-40e6-90ec-f9c797b1459c": {
+"cross": "cambridge consultants|graduate software engineer|united kingdom",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:91c48195-3456-45d0-a2d6-3cb71c6efa03": {
 "cross": "trucking people|data capture technician|amarillo tx",
@@ -12029,6 +12097,11 @@
 "score": 73,
 "score_v": 1
 },
+"SimplifyJobs:98513caa-9d83-4dfc-98c9-a34a20e9fbf4": {
+"cross": "cambridge consultants|phd graduate ai and algorithms engineer|united kingdom",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:9860b985-32f5-4061-92b6-53b33bacbe0c": {
 "cross": "xero|associate engineer back end|calgary ab canada",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -12255,6 +12328,11 @@
 "SimplifyJobs:9a696e3a-4340-4ce7-94eb-e2770b5d3992": {
 "cross": "draftkings|software engineer|remote in canada",
 "first_seen": "2026-10-23T23:57:58+00:00",
+"skip": "non-US location"
+},
+"SimplifyJobs:9a6dcae3-32b0-494e-a7c2-badc43b133bf": {
+"cross": "kinaxis|software developer data ingestion developer framework|canada remote in canada",
+"first_seen": "2026-10-31T11:09:37+00:00",
 "skip": "non-US location"
 },
 "SimplifyJobs:9a809790-74bd-49ef-ac89-b2d28ff7e591": {
@@ -14665,6 +14743,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ba7a8de1-55e9-4707-ac9c-b356de90fd5e": {
+"cross": "cambridge consultants|graduate software engineer defence security 2027 start|united kingdom",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:ba817379-8019-4183-a9eb-c66d9bf0075e": {
 "cross": "fermilab|artificial intelligence associate|batavia il",
 "first_seen": "2026-10-26T23:49:49+00:00",
@@ -14843,6 +14926,11 @@
 "SimplifyJobs:bca58c51-be34-45a1-b5f9-44afd1115280": {
 "cross": "intel|finance data scientist|hillsboro or phoenix az santa clara ca",
 "first_seen": "2026-10-06T19:47:13+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:bcaf4e57-40fa-4c99-9553-6d4422df3a4e": {
+"cross": "cambridge consultants|graduate ai engineer|united kingdom",
+"first_seen": "2026-10-31T11:09:37+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:bcc577ef-5958-4321-821d-9405a58357c8": {
@@ -15439,6 +15527,16 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:c4f21ea8-447d-4766-9ef6-dc1e32dd3be5": {
+"cross": "stifel|developer credit analytics|st louis mo",
+"dup": true,
+"first_seen": "2026-10-31T11:09:37+00:00"
+},
+"SimplifyJobs:c5025403-6265-427a-a5b9-7633280c5bce": {
+"cross": "neptune north|graduate software developer|newcastle upon tyne uk",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:c51c9374-db0a-4c26-a464-2abd19228e64": {
 "cross": "booz allen|software developer|annapolis junction md atlanta ga charleston sc colorado springs co el segundo ca honolulu hi huntsville al mclean va panama city fl rome ny san diego ca",
 "dup": true,
@@ -15959,6 +16057,11 @@
 "first_seen": "2026-10-23T12:50:04+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:cb9e10b5-3524-40e2-a375-e126d098812e": {
+"cross": "peraton|software engineering associate|herndon va",
+"dup": true,
+"first_seen": "2026-10-31T11:09:37+00:00"
+},
 "SimplifyJobs:cbbb7f51-7564-48f8-93c7-f822d8b5a568": {
 "cross": "space tango|software engineer level 1 2 or 3|lexington ky",
 "first_seen": "2026-10-14T01:51:09+00:00",
@@ -16277,6 +16380,11 @@
 "SimplifyJobs:cf45f7e6-9cb8-49f3-8cd4-024cb216673b": {
 "cross": "innodata|ai quality analyst|south carolina",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:cf547e85-5607-4457-a12f-eb707df91203": {
+"cross": "integration innovation i3|data analyst junior associate|huntsville al orlando fl",
+"first_seen": "2026-10-31T11:09:37+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:cf7fc611-231d-4e4a-83b3-64dd553c3dad": {
@@ -16922,6 +17030,11 @@
 "page": "402b0cb5-8078-81ec-b5fd-c39a61ffdddf",
 "score": 58,
 "score_v": 1
+},
+"SimplifyJobs:d75e4831-45fb-4724-81c5-15fd96805076": {
+"cross": "peraton|artificial intelligence machine learning engineer 1 top secret sci w poly|laurel md",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"skip": "citizenship/clearance required"
 },
 "SimplifyJobs:d76fbe12-b84b-46ff-9963-f1995dbcadea": {
 "cross": "nvidia|research scientist phd new grad autonomous systems and physical ai research|santa clara ca",
@@ -19273,6 +19386,13 @@
 "first_seen": "2026-10-13T23:05:17+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f3ee621a-d5b2-460b-9930-e8995ffc0b3f": {
+"cross": "peraton|software engineer ignite innovator program|blacksburg va herndon va",
+"first_seen": "2026-10-31T11:09:37+00:00",
+"page": "40ab0cb5-8078-817e-aff8-dc55dc9f6de7",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:f40415ae-c1c8-42c0-bd27-c55f0bd48925": {
 "cross": "augusta national golf club|junior data engineer|augusta ga",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -20268,8 +20388,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2126,
-"last_success": "2026-10-31T05:25:06+00:00"
+"count": 2140,
+"last_success": "2026-10-31T11:09:37+00:00"
 }
 }
 }
