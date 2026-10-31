@@ -1,23 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-10-31T20:15:14+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Peraton - Software Engineer - Ignite Innovator Program",
-"u": "https://peraton.jibeapply.com/jobs/169664?icims=1"
-},
-{
-"rt": "Other SWE",
-"t": "Integration Innovation (i3) - Entry Level Software Engineer",
-"u": "https://i3-corps.jibeapply.com/jobs/5218?icims=1"
-},
-{
-"rt": "Other SWE",
-"t": "Northrop Grumman - Associate Software Engineer",
-"u": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
-}
-],
+"last_run": "2026-10-31T23:39:43+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -20410,8 +20394,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2142,
-"last_success": "2026-10-31T20:15:14+00:00"
+"count": 2141,
+"last_success": "2026-10-31T23:39:43+00:00"
 }
 }
 }
