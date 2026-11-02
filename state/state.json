@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-02T01:46:20+00:00",
-"pending_digest": [],
+"last_run": "2026-11-02T09:20:06+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Huntington Ingalls Industries - IT Software Engineer 1 - Robotic Process Automation",
+"u": "https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors"
+},
+{
+"rt": "Other SWE",
+"t": "Google - Software Engineer 2 \u2013 Early Career",
+"u": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318"
+},
+{
+"rt": "Other SWE",
+"t": "Brown & Brown Insurance - Junior HubSpot Developer",
+"u": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -6317,6 +6333,13 @@
 "first_seen": "2026-10-09T23:10:31+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:50699bdf-eacb-419e-8a11-b9803c46092e": {
+"cross": "brown brown insurance|junior hubspot developer|plano tx",
+"first_seen": "2026-11-02T09:20:06+00:00",
+"page": "40cb0cb5-8078-816d-b3ff-fe9c3cc862d6",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:506eb155-e5c6-4192-abc5-fe5c6c71310b": {
 "cross": "td bank|technology new grad|london uk",
 "first_seen": "2026-10-22T11:40:44+00:00",
@@ -6790,6 +6813,13 @@
 "cross": "captech consulting|software engineering associate consultant summer 2027|atlanta ga charlotte nc columbus oh denver co philadelphia pa reston va richmond va",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:572e9184-7dd8-4308-a264-ad51089e3281": {
+"cross": "huntington ingalls industries|it software engineer 1 robotic process automation|newport news va",
+"first_seen": "2026-11-02T09:20:06+00:00",
+"page": "40cb0cb5-8078-8162-a56f-cead91177f87",
+"score": 48,
+"score_v": 1
 },
 "SimplifyJobs:57379335-ac0a-481e-91cd-a7c79753f995": {
 "cross": "farmers insurance|associate data scientist|united states",
@@ -17316,6 +17346,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:da1ac264-d20e-4ad8-b630-709c0ae8cd5e": {
+"cross": "google|software engineer 2 early career|durham nc kirkland wa la madison wi mountain view ca nyc palo alto ca pittsburgh pa raleigh nc san bruno ca seattle wa sunnyvale ca",
+"first_seen": "2026-11-02T09:20:06+00:00",
+"page": "40cb0cb5-8078-81bb-bb30-f85d9d033e6e",
+"score": 53,
+"score_v": 1
+},
 "SimplifyJobs:da2b778d-65f8-4ed5-a654-3acc8baa425a": {
 "cross": "amtrust financial|software engineer 1|florida",
 "first_seen": "2026-10-09T18:47:19+00:00",
@@ -20414,8 +20451,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2110,
-"last_success": "2026-11-02T01:46:20+00:00"
+"count": 2104,
+"last_success": "2026-11-02T09:20:06+00:00"
 }
 }
 }
