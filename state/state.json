@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-03T02:12:41+00:00",
+"last_run": "2026-11-03T09:58:57+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -220,6 +220,11 @@
 "cross": "cadence design systems|software engineer new grad|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:02b566e8-0af0-4040-b175-ba10f1f872d4": {
+"cross": "lloyds bank|applied data and ai apprentice|bristol uk",
+"first_seen": "2026-11-03T09:58:57+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:02ca659d-9ee1-4e08-a05b-2ddce897fa74": {
 "cross": "amazon|software privacy engineer multiple teams|bellevue wa",
@@ -18915,6 +18920,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:eb83c731-b7fa-48a9-ae84-e2b8d4591878": {
+"cross": "brillio|data acquisition analyst|frisco tx",
+"first_seen": "2026-11-03T09:58:57+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:eb8b9ba6-d180-4ed1-9bcc-b814710b5758": {
 "cross": "bytedance|research scientist graduate distributed nosql database systems|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -20640,8 +20650,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2110,
-"last_success": "2026-11-03T02:12:41+00:00"
+"count": 2098,
+"last_success": "2026-11-03T09:58:57+00:00"
 }
 }
 }
