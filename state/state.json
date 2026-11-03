@@ -1,28 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-02T19:44:07+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Huntington Ingalls Industries - IT Software Engineer 1 - Robotic Process Automation",
-"u": "https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors"
-},
-{
-"rt": "Other SWE",
-"t": "Google - Software Engineer 2 \u2013 Early Career",
-"u": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318"
-},
-{
-"rt": "Other SWE",
-"t": "Brown & Brown Insurance - Junior HubSpot Developer",
-"u": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694"
-},
-{
-"rt": "Other SWE",
-"t": "Pennsylvania State University - Software Engineer",
-"u": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Software-Engineer_REQ_0000083537-2"
-}
-],
+"last_run": "2026-11-03T02:12:41+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -427,6 +406,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:04b02353-a9e6-4727-b867-58601de9c53b": {
+"cross": "microsoft|software engineer ic2|redmond wa",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-816d-a4e3-c5e9c5d70018",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:04c60e91-d01a-4064-8c1d-ca70d2b2a05c": {
 "cross": "varian|systems engineer 1 robotics automation|united states",
 "first_seen": "2026-10-22T00:37:11+00:00",
@@ -496,6 +482,13 @@
 "first_seen": "2026-10-22T00:37:11+00:00",
 "page": "401b0cb5-8078-8138-9467-c99ec3a59e2e",
 "score": 73,
+"score_v": 1
+},
+"SimplifyJobs:059058e6-a3de-4daa-b2ed-dacf926dffc8": {
+"cross": "baker hughes|software engineer|minden nv",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-811c-b611-f35ba2806357",
+"score": 48,
 "score_v": 1
 },
 "SimplifyJobs:05b738c0-49b5-47b5-a61a-5f4ecd11bfc2": {
@@ -900,6 +893,13 @@
 "score": 61,
 "score_v": 1
 },
+"SimplifyJobs:0a08202a-9ca0-4035-92b3-f5ad8cb3c2fc": {
+"cross": "truveta|software engineer data fulfillment|seattle wa",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-8173-be62-e997cc7c7e08",
+"score": 71,
+"score_v": 1
+},
 "SimplifyJobs:0a0907aa-d621-45a2-9369-d48185040c33": {
 "cross": "the harris poll|data scientist bera|united states",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -1031,6 +1031,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "page": "3ecb0cb5-8078-81ba-8a17-c55f0e768172",
 "score": 58,
+"score_v": 1
+},
+"SimplifyJobs:0bf5e13d-96ec-48a1-9fa0-02cdedbac143": {
+"cross": "lineage logistics|associate report developer|remote in usa",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-81d6-9a28-de3b8eaeb4db",
+"score": 73,
 "score_v": 1
 },
 "SimplifyJobs:0c0e98e9-17b7-4035-b381-670534175dff": {
@@ -1871,6 +1878,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:1721a20b-e1d5-4fe6-8034-e99667920d32": {
+"cross": "qualtrics|software development engineer 1 data platform|seattle wa",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-810e-90c3-c538adf6a7ca",
+"score": 90,
+"score_v": 1
+},
 "SimplifyJobs:1730a615-0bc8-4f38-9370-6e135571b9bf": {
 "cross": "prairie view a m university|postdoctoral researcher ai powered multi agent system|prairie view tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -2042,6 +2056,13 @@
 "cross": "stem xpert|java developer|philadelphia pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:19b3d525-634e-4bc7-ad38-d92a4b53531d": {
+"cross": "anduril|space orbital software engineer|costa mesa ca",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-8133-ad76-ffb3ab1f034f",
+"score": 38,
+"score_v": 1
 },
 "SimplifyJobs:19b6c16e-d69f-4926-a7e1-ba07c39b6e18": {
 "cross": "roboforce|model evaluation operator|milpitas ca",
@@ -2764,6 +2785,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:21d95534-b7c0-4ac2-a5bf-bf41fc22eb03": {
+"cross": "bottom line|ai enablement analyst|portsmouth nh",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:21f096f7-9d22-4792-97b3-59eb6f470eab": {
 "cross": "national software management|entry level data analyst business analyst|atlanta ga",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3368,6 +3394,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:297cece2-1915-45d0-9400-a91f5cb56cee": {
+"cross": "capgemini|full stack developer|newark nj",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-8130-885c-f58d43e3a03e",
+"score": 65,
+"score_v": 1
+},
 "SimplifyJobs:29ae1a99-6563-4613-a5c1-f749981317bf": {
 "cross": "hewlett packard enterprise|research engineer|milpitas ca",
 "first_seen": "2026-10-06T14:07:50+00:00",
@@ -3548,6 +3581,11 @@
 "SimplifyJobs:2bc0f412-6c26-4576-9437-c70b0e34157c": {
 "cross": "newrez|software engineering trail operations specialist|coppell tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:2bcb1660-b758-4499-8e2d-a9c6e0507912": {
+"cross": "polished snow|founding growth engineer|california",
+"first_seen": "2026-11-03T02:12:41+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:2bdc9b65-ae92-4477-b012-6fd3d78589be": {
@@ -4402,6 +4440,13 @@
 "first_seen": "2026-10-07T23:45:51+00:00",
 "page": "3f2b0cb5-8078-81a3-8c45-e8f6e4469837",
 "score": 63,
+"score_v": 1
+},
+"SimplifyJobs:35ffc35a-a0e8-4fb9-87f9-4f74057ada90": {
+"cross": "stuller|data engineer|lafayette la",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-81f4-8922-c19006f91f1c",
+"score": 69,
 "score_v": 1
 },
 "SimplifyJobs:360d58b7-2e8d-435c-8b3a-09d576737492": {
@@ -6108,6 +6153,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:4d9ef4fb-994c-4b00-b432-639a505fc699": {
+"cross": "dtcc|software engineer python ai solutions|dallas tx jersey city nj tampa fl",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-813d-81d1-e2508b21bfc4",
+"score": 78,
+"score_v": 1
+},
 "SimplifyJobs:4da6a748-d1fc-4dc3-b3f7-7aaf4533f1d7": {
 "cross": "hewlett packard enterprise|systems software engineer 1|houston tx",
 "first_seen": "2026-10-07T13:12:03+00:00",
@@ -6218,6 +6270,11 @@
 "cross": "roche|graduate health data analyst new grad access and innovation|burgess hill uk",
 "first_seen": "2026-10-09T23:10:31+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:4ecffa3b-672f-48a3-bd20-2f705ae74ee1": {
+"cross": "microsoft|software engineer|canada vancouver bc canada",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:4edf1be0-a1a4-4828-a955-e65c4946143d": {
 "cross": "blue origin|aerospace software applications engineer 1 intern aerospace software apps|arlington county arlington va denver co huntsville al la longmont co reston va seattle wa space coast fl van horn tx",
@@ -7163,6 +7220,11 @@
 "cross": "tiktok|backend software engineer new grad emerging products ai safety|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:5af3b472-100a-4313-bde6-e0f53388a679": {
+"cross": "rothera|listings associate|chicago il",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:5af8d1b1-e4e4-4112-8f81-e71f304f2f52": {
 "cross": "lowe s|associate data engineering launchpad|charlotte nc",
@@ -8250,6 +8312,13 @@
 "cross": "atria group|cognos developer|houston tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:678408fa-5c42-4b8b-9c75-4027cd236cd7": {
+"cross": "qualtrics|software engineer 1 xmd|seattle wa",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-817f-81fc-c11fb2fc678a",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:67937ffc-14b5-4231-9e62-9a4f13dd11c2": {
 "cross": "instalily|software engineer 1 general|nyc sf",
@@ -9523,6 +9592,11 @@
 "cross": "retell ai|software engineer new grad founders initiatives|redwood city ca sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:77e778db-2c7d-4cdb-b477-75b1206e18ba": {
+"cross": "unity|software developer new grad u accelerate software developer|montreal qc canada",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:77f16648-b778-4629-8a7e-a451228b24d5": {
 "cross": "genesis ai|robot teleoperation specialist|london uk",
@@ -12260,6 +12334,11 @@
 "cross": "bytedance|software development engineer ai llm network global frontier tech recruitment program|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:9910f1e1-3019-4617-bdba-6c5ee8d8396a": {
+"cross": "databricks|software engineer new grad|london uk",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:99283317-d8aa-4b4e-be87-1a9bd31e8e11": {
 "cross": "northeastern university|r d software engineer|burlington ma",
@@ -16753,6 +16832,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:d24c7bcb-31ca-467e-bdf9-77d78089da23": {
+"cross": "applied materials|computer vision machine learning deep learning algorithm developer|santa clara ca",
+"dup": true,
+"first_seen": "2026-11-03T02:12:41+00:00"
+},
 "SimplifyJobs:d2a243f7-5ac3-48d5-8f20-94a3e4cd5a9c": {
 "cross": "systems planning and analysis|associate operations research analyst|nebraska",
 "first_seen": "2026-10-08T19:24:16+00:00",
@@ -17073,6 +17157,11 @@
 "score": 80,
 "score_v": 1
 },
+"SimplifyJobs:d6d13bd7-d9ba-45ac-8dcc-4dfd951d7784": {
+"cross": "aprio|campus ai automation associate|atlanta ga",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:d6d9aa9b-d516-4a21-b8ba-e2b4ba217313": {
 "cross": "fortinet|software developer agent security|burnaby bc canada",
 "first_seen": "2026-10-23T12:50:04+00:00",
@@ -17219,6 +17308,11 @@
 "SimplifyJobs:d7f1b24a-b651-4239-81a5-05805190a745": {
 "cross": "tiktok|research scientist multiple teams|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:d807ef83-bb32-4b77-8a67-894a9125e8f1": {
+"cross": "abbvie|ai engineer|north chicago il",
+"first_seen": "2026-11-03T02:12:41+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:d81a1240-55ae-4d3d-9cbb-850b013a2504": {
@@ -17825,6 +17919,13 @@
 "cross": "dark wolf solutions|junior data engineer|chantilly va herndon va",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:de9a9ad9-6f04-4abe-91d6-e8d89c552e48": {
+"cross": "apple|cellular power optimization software engineer wireless technologies ecosystems|san diego ca",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-8116-bbea-caea3ab22627",
+"score": 63,
+"score_v": 1
 },
 "SimplifyJobs:deb0d97f-47d1-4d62-bbfc-69de8cdfec88": {
 "cross": "chronograph|private equity data operations analyst|brooklyn ny",
@@ -18698,6 +18799,13 @@
 "dup": true,
 "first_seen": "2026-10-01T21:15:18+00:00"
 },
+"SimplifyJobs:e9db29d3-8963-43ba-8092-0817d1304cc0": {
+"cross": "verkada|backend software engineer|san mateo ca",
+"first_seen": "2026-11-03T02:12:41+00:00",
+"page": "40db0cb5-8078-8156-9b6b-f2a6288c5adc",
+"score": 83,
+"score_v": 1
+},
 "SimplifyJobs:e9fbe253-4c0b-4fd1-9213-529c36cc87a4": {
 "cross": "hewlett packard|channel enablement and digital entry|spring tx vancouver wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -19325,6 +19433,11 @@
 "SimplifyJobs:f156a6ad-52ae-45dc-a74c-caf3cdb3c09c": {
 "cross": "tsmg|field operator public transport survey project|birmingham uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:f16c20b3-32a1-4ef6-89fa-c359b3be7c77": {
+"cross": "zefr|multilingual data annotation specialist spanish|marina del rey ca",
+"first_seen": "2026-11-03T02:12:41+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:f1740d52-659d-40ce-941b-46d7d4db30d5": {
@@ -20527,8 +20640,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2103,
-"last_success": "2026-11-02T19:44:07+00:00"
+"count": 2110,
+"last_success": "2026-11-03T02:12:41+00:00"
 }
 }
 }
