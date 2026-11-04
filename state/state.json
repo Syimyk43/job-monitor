@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-04T03:10:47+00:00",
-"pending_digest": [],
+"last_run": "2026-11-04T11:29:39+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Nooks - Software Engineer",
+"u": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true"
+},
+{
+"rt": "Other SWE",
+"t": "Shield AI - Software Engineer 1 New Grad - Software - Factory Team",
+"u": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -2785,6 +2796,13 @@
 "score": 73,
 "score_v": 1
 },
+"SimplifyJobs:2188ec4a-987f-4736-b3c9-2173a826ad74": {
+"cross": "nooks|software engineer|sf seattle wa",
+"first_seen": "2026-11-04T11:29:39+00:00",
+"page": "40eb0cb5-8078-8131-adf0-c6f2d447e962",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:21891d00-3597-4abe-b856-02cb924e0f6c": {
 "cross": "cincinnati children s hospital and medical center|software developer 1 psychiatry|cincinnati oh",
 "first_seen": "2026-10-21T13:10:35+00:00",
@@ -3067,6 +3085,13 @@
 "first_seen": "2026-10-30T08:31:10+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:23f1c2c3-62c7-4b59-ad95-85d0505c58dc": {
+"cross": "shield ai|software engineer 1 new grad software factory team|washington dc",
+"first_seen": "2026-11-04T11:29:39+00:00",
+"page": "40eb0cb5-8078-81be-9998-e6c2168c66cd",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:240aec7f-4292-4146-b546-08c1b4d6430f": {
 "cross": "hewlett packard enterprise|software engineer graduate|andover ma bloomington mn chippewa falls wi durham nc fort collins co roseville ca san jose ca spring tx sunnyvale ca westford ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -3340,6 +3365,11 @@
 "cross": "viridien|graphical software developer|houston tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:27eff2d2-a7ab-477e-b561-728947abe09b": {
+"cross": "nooks|software engineer|sf",
+"first_seen": "2026-11-04T11:29:39+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:27f88baf-c0e8-48f8-9401-dd3e65d51e1c": {
 "cross": "avalore|data architect|arlington county arlington va",
@@ -6800,6 +6830,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:54a19931-6ab5-4ebc-ae93-304287f66c89": {
+"cross": "publicis groupe|junior data analyst social data automation|london uk",
+"first_seen": "2026-11-04T11:29:39+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:54c270cc-ece5-4a51-9ac6-47e6877451ae": {
 "cross": "peopletec|software engineer|huntsville al",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10073,6 +10108,11 @@
 "cross": "google|software engineer ai machine learning phd|atlanta ga durham nc kirkland wa madison wi mountain view ca nyc raleigh nc san bruno ca seattle wa sunnyvale ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:7c16f1bd-bd39-4a42-a12c-2e49647c85cd": {
+"cross": "shadowdragon|junior ai machine learning engineer|hoover al remote in usa",
+"first_seen": "2026-11-04T11:29:39+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:7c1bbe2b-812f-483b-a780-225a24752a26": {
 "cross": "bytedance|research scientist compute ai infra global frontier tech recruitment program|seattle wa",
@@ -20868,8 +20908,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2091,
-"last_success": "2026-11-04T03:10:47+00:00"
+"count": 2083,
+"last_success": "2026-11-04T11:29:39+00:00"
 }
 }
 }
