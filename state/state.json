@@ -1,18 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-04T11:29:39+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Nooks - Software Engineer",
-"u": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true"
-},
-{
-"rt": "Other SWE",
-"t": "Shield AI - Software Engineer 1 New Grad - Software - Factory Team",
-"u": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true"
-}
-],
+"last_run": "2026-11-04T18:50:06+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -5858,6 +5847,13 @@
 "cross": "newsbreak|software engineer junior new grad ml infra|mountain view ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:48b9e9fe-f16a-41df-8f2a-0349f8217fec": {
+"cross": "analog devices|field robotics systems engineer|wilmington ma",
+"first_seen": "2026-11-04T18:50:06+00:00",
+"page": "40eb0cb5-8078-8146-aa8f-f259c64c79c5",
+"score": 49,
+"score_v": 1
 },
 "SimplifyJobs:48bf49f5-eda3-401d-a7ae-961d66c48e77": {
 "cross": "self financial|associate software engineer ui|austin tx",
@@ -18625,6 +18621,11 @@
 "score": 63,
 "score_v": 1
 },
+"SimplifyJobs:e4729bc6-ba4d-4ede-a588-31b468dc32ae": {
+"cross": "roche|senior machine learning scientist|basel switzerland nyc",
+"first_seen": "2026-11-04T18:50:06+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:e477c19e-0543-43fc-af92-9a394bca77e5": {
 "cross": "everfox|software engineer 1|richardson tx",
 "first_seen": "2026-10-15T00:04:55+00:00",
@@ -20908,8 +20909,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2083,
-"last_success": "2026-11-04T11:29:39+00:00"
+"count": 2064,
+"last_success": "2026-11-04T18:50:06+00:00"
 }
 }
 }
