@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-05T15:46:17+00:00",
-"pending_digest": [],
+"last_run": "2026-11-05T21:55:31+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "EquipmentShare - Junior Ecommerce Web Developer",
+"u": "https://www.equipmentshare.com/careers/openings/?gh_jid=8319404"
+},
+{
+"rt": "Other SWE",
+"t": "CACI - Junior Software Developer",
+"u": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -650,6 +661,11 @@
 "cross": "peterson technologies|junior software engineer|annapolis junction md",
 "dup": true,
 "first_seen": "2026-10-04T12:14:46+00:00"
+},
+"SimplifyJobs:07498047-bdce-4692-afb4-c717fed1b40c": {
+"cross": "pfizer|associate ai engineering|united kingdom",
+"first_seen": "2026-11-05T21:55:31+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:074f3edc-866b-4482-90f5-be00b9391f14": {
 "cross": "innodata|generative ai associate|concord nh",
@@ -6305,6 +6321,13 @@
 "first_seen": "2026-10-30T23:41:28+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:4c59213c-136f-41cc-89c2-8df6becaa89f": {
+"cross": "caci|junior software developer|remote in usa",
+"first_seen": "2026-11-05T21:55:31+00:00",
+"page": "40fb0cb5-8078-81b0-8a9a-de1beeb1d2ad",
+"score": 48,
+"score_v": 1
+},
 "SimplifyJobs:4c68bb72-13b7-4a0d-9170-05695b593554": {
 "cross": "university of wyoming|born digital aide|laramie wy",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10972,6 +10995,11 @@
 "score": 79,
 "score_v": 1
 },
+"SimplifyJobs:8397a6f4-17a0-4389-94e9-190e720abe38": {
+"cross": "cisive|associate software developer|maryland",
+"first_seen": "2026-11-05T21:55:31+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:83a81125-8501-43a2-b0c7-82b520ae9102": {
 "cross": "aerovironment|junior software engineer|jessup md",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -13209,6 +13237,11 @@
 "cross": "astrion|junior software developer datalinks test flight|eglin afb fl",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:9db3ebf6-29f4-4a67-be0d-5ec98aa98a72": {
+"cross": "pa consulting|software development apprentice digital|london uk",
+"first_seen": "2026-11-05T21:55:31+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:9dd271a3-9548-43cb-aa06-75e9947c1623": {
 "cross": "universal health services|associate software engineer fsi|king of prussia pa",
@@ -17598,6 +17631,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:d4b9b290-bb1d-4cdc-9f50-5e446cbd9540": {
+"cross": "td bank|associate software engineer|london on canada",
+"first_seen": "2026-11-05T21:55:31+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:d4bfc074-22eb-471a-bc81-5b615c25daed": {
 "cross": "tiktok|graduate software engineer|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -21003,6 +21041,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:fb9cc829-2767-40a8-bca6-eeec81ba3135": {
+"cross": "equipmentshare|junior ecommerce web developer|columbia mo",
+"first_seen": "2026-11-05T21:55:31+00:00",
+"page": "40fb0cb5-8078-81e5-b763-ef8a6a589fe9",
+"score": 59,
+"score_v": 1
+},
 "SimplifyJobs:fb9d1bc5-399e-4cf2-a654-382ad437f727": {
 "cross": "american express|data analytics analyst enterprise technology services|charlotte nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -21391,8 +21436,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2162,
-"last_success": "2026-11-05T15:46:17+00:00"
+"count": 2153,
+"last_success": "2026-11-05T21:55:31+00:00"
 }
 }
 }
