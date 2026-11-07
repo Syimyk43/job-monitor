@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-07T09:11:24+00:00",
+"last_run": "2026-11-07T15:52:42+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -2330,6 +2330,11 @@
 "SimplifyJobs:1b3ee553-3abc-4f9f-9639-21234da78621": {
 "cross": "innodata|generative ai associate|remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:1b406b39-21cb-4005-bed0-9b26f1f6d539": {
+"cross": "tufts university|postdoctoral scholar|medford ma",
+"first_seen": "2026-11-07T15:52:42+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:1b47df5a-a950-4f67-8411-1bb9a8fd4554": {
@@ -21847,8 +21852,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2173,
-"last_success": "2026-11-07T09:11:24+00:00"
+"count": 2166,
+"last_success": "2026-11-07T15:52:42+00:00"
 }
 }
 }
