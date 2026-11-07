@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-07T02:19:23+00:00",
-"pending_digest": [],
+"last_run": "2026-11-07T09:11:24+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "AbbVie - Associate Software Engineer 1",
+"u": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126"
+},
+{
+"rt": "Other SWE",
+"t": "Iowa State University - Software Developer 1",
+"u": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R20057"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -6300,6 +6311,13 @@
 "score": 63,
 "score_v": 1
 },
+"SimplifyJobs:4b5a24bb-4cb3-4d79-95d7-860287cc32b8": {
+"cross": "abbvie|associate software engineer 1|north chicago il",
+"first_seen": "2026-11-07T09:11:24+00:00",
+"page": "411b0cb5-8078-8107-810e-d96d8f6aabdb",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:4b5d7971-e929-4b44-978d-0c232abefc17": {
 "cross": "dealer tire|associate data scientist|ohio remote in usa",
 "first_seen": "2026-10-06T23:45:08+00:00",
@@ -6372,6 +6390,11 @@
 "page": "3f2b0cb5-8078-810c-bc4d-e97a9c073e9c",
 "score": 73,
 "score_v": 1
+},
+"SimplifyJobs:4c35ea86-4881-4a1a-8263-44df9a6b8c5b": {
+"cross": "lumentum|process automation software engineer mems|ottawa on canada",
+"first_seen": "2026-11-07T09:11:24+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:4c3c63fd-9eab-4478-bc80-4ee58d81be85": {
 "cross": "rubrik|software engineer entra id|palo alto ca",
@@ -14638,6 +14661,11 @@
 "first_seen": "2026-10-15T00:04:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ace4e9cd-7570-4e01-9270-0686dce912d3": {
+"cross": "abbvie|associate engineer technology 1|north chicago il",
+"dup": true,
+"first_seen": "2026-11-07T09:11:24+00:00"
+},
 "SimplifyJobs:ace7f477-ec40-4ce7-9b0e-cff7cd39d041": {
 "cross": "kled ai|cluttered surfaces for counting contract|california remote in usa",
 "first_seen": "2026-10-26T23:49:49+00:00",
@@ -21772,6 +21800,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:ffa2113a-b45f-49c0-afa2-03a8614f1c28": {
+"cross": "iowa state university|software developer 1|ames ia",
+"first_seen": "2026-11-07T09:11:24+00:00",
+"page": "411b0cb5-8078-81a1-94ca-ff373e1054b4",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:ffb56402-7fe4-431b-92b9-1df914f66737": {
 "cross": "ample insight|data administrator|toronto on canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -21812,8 +21847,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2176,
-"last_success": "2026-11-07T02:19:23+00:00"
+"count": 2173,
+"last_success": "2026-11-07T09:11:24+00:00"
 }
 }
 }
