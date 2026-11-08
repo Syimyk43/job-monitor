@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-07T23:54:02+00:00",
+"last_run": "2026-11-08T05:51:38+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -9163,6 +9163,11 @@
 "score": 34,
 "score_v": 1
 },
+"SimplifyJobs:6c6b37b8-2259-4edd-ae65-128df2b447ea": {
+"cross": "artificial analysis|robotics research assistant|sf",
+"first_seen": "2026-11-08T05:51:38+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:6c781675-4fa2-4831-8d63-86cc4fb198f1": {
 "cross": "the home depot|associate data scientist supply chain|atlanta ga",
 "first_seen": "2026-10-07T19:29:32+00:00",
@@ -9675,6 +9680,11 @@
 "page": "3ecb0cb5-8078-810b-baba-dd5bf8821f15",
 "score": 0,
 "score_v": 1,
+"skip": "level/role excluded"
+},
+"SimplifyJobs:72f871b3-7dc6-4dd8-9772-c6e0268eb857": {
+"cross": "perplexity ai|member of technical staff software engineer ai policy and strategic initiatives|sf washington dc",
+"first_seen": "2026-11-08T05:51:38+00:00",
 "skip": "level/role excluded"
 },
 "SimplifyJobs:730d38da-aff4-4770-896b-533e318ef109": {
@@ -21852,8 +21862,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2162,
-"last_success": "2026-11-07T23:54:02+00:00"
+"count": 2165,
+"last_success": "2026-11-08T05:51:38+00:00"
 }
 }
 }
