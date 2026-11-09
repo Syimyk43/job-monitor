@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-08T22:25:26+00:00",
-"pending_digest": [],
+"last_run": "2026-11-09T01:55:17+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Shield AI - Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+"u": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -767,6 +773,11 @@
 "SimplifyJobs:07ed29b5-1f97-4d0e-9dc0-c511ddcb781b": {
 "cross": "johns hopkins applied physics laboratory|sensor systems data analytics new grad|laurel md",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:07edd5c1-ff46-4123-aaab-3b21723aefff": {
+"cross": "shield ai|engineer 2 new grad multiple teams|washington dc",
+"first_seen": "2026-11-09T01:55:17+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:080ae20a-20b7-4971-8e68-70b02946bd25": {
@@ -3632,6 +3643,11 @@
 "SimplifyJobs:29f1163e-e2ef-407e-9e7e-366375dd6f14": {
 "cross": "bytedance|research scientist|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:2a02aac8-141d-448e-bdf4-a6842f1f372e": {
+"cross": "shield ai|engineer 1 new grad software perception|washington dc",
+"first_seen": "2026-11-09T01:55:17+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:2a035b52-c3c9-42cc-bcdc-5ec6580ae2bc": {
@@ -6609,6 +6625,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:4ec3d85d-62a9-4b10-8936-7508a8f35bac": {
+"cross": "shield ai|engineer 1 new grad software perception|washington dc",
+"first_seen": "2026-11-09T01:55:17+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:4ec8e592-f297-479a-ab56-d80abf24fa27": {
 "cross": "tiktok|machine learning engineer graduate tiktok vertical recommendation|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7093,6 +7114,11 @@
 "cross": "bowman consulting group|lidar technician 1|austin tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:5443fedc-d890-4929-9ace-e2ce40d1b5a6": {
+"cross": "shield ai|engineer 1 new grad software autonomous pilot integration|washington dc",
+"first_seen": "2026-11-09T01:55:17+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:5494c5a6-9c5b-48aa-9cdf-859763fa973a": {
 "cross": "gartner|associate data analyst insights and product analytics|irving tx stamford ct",
@@ -12875,6 +12901,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:978b9780-aeb1-4efa-a91f-a2184ed0d0d9": {
+"cross": "shield ai|engineer 1 new grad software autonomous pilot integration|washington dc",
+"first_seen": "2026-11-09T01:55:17+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:979c2a8d-5e79-4fc8-b155-4081978b94aa": {
 "cross": "peraton|artificial intelligence machine learning engineer 1|laurel md",
 "first_seen": "2026-10-02T23:13:14+00:00",
@@ -17160,6 +17191,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:cb9057c1-ead7-42d2-8535-e6ee376a8005": {
+"cross": "shield ai|software engineer 1 new grad software autonomy capabilities|united states",
+"first_seen": "2026-11-09T01:55:17+00:00",
+"page": "413b0cb5-8078-812f-bf08-ecc1b4f7d28d",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:cb96d32f-67a9-4494-8a76-7c40bfd6a366": {
 "cross": "halliburton|associate software engineer|abingdon uk",
 "first_seen": "2026-10-23T12:50:04+00:00",
@@ -17181,6 +17219,11 @@
 "cross": "tiktok|software engineer graduate recommendation|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c": {
+"cross": "shield ai|engineer 1 new grad software autonomy capabilities|united states",
+"first_seen": "2026-11-09T01:55:17+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:cbe8cba9-03c9-4878-b4a8-473573b61e21": {
 "cross": "rtx|software engineer developer 1|portsmouth ri",
@@ -21851,8 +21894,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2156,
-"last_success": "2026-11-08T22:25:26+00:00"
+"count": 2164,
+"last_success": "2026-11-09T01:55:17+00:00"
 }
 }
 }
