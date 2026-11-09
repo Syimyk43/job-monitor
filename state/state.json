@@ -1,11 +1,16 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-09T01:55:17+00:00",
+"last_run": "2026-11-09T09:38:21+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "Shield AI - Software Engineer 1 New Grad - Software - Autonomy Capabilities",
 "u": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true"
+},
+{
+"rt": "Backend",
+"t": "M&T Bank - Technology Development Program - Software Engineering - Data & API Engineering",
+"u": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036"
 }
 ],
 "seen": {
@@ -870,6 +875,13 @@
 "cross": "oak view group|game night statistician|palm desert ca",
 "first_seen": "2026-11-05T15:46:17+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:09189c3a-8701-428c-a334-fc2353eed8e3": {
+"cross": "m t bank|technology development program software engineering data api engineering|buffalo ny",
+"first_seen": "2026-11-09T09:38:21+00:00",
+"page": "413b0cb5-8078-81c9-9f47-cab3853dd98d",
+"score": 100,
+"score_v": 1
 },
 "SimplifyJobs:091aac0a-16e7-4c81-adec-16382c6fc6c1": {
 "cross": "canonical|web frontend engineer multiple teams|remote in uk",
@@ -14189,6 +14201,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:a62bfe3c-827f-4d3c-b91c-b3a6768bd499": {
+"cross": "m t bank|technology development program software engineering enterprise wealth application development|buffalo ny",
+"first_seen": "2026-11-09T09:38:21+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a64277ab-2156-4ae3-ab25-a6cef93474ac": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|cheyenne wy",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -21894,8 +21911,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2164,
-"last_success": "2026-11-09T01:55:17+00:00"
+"count": 2157,
+"last_success": "2026-11-09T09:38:21+00:00"
 }
 }
 }
