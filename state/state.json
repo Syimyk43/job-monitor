@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-10T11:41:11+00:00",
+"last_run": "2026-11-10T19:38:37+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
@@ -16,6 +16,11 @@
 "rt": "Other SWE",
 "t": "Auburn University - Student Developer & Data Analyst",
 "u": "https://jobs.auburn.edu/jobs/10020?icims=1&lang=en-us"
+},
+{
+"rt": "Other SWE",
+"t": "Fidelity National Information Services - Mainframe Software Engineer 1",
+"u": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1"
 }
 ],
 "seen": {
@@ -4483,6 +4488,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:321b8448-8bae-4dbf-a481-4f65e850cffb": {
+"cross": "leidos|software engineer application development|bristol uk",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:32302c2d-ca4d-4a2f-9ce1-14817125baa7": {
 "cross": "barr|gis specialist|minneapolis mn",
 "first_seen": "2026-10-15T00:04:55+00:00",
@@ -5522,6 +5532,11 @@
 "cross": "instalily|software engineer general|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:3f7d5207-8a9e-454d-86b7-883d015efaec": {
+"cross": "welo global|robotics teleoperator|sf",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:3fa13a7e-c5ff-44e8-982b-19a4d1129b16": {
 "cross": "tsc|systems engineer 1|silver spring md",
@@ -6804,6 +6819,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:4eb69d88-9d79-4e01-80a1-bd85252cc29f": {
+"cross": "vizient|associate software engineer|irving tx",
+"dup": true,
+"first_seen": "2026-11-10T19:38:37+00:00"
+},
 "SimplifyJobs:4eb6be04-002f-49eb-b81b-a4e091a45269": {
 "cross": "the allen institute for ai|young investigator robotics|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6988,6 +7008,11 @@
 "cross": "lifted solutions|flexible work help improve ai english speakers|london uk remote in australia remote in canada remote in ireland remote in usa",
 "first_seen": "2026-10-09T23:10:31+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:505b8332-6a47-4be8-a898-d03e93941097": {
+"cross": "pa consulting|graduate analyst digital digital data|bristol uk",
+"dup": true,
+"first_seen": "2026-11-10T19:38:37+00:00"
 },
 "SimplifyJobs:5064e3b2-e63b-4802-9a09-a4ac41a2db8f": {
 "cross": "sony|associate data analyst|san diego ca",
@@ -7252,6 +7277,11 @@
 "score": 73,
 "score_v": 1
 },
+"SimplifyJobs:538a0fce-1b59-4727-a516-808b8192cf4b": {
+"cross": "legal general|asset management data apprentice|cardiff uk",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:539ddb97-a187-4681-9626-955ac26196f8": {
 "cross": "broadcom limited|support engineer mainframe|lisle il",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7271,6 +7301,11 @@
 "cross": "testing xperts|java technical lead|pittsburgh pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:5405b5e2-f6e3-47b0-a3fc-22bdbde27055": {
+"cross": "travelers|analyst business insights|london uk",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:5406c7be-0d9c-4f93-a891-3b0f0154d106": {
 "cross": "seatgeek|data analyst new grad|nyc",
@@ -10305,6 +10340,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:7669c719-33f8-4c66-b28f-c9a8f1df5d10": {
+"cross": "aecom|entry level gis specialist|honolulu hi",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:76749e6c-ae46-458c-958e-1980f2fc2dc6": {
 "cross": "tiktok|backend engineer graduate|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10705,6 +10745,11 @@
 "SimplifyJobs:7b17adda-ec77-495d-b483-4f584209b5fa": {
 "cross": "highlight ai|early career product engineer|sf",
 "first_seen": "2026-10-04T12:14:46+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:7b1b8590-4ac8-48f1-b379-7ff9bc8067bb": {
+"cross": "travelers|business insights analyst|london uk",
+"first_seen": "2026-11-10T19:38:37+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:7b28ad1a-3b67-44fa-9397-e62fd4fab9d3": {
@@ -14627,6 +14672,11 @@
 "first_seen": "2026-10-09T05:58:32+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a7c9e6c0-bf01-4bab-b40e-96d415a7f88d": {
+"cross": "eversource energy|associate analyst transmission|westwood ma",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a7dd04c6-c880-41f3-9f62-e1a48155eb37": {
 "cross": "global lending services|data developer|greenville sc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -16735,6 +16785,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:c1ff6cc7-a1ca-4fa9-8175-f705039e837f": {
+"cross": "fidelity national information services|mainframe software engineer 1|columbus ga",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"page": "414b0cb5-8078-81c1-89da-ca10f5578efc",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:c1ff70ac-2d96-4be5-9871-fd24849b55aa": {
 "cross": "ahead|associate technical consultant application development|chicago il",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -17144,6 +17201,11 @@
 "cross": "snowflake|post doctoral researcher|bellevue wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:c6f90e83-7eac-49e1-9f69-534fb81bc0a4": {
+"cross": "rtx|metrology database support engineer|tucson az",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:c71839a1-a3ae-419c-9ab8-6377c3d0dc1f": {
 "cross": "invenergy|analyst geospatial gis|denver co",
@@ -20012,6 +20074,11 @@
 "score": 65,
 "score_v": 1
 },
+"SimplifyJobs:e5ddb274-9f36-4709-abfb-02a004dccbc1": {
+"cross": "kalshi|software engineer marketing|nyc",
+"first_seen": "2026-11-10T19:38:37+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:e5e41e48-5f98-45a6-8bc7-c1c6e5f3703a": {
 "cross": "marriott international|guest experience specialist|romulus mi",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -22273,8 +22340,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2167,
-"last_success": "2026-11-10T11:41:11+00:00"
+"count": 2155,
+"last_success": "2026-11-10T19:38:37+00:00"
 }
 }
 }
