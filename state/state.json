@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-11T00:35:14+00:00",
-"pending_digest": [],
+"last_run": "2026-11-11T07:03:59+00:00",
+"pending_digest": [
+{
+"rt": "Platform",
+"t": "Amazon - Software Development Engineer Early Career - Amazon Dedicated Cloud",
+"u": "https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc"
+},
+{
+"rt": "Data Engineering",
+"t": "Amentum - Junior Data Engineer",
+"u": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"
+},
+{
+"rt": "Other SWE",
+"t": "Shield AI - Software Engineer 1 New Grad - Internal Tools",
+"u": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -704,6 +720,11 @@
 "page": "3ecb0cb5-8078-81e5-9257-da062a1a8d0b",
 "score": 44,
 "score_v": 1
+},
+"SimplifyJobs:076316f1-2948-47b2-9ff6-f230f7065080": {
+"cross": "shield ai|software engineer 1 new grad software factory team|washington dc",
+"dup": true,
+"first_seen": "2026-11-11T07:03:59+00:00"
 },
 "SimplifyJobs:076b67e3-3500-43b8-9900-446ce4075cec": {
 "cross": "stripe|software engineer new grad|toronto on canada",
@@ -3364,6 +3385,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:2457b835-2e5e-4f15-b4e5-0a6ede932255": {
+"cross": "shield ai|engineer 2 new grad software factory|washington dc",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:24653590-27f4-435f-9fb7-92e5dd9a6217": {
 "cross": "dellfor technologies|entry level net developer|united states",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5927,6 +5953,11 @@
 "first_seen": "2026-10-23T23:57:58+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:43b8e348-e9a9-41b1-9c10-5bc2b4d1cbce": {
+"cross": "bask health|product builder early career|remote in usa",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:43cac478-76b4-4968-9ede-e3293fd02c28": {
 "cross": "tiktok|frontend software engineer new grad ads interface|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6092,6 +6123,13 @@
 "cross": "pacific northwest national laboratory|post master s research associate spatial mass spec imaging data science|richland wa",
 "first_seen": "2026-10-05T18:20:45+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:45c3b7e6-ab17-438a-8639-6e361d0cb2bd": {
+"cross": "shield ai|software engineer 1 new grad internal tools|seattle wa",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"page": "415b0cb5-8078-81ae-8364-df21fc1324ea",
+"score": 68,
+"score_v": 1
 },
 "SimplifyJobs:45cdcc97-8908-40dc-b06a-fc71a7ed5d5b": {
 "cross": "rtx|software engineer 1|cedar rapids ia",
@@ -6309,6 +6347,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:48a0be91-2b9f-4979-b445-a40ae86eb9c4": {
+"cross": "shield ai|perception engineer multimodal embodied ai|san diego ca",
+"dup": true,
+"first_seen": "2026-11-11T07:03:59+00:00"
+},
 "SimplifyJobs:48b9e9fe-f16a-41df-8f2a-0349f8217fec": {
 "cross": "analog devices|field robotics systems engineer|wilmington ma",
 "first_seen": "2026-11-04T18:50:06+00:00",
@@ -6349,6 +6392,11 @@
 "page": "3f3b0cb5-8078-81af-a60b-fc51ac5aeb31",
 "score": 73,
 "score_v": 1
+},
+"SimplifyJobs:494ae9a5-3940-4fed-b2d1-5d2eebb4ec8f": {
+"cross": "shield ai|engineer 1 new grad software autonomous pilot integration|washington dc",
+"dup": true,
+"first_seen": "2026-11-11T07:03:59+00:00"
 },
 "SimplifyJobs:4951638d-d1fa-4060-9775-cad28a332ed4": {
 "cross": "m c dean|systems specialist associate|monroe la",
@@ -10323,6 +10371,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:75ad26cf-c6b7-4225-8b8b-c4c2f0a34e40": {
+"cross": "rtx|software engineer 1|richardson tx",
+"dup": true,
+"first_seen": "2026-11-11T07:03:59+00:00"
+},
 "SimplifyJobs:75af429c-8e03-496d-9fd9-59a3f5333cc7": {
 "cross": "barclays|graduate technology developer|glasgow uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10604,6 +10657,13 @@
 "cross": "citi|python developer|nyc",
 "first_seen": "2026-10-30T01:52:38+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:794be3df-1425-488c-b884-a8d29f0732f1": {
+"cross": "amazon|software development engineer early career amazon dedicated cloud|arlington county arlington va denver co herndon va jessup md seattle wa",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"page": "415b0cb5-8078-8191-8225-f8ca1335c99b",
+"score": 83,
+"score_v": 1
 },
 "SimplifyJobs:794e5f52-51a7-44ec-8638-4e5928d3af05": {
 "cross": "wsp|data analytics program management consultant|baltimore md",
@@ -12053,6 +12113,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:89561c7a-b727-412e-8723-030904cc22f3": {
+"cross": "shield ai|engineer 2 new grad simulation framework|san diego ca",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:8982c276-3471-4e45-b3d4-15d35b2c5de3": {
 "cross": "wise|graduate product analyst|london uk",
 "first_seen": "2026-10-19T17:43:42+00:00",
@@ -13304,6 +13369,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:974e9408-ad44-4c67-b4b8-07978d66b732": {
+"cross": "sheetz|energy analyst 1|altoona pa",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:9775f7b2-989f-4829-8ba4-4039b4334a4c": {
 "cross": "fortinet|ai automation engineer|sunnyvale ca",
 "first_seen": "2026-10-27T10:25:24+00:00",
@@ -13392,6 +13462,11 @@
 "page": "3fcb0cb5-8078-8129-b708-fbfaf9bc366d",
 "score": 73,
 "score_v": 1
+},
+"SimplifyJobs:98513b2d-8d02-475f-b6aa-c17c6a28b222": {
+"cross": "stratos technologies|forward deployed engineer|london uk",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:98513caa-9d83-4dfc-98c9-a34a20e9fbf4": {
 "cross": "cambridge consultants|phd graduate ai and algorithms engineer|united kingdom",
@@ -15960,6 +16035,13 @@
 "first_seen": "2026-10-28T00:26:34+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:b5d78578-847e-43f2-9ade-3b44ae95b38b": {
+"cross": "amentum|junior data engineer|springfield va",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"page": "415b0cb5-8078-81af-ba5a-cf4846b3d056",
+"score": 79,
+"score_v": 1
+},
 "SimplifyJobs:b5e38f93-270f-4bb5-ac95-6f7942c8fc57": {
 "cross": "lexisnexis risk solutions|software engineer new grad|london uk",
 "first_seen": "2026-10-26T20:06:49+00:00",
@@ -15986,6 +16068,11 @@
 "page": "3f2b0cb5-8078-816a-8d6b-f5558c124744",
 "score": 73,
 "score_v": 1
+},
+"SimplifyJobs:b66fea62-a88a-49b8-b4b3-8a1e383f3a74": {
+"cross": "shield ai|software engineer 1 new grad software autonomy capabilities|united states",
+"dup": true,
+"first_seen": "2026-11-11T07:03:59+00:00"
 },
 "SimplifyJobs:b6708f55-ced2-419a-9010-bf33b8b94595": {
 "cross": "microsoft|software engineer|remote in usa",
@@ -17424,6 +17511,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:c89cb23a-35c0-4ed1-96d9-a1fc5925ab1d": {
+"cross": "shield ai|engineer 2 new grad multiple teams|washington dc",
+"dup": true,
+"first_seen": "2026-11-11T07:03:59+00:00"
+},
 "SimplifyJobs:c89cddfc-ea4d-453c-91cd-3f9293e56a32": {
 "cross": "tiktok|software engineer data arch data ecosystem|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -18536,6 +18628,11 @@
 "cross": "theguarantors|data engineer|nyc",
 "first_seen": "2026-10-04T12:14:46+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:d4f6b336-d307-427a-a31d-155f8fabb6c0": {
+"cross": "shield ai|simulation framework engineer 1 new grad simulation framework|washington dc",
+"first_seen": "2026-11-11T07:03:59+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:d4f9343e-d33a-4784-9ce5-bd26b3b3bd28": {
 "cross": "tiktok|machine learning engineer graduate e commerce recommendation search alliance|seattle wa",
@@ -20948,6 +21045,11 @@
 "first_seen": "2026-10-06T14:07:50+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:ef376430-19cd-41b4-baa8-322fc5fcf45a": {
+"cross": "shield ai|engineer 1 new grad software perception|washington dc",
+"dup": true,
+"first_seen": "2026-11-11T07:03:59+00:00"
+},
 "SimplifyJobs:ef389837-a436-4e61-ad27-7f8a5a2e414f": {
 "cross": "fiserv|android application framework developer device engineering|sunnyvale ca",
 "first_seen": "2026-10-28T13:28:31+00:00",
@@ -22469,8 +22571,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2179,
-"last_success": "2026-11-11T00:35:14+00:00"
+"count": 2186,
+"last_success": "2026-11-11T07:03:59+00:00"
 }
 }
 }
