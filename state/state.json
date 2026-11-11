@@ -1,23 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-11T15:05:40+00:00",
-"pending_digest": [
-{
-"rt": "Platform",
-"t": "Amazon - Software Development Engineer Early Career - Amazon Dedicated Cloud",
-"u": "https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc"
-},
-{
-"rt": "Data Engineering",
-"t": "Amentum - Junior Data Engineer",
-"u": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"
-},
-{
-"rt": "Other SWE",
-"t": "Shield AI - Software Engineer 1 New Grad - Internal Tools",
-"u": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true"
-}
-],
+"last_run": "2026-11-11T21:53:23+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -871,6 +855,13 @@
 "cross": "msi express|batch mixer|rosendale wi",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:08b6aa04-6182-4358-9dac-780dc740bfee": {
+"cross": "intercontinental exchange|associate software developer|jacksonville fl",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"page": "415b0cb5-8078-8137-9338-ed39c74bff23",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:08b8d057-b201-4fc6-ac31-5dfc4755467e": {
 "cross": "oratomic|ai scientist|pasadena ca",
@@ -2075,6 +2066,11 @@
 "cross": "western digital|software engineer|colorado springs co fremont ca irvine ca longmont co rochester mn san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:1712cac2-b710-4c41-a381-3eb6e3155972": {
+"cross": "sharkninja|forward deployed engineer entry level the fin|needham ma",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:1721a20b-e1d5-4fe6-8034-e99667920d32": {
 "cross": "qualtrics|software development engineer 1 data platform|seattle wa",
@@ -3739,6 +3735,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:295a5495-1299-40d8-a6f7-062c1d8901fb": {
+"cross": "critical mass|marketing science associate analyst|san jose ca",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:29762137-0e7d-4af8-9ef1-9ff70f9eda4f": {
 "cross": "peraton|web architect|fort huachuca sierra vista az",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4177,6 +4178,11 @@
 "cross": "parsons|software engineer ts|centreville va",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:2e2fb962-17db-4a2d-91cc-ed79e091a0ff": {
+"cross": "the progeny group|graduate digital technology|midlothian uk",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:2e33f293-d66b-48dc-9a1c-6feb41db4879": {
 "cross": "canonical|software engineer secure container images|remote in afghanistan remote in albania remote in algeria remote in american samoa remote in andorra remote in angola remote in anguilla remote in antigua and barbuda remote in argentina remote in armenia remote in aruba remote in australia remote in austria remote in azerbaijan remote in bahamas remote in bahrain remote in bangladesh remote in barbados remote in belarus remote in belgium remote in belize remote in benin remote in bermuda remote in bhutan remote in bolivia remote in bonaire sint eustatius and saba remote in bosnia and herzegovina remote in botswana remote in bouvet island remote in brazil remote in british indian ocean territory remote in brunei darussalam remote in bulgaria remote in burkina faso remote in burundi remote in cabo verde remote in cambodia remote in cameroon remote in canada remote in cayman islands remote in central african republic remote in chad remote in chile remote in china remote in christmas island remote in cocos keeling islands remote in colombia remote in comoros remote in congo remote in congo the democratic republic of the remote in cook islands remote in costa rica remote in croatia remote in cuba remote in cura ao remote in cyprus remote in czechia remote in c te d ivoire remote in denmark remote in djibouti remote in dominica remote in dominican republic remote in ecuador remote in egypt remote in el salvador remote in equatorial guinea remote in eritrea remote in estonia remote in eswatini remote in ethiopia remote in falkland islands malvinas remote in faroe islands remote in fiji remote in finland remote in france remote in french guiana remote in french polynesia remote in french southern territories remote in gabon remote in gambia remote in georgia remote in germany remote in ghana remote in gibraltar remote in greece remote in greenland remote in grenada remote in guadeloupe remote in guam remote in guatemala remote in guernsey remote in guinea remote in guinea bissau remote in guyana remote in haiti remote in heard island and mcdonald islands remote in holy see vatican city state remote in honduras remote in hong kong remote in hungary remote in iceland remote in india remote in indonesia remote in iran remote in iraq remote in ireland remote in isle of man remote in israel remote in italy remote in jamaica remote in japan remote in jersey remote in jordan remote in kazakhstan remote in kenya remote in kiribati remote in kuwait remote in kyrgyzstan remote in laos remote in latvia remote in lebanon remote in lesotho remote in liberia remote in libya remote in liechtenstein remote in lithuania remote in luxembourg remote in macao remote in madagascar remote in malawi remote in malaysia remote in maldives remote in mali remote in malta remote in marshall islands remote in martinique remote in mauritania remote in mauritius remote in mayotte remote in mexico remote in micronesia federated states of remote in moldova remote in monaco remote in mongolia remote in montenegro remote in montserrat remote in morocco remote in mozambique remote in myanmar remote in namibia remote in nauru remote in nepal remote in netherlands remote in new caledonia remote in new zealand remote in nicaragua remote in niger remote in nigeria remote in niue remote in norfolk island remote in north korea remote in north macedonia remote in northern mariana islands remote in norway remote in oman remote in pakistan remote in palau remote in palestine state of remote in panama remote in papua new guinea remote in paraguay remote in peru remote in philippines remote in pitcairn remote in poland remote in portugal remote in puerto rico remote in qatar remote in romania remote in russia remote in rwanda remote in r union remote in saint barth lemy remote in saint helena ascension and tristan da cunha remote in saint kitts and nevis remote in saint lucia remote in saint martin french part remote in saint pierre and miquelon remote in saint vincent and the grenadines remote in samoa remote in san marino remote in sao tome and principe remote in saudi arabia remote in senegal remote in serbia remote in seychelles remote in sierra leone remote in singapore remote in sint maarten dutch part remote in slovakia remote in slovenia remote in solomon islands remote in somalia remote in south africa remote in south georgia and the south sandwich islands remote in south korea remote in south sudan remote in spain remote in sri lanka remote in sudan remote in suriname remote in svalbard and jan mayen remote in sweden remote in switzerland remote in syria remote in taiwan remote in tajikistan remote in tanzania remote in thailand remote in timor leste remote in togo remote in tokelau remote in tonga remote in trinidad and tobago remote in tunisia remote in turkey remote in turkmenistan remote in turks and caicos islands remote in tuvalu remote in uk remote in usa remote in uganda remote in ukraine remote in united arab emirates remote in united states minor outlying islands remote in uruguay remote in uzbekistan remote in vanuatu remote in venezuela remote in vietnam remote in virgin islands british remote in virgin islands u s remote in wallis and futuna remote in western sahara remote in yemen remote in zambia remote in zimbabwe remote in land islands",
@@ -5865,6 +5871,13 @@
 "cross": "starbucks|shift supervisor|la",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:42f44307-aff3-43e3-a668-7c1e8f770572": {
+"cross": "northrop grumman|associate software engineer pathways|boulder co",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"page": "415b0cb5-8078-819f-8a7d-c4e68a494149",
+"score": 48,
+"score_v": 1
 },
 "SimplifyJobs:42f54b54-a49b-43a7-8f24-f7a7fe227cfa": {
 "cross": "fervo energy|seismologist|houston tx",
@@ -8240,6 +8253,13 @@
 "first_seen": "2026-10-23T17:50:42+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:5d1a3f0e-ab9b-430a-affb-25361ff9d644": {
+"cross": "salesforce|software engineer new grad|bellevue wa dallas tx indianapolis in nyc palo alto ca sf seattle wa",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"page": "415b0cb5-8078-810c-aafc-c67801d74713",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:5d2615fd-5855-468c-b2f7-0ba0cf79d0a5": {
 "cross": "vizient|associate software engineer|irving tx",
 "first_seen": "2026-10-22T00:37:11+00:00",
@@ -9915,6 +9935,11 @@
 "cross": "tsc|electrical engineer radar|silver spring md",
 "first_seen": "2026-10-28T00:26:34+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:70fc8eb1-14d7-4867-a58b-a2d8cab57ce5": {
+"cross": "legal 500|research data analyst|leeds uk",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:70fff953-84ce-4b7b-98f3-9c82acc8031c": {
 "cross": "upstart|applied scientist unsecured underwriting machine learning|remote in usa",
@@ -14315,6 +14340,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:a10d7210-cc5a-4223-850b-55491ec158f7": {
+"cross": "verdantas|data analyst 1|san diego ca",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a10f1a4a-5612-4fb1-9c86-ce19a91d358d": {
 "cross": "american express|software engineer new grad|london uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -16346,6 +16376,11 @@
 "dup": true,
 "first_seen": "2026-11-04T03:10:47+00:00"
 },
+"SimplifyJobs:b9a9ef3f-b90a-467e-8fdb-3a2eedd155ab": {
+"cross": "intercontinental exchange|associate software developer|jacksonville fl",
+"dup": true,
+"first_seen": "2026-11-11T21:53:23+00:00"
+},
 "SimplifyJobs:b9b3cf29-7633-405c-8dbf-78009489b5fd": {
 "cross": "baptist health|scheduling coordinator surgical associates|louisville ky",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -17032,6 +17067,11 @@
 "page": "3ecb0cb5-8078-810c-9c74-cee676d3e747",
 "score": 44,
 "score_v": 1
+},
+"SimplifyJobs:c274d687-71f7-4484-8ae0-52884c72e8f8": {
+"cross": "salesforce|software engineering amts new grad|bellevue wa dallas tx indianapolis in nyc palo alto ca sf seattle wa",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:c29983af-1e16-48b9-912b-bdf19671720b": {
 "cross": "prolific|ai trainer fluent nepali speakers|remote in uk",
@@ -17853,6 +17893,11 @@
 "score": 73,
 "score_v": 1
 },
+"SimplifyJobs:cbc4b614-1795-4a4a-9755-43d6c1a86cb9": {
+"cross": "garmin|gis cartography technician 1|olathe ks",
+"dup": true,
+"first_seen": "2026-11-11T21:53:23+00:00"
+},
 "SimplifyJobs:cbc9cae5-131c-4da5-9664-90601d74f6de": {
 "cross": "tiktok|software engineer graduate recommendation|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -18447,6 +18492,13 @@
 "first_seen": "2026-10-30T23:41:28+00:00",
 "page": "409b0cb5-8078-8119-9d5b-e7ebe820fc59",
 "score": 34,
+"score_v": 1
+},
+"SimplifyJobs:d218cb23-e4d7-4435-83c7-be934cc67e49": {
+"cross": "zt systems|test software developer|secaucus nj",
+"first_seen": "2026-11-11T21:53:23+00:00",
+"page": "415b0cb5-8078-8178-95ce-f9e270a1593c",
+"score": 63,
 "score_v": 1
 },
 "SimplifyJobs:d2423d18-b85e-42bc-91ad-3e14d9570554": {
@@ -21577,6 +21629,11 @@
 "first_seen": "2026-10-13T03:09:52+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f478f36d-9953-4314-a884-531c56f6ffcf": {
+"cross": "rtx|software engineer 1|richardson tx",
+"dup": true,
+"first_seen": "2026-11-11T21:53:23+00:00"
+},
 "SimplifyJobs:f47f4ba2-822f-4cde-913d-eec0d71230ee": {
 "cross": "amazon|software development engineer|united kingdom",
 "first_seen": "2026-10-27T15:59:22+00:00",
@@ -22606,8 +22663,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2162,
-"last_success": "2026-11-11T15:05:40+00:00"
+"count": 2160,
+"last_success": "2026-11-11T21:53:23+00:00"
 }
 }
 }
