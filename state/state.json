@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-12T02:52:16+00:00",
-"pending_digest": [],
+"last_run": "2026-11-12T10:54:42+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Markon - Software Engineer Level 0",
+"u": "https://markonsolutions.jibeapply.com/jobs/8806?icims=1&lang=en-us"
+},
+{
+"rt": "Other SWE",
+"t": "Markon - Software Engineer 0",
+"u": "https://markonsolutions.jibeapply.com/jobs/8403?icims=1&lang=en-us"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -540,6 +551,11 @@
 "page": "40db0cb5-8078-811c-b611-f35ba2806357",
 "score": 48,
 "score_v": 1
+},
+"SimplifyJobs:059704a5-f335-42e5-b0ff-fe4aa9031cf5": {
+"cross": "xai|ai tutor maltese|remote in australia remote in canada remote in uk remote in usa",
+"first_seen": "2026-11-12T10:54:42+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:05b738c0-49b5-47b5-a61a-5f4ecd11bfc2": {
 "cross": "dat freight analytics|data analyst 1|mississauga on canada",
@@ -4727,6 +4743,11 @@
 "score": 66,
 "score_v": 1
 },
+"SimplifyJobs:33b98fd9-daf3-45e9-9fd7-4ea7b235bf9c": {
+"cross": "bask health|junior design engineer|remote in usa",
+"first_seen": "2026-11-12T10:54:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:33bf8d04-5439-4fc4-b50f-5393b810e9a0": {
 "cross": "intersystems|technical graduate|edinburgh uk windsor uk",
 "first_seen": "2026-10-23T17:50:42+00:00",
@@ -6093,6 +6114,11 @@
 "SimplifyJobs:441e1cb7-e771-4195-8f30-ab85f0750b89": {
 "cross": "frontier technology|associate data scientist|norfolk va",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:4423003a-51d9-4306-89c5-849002dd6341": {
+"cross": "r3 continuum|data analyst 1|bloomington mn minnesota",
+"first_seen": "2026-11-12T10:54:42+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:442f74df-bb53-4a98-b1d0-2513a5e31985": {
@@ -8359,6 +8385,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:5d518279-1c4c-41c2-9b3f-6ed85dd35896": {
+"cross": "exacare ai|data analyst new grad|toronto on canada",
+"first_seen": "2026-11-12T10:54:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:5d6bccf2-e43c-401c-bbe5-1b689f6fbe85": {
 "cross": "rtx|software engineer developer 1|tewksbury ma",
 "dup": true,
@@ -9051,6 +9082,11 @@
 "dup": true,
 "first_seen": "2026-10-13T23:05:17+00:00"
 },
+"SimplifyJobs:65133053-7ab3-42e5-9646-aac8b273b497": {
+"cross": "rtx|software engineer 1|cedar rapids ia",
+"dup": true,
+"first_seen": "2026-11-12T10:54:42+00:00"
+},
 "SimplifyJobs:6521a00f-8b47-4195-a3ce-bdb80befcc30": {
 "cross": "gliacell technologies|software engineer|annapolis junction md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9696,6 +9732,13 @@
 "first_seen": "2026-10-28T23:08:11+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:6d58d484-4f54-48a9-bf20-be2c64214b60": {
+"cross": "markon|software engineer level 0|annapolis junction md",
+"first_seen": "2026-11-12T10:54:42+00:00",
+"page": "416b0cb5-8078-81f5-8116-c308cb341b34",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:6d65d71a-c89b-41ea-a76a-4d4f43b82d7e": {
 "cross": "cox automotive|software engineer 1|atlanta ga",
 "first_seen": "2026-11-11T00:35:14+00:00",
@@ -10224,6 +10267,11 @@
 "cross": "jobsbridge|java developer|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:735965af-ac15-473a-a2ef-8a15ab46f590": {
+"cross": "shield ai|engineer 2 new grad software perception|united states",
+"dup": true,
+"first_seen": "2026-11-12T10:54:42+00:00"
 },
 "SimplifyJobs:735db69e-c591-4f36-8a68-480a6492a64b": {
 "cross": "first due|cloud security software engineer|remote in usa",
@@ -14219,6 +14267,13 @@
 "score": 75,
 "score_v": 1
 },
+"SimplifyJobs:9e5f2a4a-9ce5-441d-bb41-8f11f28a4fb8": {
+"cross": "markon|software engineer 0|fort meade md",
+"first_seen": "2026-11-12T10:54:42+00:00",
+"page": "416b0cb5-8078-8190-aba4-cf1e452b3128",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:9e6275a1-cf04-4bd1-b477-7016e96a3b06": {
 "cross": "goldman sachs|data platform engineering|dallas tx",
 "first_seen": "2026-10-27T10:25:24+00:00",
@@ -16179,6 +16234,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:b4b8cdbd-8502-4a14-81ea-6cecbaa6c781": {
+"cross": "valsoft|ai software developer research development|montreal qc canada",
+"first_seen": "2026-11-12T10:54:42+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:b4c2db2d-3859-453b-823e-8dc517020ce3": {
 "cross": "peraton|cloud software engineer 1|odenton md",
 "first_seen": "2026-10-04T12:14:46+00:00",
@@ -17980,6 +18040,11 @@
 "cross": "microsoft|software engineer|redmond wa",
 "dup": true,
 "first_seen": "2026-10-20T23:21:07+00:00"
+},
+"SimplifyJobs:ca8d4e99-7c1a-43f6-9730-cb0083351686": {
+"cross": "bask health|frontend engineer new grad|remote in usa",
+"first_seen": "2026-11-12T10:54:42+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:ca920373-6255-46b3-8083-3db9533be2df": {
 "cross": "palo alto networks|senior staff software engineer|santa clara ca",
@@ -21240,6 +21305,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ee225dca-a07b-42d2-a9dd-82e99bccc652": {
+"cross": "medpace|junior data governance analyst|cincinnati oh",
+"first_seen": "2026-11-12T10:54:42+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:ee3a8d08-0634-4977-978a-3073541eb055": {
 "cross": "applied underwriters|ai engineer application development|nyc",
 "first_seen": "2026-10-23T23:57:58+00:00",
@@ -22871,8 +22941,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2192,
-"last_success": "2026-11-12T02:52:16+00:00"
+"count": 2191,
+"last_success": "2026-11-12T10:54:42+00:00"
 }
 }
 }
