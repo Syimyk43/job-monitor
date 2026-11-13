@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-13T15:39:17+00:00",
-"pending_digest": [],
+"last_run": "2026-11-13T21:55:32+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Q2 - Software Engineer",
+"u": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953"
+},
+{
+"rt": "Other SWE",
+"t": "Edgewater IT - Application Developer 1",
+"u": "https://careers-edgewaterit.icims.com/jobs/4760/job?mobile=true&needsRedirect=false"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -756,6 +767,11 @@
 "cross": "raydar|member of technical staff product|sf",
 "first_seen": "2026-10-30T01:52:38+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:07b3aa17-de9e-4ec0-9ea5-73d1cafeaeb4": {
+"cross": "peraton|full stack engineer|columbus oh",
+"dup": true,
+"first_seen": "2026-11-13T21:55:32+00:00"
 },
 "SimplifyJobs:07bd103c-1d70-4013-a353-134890eb3530": {
 "cross": "sierra nevada corporation|software engineer 1|dayton oh lone tree co plano tx",
@@ -3535,6 +3551,11 @@
 "first_seen": "2026-10-09T23:10:31+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:25d81efc-e2d4-4591-a774-7e836bb25f2a": {
+"cross": "nationwide children s hospital|business intelligence analyst 1 information systems|columbus oh",
+"first_seen": "2026-11-13T21:55:32+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:25e41706-146c-4f0f-957d-7f2cd557405e": {
 "cross": "micron technology|computer engineer new grad central engineering|boise id",
 "first_seen": "2026-10-16T00:18:10+00:00",
@@ -4167,6 +4188,13 @@
 "cross": "newday|associate business analytics analyst|leeds uk",
 "first_seen": "2026-11-09T20:39:23+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:2d577c12-94df-4e2a-bc76-56cbcdcf573a": {
+"cross": "edgewater it|application developer 1|billings mt folsom ca lakewood co loveland co phoenix az",
+"first_seen": "2026-11-13T21:55:32+00:00",
+"page": "417b0cb5-8078-81c8-b00f-f28fcd5a9403",
+"score": 58,
+"score_v": 1
 },
 "SimplifyJobs:2d585210-9437-4706-874e-33b3e338f681": {
 "cross": "intact|annotator|laval qc canada montreal qc canada",
@@ -7252,6 +7280,11 @@
 "page": "407b0cb5-8078-81e4-b34f-cc3eb6a154ca",
 "score": 48,
 "score_v": 1
+},
+"SimplifyJobs:4ff5c3e0-9387-4226-96dc-d65247d52596": {
+"cross": "chatham financial|associate controls data integrity|kennett square pa",
+"first_seen": "2026-11-13T21:55:32+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:4ff9d14d-db78-44fa-9f49-1bee0e771f4e": {
 "cross": "american express|senior analyst data analytics enterprise technology services|phoenix az",
@@ -15822,6 +15855,11 @@
 "first_seen": "2026-10-22T23:32:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ad8e4575-eea5-4595-b9d9-5ec881f1ea86": {
+"cross": "hewlett packard enterprise|software engineer block storage|bristol uk",
+"dup": true,
+"first_seen": "2026-11-13T21:55:32+00:00"
+},
 "SimplifyJobs:adbf020e-77f5-43e9-a6f8-dca0b583c219": {
 "cross": "makai labs|ai engineer|california jackson township nj massachusetts nyc texas",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -21128,6 +21166,13 @@
 "first_seen": "2026-11-06T02:16:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:e83b2b8a-4be2-4964-85be-319d2e951209": {
+"cross": "q2|software engineer|austin tx",
+"first_seen": "2026-11-13T21:55:32+00:00",
+"page": "417b0cb5-8078-81ec-9d3a-f4feaa1b2c45",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:e83ea8a4-83fe-416d-b480-6e3a3a18cac3": {
 "cross": "twitch|software development engineer 1 security platform|sf",
 "first_seen": "2026-11-05T07:18:36+00:00",
@@ -23292,8 +23337,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2186,
-"last_success": "2026-11-13T15:39:17+00:00"
+"count": 2172,
+"last_success": "2026-11-13T21:55:32+00:00"
 }
 }
 }
