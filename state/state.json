@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-13T00:10:45+00:00",
-"pending_digest": [],
+"last_run": "2026-11-13T07:11:19+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Natuvion - AI Developer",
+"u": "https://natuvion.recruitee.com/o/ai-developer-on-site"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -4175,6 +4181,11 @@
 "cross": "crossmark|data collector|burlington ma",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:2da3ae25-41c7-4c97-bae2-3e06a9a2050d": {
+"cross": "constructive dialogue institute|software engineer|nyc",
+"first_seen": "2026-11-13T07:11:19+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:2db155f2-6346-4a55-9a65-418f1dcce820": {
 "cross": "dellfor technologies|entry level net developer|vermontville ny",
@@ -10360,6 +10371,13 @@
 "cross": "icf international|associate data scientist|london uk",
 "first_seen": "2026-10-13T18:09:42+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:731706ec-a376-4475-9c04-ca9812810191": {
+"cross": "natuvion|ai developer|malvern pa",
+"first_seen": "2026-11-13T07:11:19+00:00",
+"page": "417b0cb5-8078-8150-8d47-c2d0007ec776",
+"score": 56,
+"score_v": 1
 },
 "SimplifyJobs:73292424-f766-4523-9adf-574b6dcc5a53": {
 "cross": "blackline|associate software engineer|toronto on canada",
@@ -23200,8 +23218,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2196,
-"last_success": "2026-11-13T00:10:45+00:00"
+"count": 2184,
+"last_success": "2026-11-13T07:11:19+00:00"
 }
 }
 }
