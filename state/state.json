@@ -1,23 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-14T09:20:53+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Microsoft - Software Engineer - Microsoft Business Operations",
-"u": "https://apply.careers.microsoft.com/careers/job/1970393557073410"
-},
-{
-"rt": "Other SWE",
-"t": "Integrated Biosciences - Software Engineer - Robotics",
-"u": "https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009"
-},
-{
-"rt": "Other SWE",
-"t": "McMaster-Carr - Technology Developer - Development - Design",
-"u": "https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009"
-}
-],
+"last_run": "2026-11-14T16:03:23+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -4368,6 +4352,11 @@
 "first_seen": "2026-10-26T20:06:49+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:2e4b27aa-8307-4ead-a401-896686a2683f": {
+"cross": "duke university|research associate|durham nc",
+"first_seen": "2026-11-14T16:03:23+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:2e4c045e-75a6-49ad-8d48-309400c9abd5": {
 "cross": "unlimited|modeling and analysis engineer|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -6633,6 +6622,11 @@
 "first_seen": "2026-10-23T17:50:42+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:47ffb242-7946-4cbd-832d-ea8e2eb67d2a": {
+"cross": "icf international|junior data scientist|remote in usa",
+"first_seen": "2026-11-14T16:03:23+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:482d2483-2739-4860-9f2a-b5903674a731": {
 "cross": "american express|software engineer 2 enterprise technology services|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7763,6 +7757,11 @@
 "first_seen": "2026-10-07T19:29:32+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:5423461d-751c-4d41-b637-371f3eab845f": {
+"cross": "cdphp|ai engineer|albany ny binghamton ny buffalo ny de witt ny rochester ny utica ny",
+"first_seen": "2026-11-14T16:03:23+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:54259fd2-233d-466f-894e-f3c91ea9159e": {
 "cross": "leidos|research scientist|huntsville al",
 "first_seen": "2026-10-20T16:53:20+00:00",
@@ -8166,6 +8165,11 @@
 "SimplifyJobs:5923eddf-da98-4ec1-aef1-4c3f140b6338": {
 "cross": "deloitte|cyber analytics analyst government public services cyber analytics|rosslyn arlington va",
 "first_seen": "2026-10-02T23:13:14+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:592832c4-8c59-4f59-9723-66d098b34bde": {
+"cross": "ksb|machine learning engineer|grovetown ga",
+"first_seen": "2026-11-14T16:03:23+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:59307afb-eb2a-496c-8815-402ff6fafd53": {
@@ -11103,6 +11107,13 @@
 "cross": "manulife financial|data analyst data office operations|montreal qc canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:788e4fa2-855c-4290-a24e-47ddccdf7692": {
+"cross": "edmentum|software engineer 1|bloomington mn",
+"first_seen": "2026-11-14T16:03:23+00:00",
+"page": "418b0cb5-8078-81da-9a93-fb5967873673",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:7894345d-6677-46a0-b561-523670a2aa56": {
 "cross": "kyndryl|associate ai engineer early career consult program|dallas tx",
@@ -17469,6 +17480,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:be00edcb-0605-494a-93b0-3872479dfe92": {
+"cross": "cdphp|software engineer etl|albany ny binghamton ny buffalo ny de witt ny rochester ny utica ny",
+"first_seen": "2026-11-14T16:03:23+00:00",
+"page": "418b0cb5-8078-81b8-956f-e5a7ff7de435",
+"score": 61,
+"score_v": 1
+},
 "SimplifyJobs:be23128a-5c7b-4120-8bd1-f4887d7042ce": {
 "cross": "instacart|senior machine learning engineer economics|remote in canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -23584,8 +23602,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2193,
-"last_success": "2026-11-14T09:20:53+00:00"
+"count": 2199,
+"last_success": "2026-11-14T16:03:23+00:00"
 }
 }
 }
