@@ -1,7 +1,23 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-14T02:16:28+00:00",
-"pending_digest": [],
+"last_run": "2026-11-14T09:20:53+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Microsoft - Software Engineer - Microsoft Business Operations",
+"u": "https://apply.careers.microsoft.com/careers/job/1970393557073410"
+},
+{
+"rt": "Other SWE",
+"t": "Integrated Biosciences - Software Engineer - Robotics",
+"u": "https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009"
+},
+{
+"rt": "Other SWE",
+"t": "McMaster-Carr - Technology Developer - Development - Design",
+"u": "https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -440,6 +456,13 @@
 "cross": "seeq|ai customer insights engineer|remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:049abd17-7f5b-4e36-9f8b-96b028fa0720": {
+"cross": "mcmaster carr|technology developer development design|elmhurst il",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"page": "418b0cb5-8078-816f-a684-ec2a7bfe713c",
+"score": 48,
+"score_v": 1
 },
 "SimplifyJobs:04a97aa9-6df1-4408-aba8-a02b60712121": {
 "cross": "sinclair|contract associate engineer software development|seattle wa",
@@ -2577,6 +2600,11 @@
 "first_seen": "2026-11-05T07:18:36+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:1c6153b6-21de-4fdf-85d2-b7eab2023840": {
+"cross": "accenture|software engineering new grad|newcastle upon tyne uk",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:1c76430c-56b2-423e-98b1-48480cb6bf26": {
 "cross": "intermountain healthcare|data architect associate|west valley city ut",
 "first_seen": "2026-10-02T01:03:47+00:00",
@@ -3563,6 +3591,11 @@
 "page": "3f8b0cb5-8078-8118-8547-d2994714c398",
 "score": 73,
 "score_v": 1
+},
+"SimplifyJobs:257cfc8d-99de-4c4a-96a1-d47f3117b265": {
+"cross": "accenture|software engineering new grad|manchester uk",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:25a32dd8-22bd-4f7d-be0d-b34c848ce2d1": {
 "cross": "cloudfactory|video data capture technician|tulsa ok",
@@ -7303,6 +7336,11 @@
 "page": "402b0cb5-8078-8152-90b0-d60a7ffbd706",
 "score": 65,
 "score_v": 1
+},
+"SimplifyJobs:4f8b6972-afef-4061-9793-31aa2c86495c": {
+"cross": "accenture|software engineering new grad|edinburgh uk",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:4f9778d0-63a0-48b6-a131-8e89364ea80b": {
 "cross": "citi|software developer new grad application development|jacksonville fl",
@@ -13231,6 +13269,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:8f2c309b-3922-4159-a877-86c8566fffee": {
+"cross": "integrated biosciences|software engineer robotics|redwood city ca",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"page": "418b0cb5-8078-814e-8f7d-ed43a36953e5",
+"score": 49,
+"score_v": 1
+},
 "SimplifyJobs:8f638b06-36c6-4e9a-bf22-b4ab3f14aaca": {
 "cross": "hooglee|annotation specialist video|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13938,6 +13983,13 @@
 "first_seen": "2026-10-06T06:48:32+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:970abbb2-7906-4686-914b-09bd6d622dd5": {
+"cross": "microsoft|software engineer microsoft business operations|redmond wa",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"page": "418b0cb5-8078-8105-958d-d63c0e3f640b",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:972a395a-4b76-444b-8f8a-9ce1e1a55d22": {
 "cross": "tiktok|machine learning engineer graduate monetization technology ads core global|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14242,6 +14294,11 @@
 "SimplifyJobs:99eeda8d-bd03-44b1-900c-b91c93fcf9df": {
 "cross": "tsmg|ai ml data contributor data labeling content evaluation|louisville ky",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:99faec69-36c3-45b0-b133-b5adf3e845f9": {
+"cross": "accenture|software engineering new grad graduate programme|birmingham uk",
+"first_seen": "2026-11-14T09:20:53+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:99fee0ad-92bd-4ac6-99a0-d812ab1776d0": {
@@ -15006,6 +15063,11 @@
 "cross": "deloitte|delivery analyst multiple teams|gilbert az",
 "dup": true,
 "first_seen": "2026-10-23T12:50:04+00:00"
+},
+"SimplifyJobs:a215785a-a17e-4d39-8508-4062629e0681": {
+"cross": "accenture|software engineering new grad|glasgow uk",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:a21b609a-b72b-47d9-a330-6549d9172b60": {
 "cross": "greenboard|software engineer|nyc",
@@ -16664,6 +16726,11 @@
 "first_seen": "2026-10-02T01:03:47+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:b4e0bd04-a49e-4fe5-be6c-29ac1d93bff3": {
+"cross": "accenture|software engineering graduate program|leeds uk",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:b4e7a187-9537-4e72-8b27-c8d54faf0118": {
 "cross": "microsoft|software engineering commercial engineering ai ceai|redmond wa",
 "first_seen": "2026-10-04T12:14:46+00:00",
@@ -17599,6 +17666,11 @@
 "cross": "cadence design systems|lead software engineer mesh generation|san jose ca",
 "dup": true,
 "first_seen": "2026-10-28T13:28:31+00:00"
+},
+"SimplifyJobs:c039496a-1e56-45d6-a014-aba00cbbb349": {
+"cross": "accenture|software engineer new grad|bristol uk",
+"first_seen": "2026-11-14T09:20:53+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:c0479012-54e4-478d-922f-1948cd356ac4": {
 "cross": "cerebras|software engineer new grad|sunnyvale ca toronto on canada",
@@ -23512,8 +23584,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2186,
-"last_success": "2026-11-14T02:16:28+00:00"
+"count": 2193,
+"last_success": "2026-11-14T09:20:53+00:00"
 }
 }
 }
