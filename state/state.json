@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-14T16:03:23+00:00",
-"pending_digest": [],
+"last_run": "2026-11-14T20:39:21+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Fort Bend County - Web Developer - Web Development - Information Technology",
+"u": "https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Temporary-Position---Web-Development---Information-Technology_JR1694-11-26"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -2987,6 +2993,11 @@
 "SimplifyJobs:20102156-230a-4d18-a3eb-dcc6a46d3a14": {
 "cross": "amazon|software development engineer apprentice|swansea uk",
 "first_seen": "2026-11-10T11:41:11+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:2012de0c-dde8-4f5e-bdc0-f7cf6130e697": {
+"cross": "everest|information technology rotational development program|warren nj",
+"first_seen": "2026-11-14T20:39:21+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:201b3028-2273-4ca5-aefd-5a2f1ab8bd73": {
@@ -14459,6 +14470,11 @@
 "first_seen": "2026-10-30T01:52:38+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:9b37da7c-1632-4670-9db7-30096a616586": {
+"cross": "memorial hermann|application programmer analyst|united states",
+"first_seen": "2026-11-14T20:39:21+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:9b3d2be7-1291-4e46-8d88-5212363141cd": {
 "cross": "anduril|software engineer|atlanta ga boston ma irvine ca newport beach ca seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -15283,6 +15299,13 @@
 "cross": "united parcel service ups|applications development associate|indiana",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:a43681bf-8c34-45b6-b4e2-2a15f57ba4a7": {
+"cross": "fort bend county|web developer web development information technology|richmond tx",
+"first_seen": "2026-11-14T20:39:21+00:00",
+"page": "418b0cb5-8078-81eb-be7a-cad7438585c5",
+"score": 49,
+"score_v": 1
 },
 "SimplifyJobs:a449ff56-af7b-46d9-9c1b-73ccb36515e8": {
 "cross": "tesla|data collection operator optimus|orlando fl",
@@ -23602,8 +23625,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2199,
-"last_success": "2026-11-14T16:03:23+00:00"
+"count": 2196,
+"last_success": "2026-11-14T20:39:21+00:00"
 }
 }
 }
