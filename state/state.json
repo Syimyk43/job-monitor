@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-15T07:46:51+00:00",
+"last_run": "2026-11-15T15:36:14+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -1461,6 +1461,11 @@
 "cross": "mulligan funding|data scientist 1 full stack management trainee|san diego ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:0faa0969-9aa2-46f3-9b6d-db9683e2669a": {
+"cross": "rbfcu|collections business analyst|san antonio tx",
+"first_seen": "2026-11-15T15:36:14+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:0fb303dc-84aa-40cc-8e77-f66f910edbf9": {
 "cross": "tiktok|graduate machine learning engineer global e commerce recommendation search phd|san jose ca",
@@ -13944,6 +13949,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:95e3d3ae-bbc6-4105-8ec0-dc66cc12a47e": {
+"cross": "beacon mobility|ai innovation automation analyst|beacon ny",
+"first_seen": "2026-11-15T15:36:14+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:962208a6-d342-4140-97ec-4cad99d1d9dd": {
 "cross": "dyna robotics|robot safety operator|sf san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -23656,8 +23666,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2193,
-"last_success": "2026-11-15T07:46:51+00:00"
+"count": 2187,
+"last_success": "2026-11-15T15:36:14+00:00"
 }
 }
 }
