@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-16T07:12:03+00:00",
+"last_run": "2026-11-16T17:23:31+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -2903,6 +2903,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:1f5243e7-418c-45e0-a517-5603c9d3eae6": {
+"cross": "american express|campus undergraduate full time engineer software engineer 1|toronto on canada",
+"first_seen": "2026-11-16T17:23:31+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:1f6bee99-9cca-467c-a0b3-899d61139a03": {
 "cross": "palantir|forward deployed software engineer new grad|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -4148,6 +4153,11 @@
 "first_seen": "2026-10-22T23:32:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:2c3c2dfb-3211-41b2-90ef-c2472e6b2742": {
+"cross": "unique|data scientist wealth graph|nyc",
+"first_seen": "2026-11-16T17:23:31+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:2c3fcb34-9459-42c5-8269-e05902759c20": {
 "cross": "capgemini|graduate software engineer programme|hove brighton and hove uk telford uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5267,6 +5277,11 @@
 "cross": "xpeng motors|senior machine learning engineer llm quantization deployment|santa clara ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:37c952a4-d32a-4e2e-9508-0533dcc6735f": {
+"cross": "instil software ltd|graduate agentic software engineer|belfast uk",
+"first_seen": "2026-11-16T17:23:31+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:37e9304d-c9f9-4c44-9070-e0d2a90a8b4a": {
 "cross": "garmin|software engineer 1 connect iq applications|olathe ks",
@@ -8778,6 +8793,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:5e3fe881-67d8-4f33-9b30-1d5f11ec0b21": {
+"cross": "eos it solutions|graduate bi developer|banbridge uk",
+"first_seen": "2026-11-16T17:23:31+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:5e53dcd6-2301-48d9-8010-f0ddb4a2a434": {
 "cross": "northrop grumman|associate software engineer mcclellan ca|mcclellan park ca",
 "first_seen": "2026-10-02T01:03:47+00:00",
@@ -9362,6 +9382,11 @@
 "SimplifyJobs:649dd754-7be6-47ff-9eb9-6e43146c9ab6": {
 "cross": "bytedance|research scientist graduate quantum chemistry and machine learning|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:64a7d794-0649-4452-b5a6-a8339cd35893": {
+"cross": "edwards health care services|programmer analyst 3|hudson oh",
+"first_seen": "2026-11-16T17:23:31+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:64b41a7b-4a92-4d69-bc33-95786288e3cd": {
@@ -9958,6 +9983,11 @@
 "SimplifyJobs:6bad01bb-b8d4-41bd-b0b0-81260f387a0c": {
 "cross": "upstart|applied scientist|remote in usa",
 "first_seen": "2026-11-12T02:52:16+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:6bbdf60e-d9e3-4db2-ae28-9e16027401bc": {
+"cross": "ams|data science associate|manhattan nyc",
+"first_seen": "2026-11-16T17:23:31+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:6bd29221-9758-4878-8930-253ec7f1f408": {
@@ -15516,6 +15546,11 @@
 "first_seen": "2026-11-14T02:16:28+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a694b265-26fe-4fce-bd73-fc51114ffeb2": {
+"cross": "quanta services|business analyst|lone tree co",
+"first_seen": "2026-11-16T17:23:31+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a698dd4a-2fd0-4d86-950a-9943757dc891": {
 "cross": "uline|direct marketing analyst|glenview il kenosha wi milwaukee wi pleasant prairie wi waukegan il",
 "first_seen": "2026-10-07T19:29:32+00:00",
@@ -18869,6 +18904,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:ccd6257e-1f03-4d37-9425-421ce95b805c": {
+"cross": "convex insurance|graduate operations analyst data quality|london uk",
+"first_seen": "2026-11-16T17:23:31+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:cce50e67-1156-425f-bd5f-4a7dbccf2a0c": {
 "cross": "iflip4|back end developer|east hanover nj",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -22035,6 +22075,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ee93fa62-aedd-4e6f-978e-0c43e44df3b6": {
+"cross": "innodata|ai voice evaluation specialist|remote in canada",
+"first_seen": "2026-11-16T17:23:31+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:eeae9e48-e67c-41d3-9962-8fc290fdc2a8": {
 "cross": "bytedance|computer vision research engineer graduate|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -23681,8 +23726,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2184,
-"last_success": "2026-11-16T07:12:03+00:00"
+"count": 2177,
+"last_success": "2026-11-16T17:23:31+00:00"
 }
 }
 }
