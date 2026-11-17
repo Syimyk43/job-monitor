@@ -1,7 +1,33 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-17T01:01:31+00:00",
-"pending_digest": [],
+"last_run": "2026-11-17T09:05:28+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Fantom - Software Engineer Level 0",
+"u": "https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply"
+},
+{
+"rt": "Other SWE",
+"t": "Microsoft - Software Engineer Agentic Security",
+"u": "https://apply.careers.microsoft.com/careers/job/1970393557074643"
+},
+{
+"rt": "Other SWE",
+"t": "Wyetech - Software Engineer 0 or 1",
+"u": "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1"
+},
+{
+"rt": "Other SWE",
+"t": "Laborie Medical Technologies - Software Engineer 1",
+"u": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false"
+},
+{
+"rt": "Data Engineering",
+"t": "Joy Baking Group - Data Analytics Engineer",
+"u": "https://careers-joybakinggroup.icims.com/jobs/1472/job?mobile=true&needsRedirect=false"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -1162,6 +1188,11 @@
 "page": "3ecb0cb5-8078-81ba-8a17-c55f0e768172",
 "score": 58,
 "score_v": 1
+},
+"SimplifyJobs:0bf4cae8-4a3d-4d82-9311-227e8a099564": {
+"cross": "flexspring|ai model training and deployment developer new grad|montreal qc canada",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:0bf5e13d-96ec-48a1-9fa0-02cdedbac143": {
 "cross": "lineage logistics|associate report developer|remote in usa",
@@ -4177,6 +4208,11 @@
 "first_seen": "2026-11-16T17:23:31+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:2c3cb4b4-cc02-4358-ae49-4aafcc5218cd": {
+"cross": "envitia|data analyst|remote in uk",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:2c3fcb34-9459-42c5-8269-e05902759c20": {
 "cross": "capgemini|graduate software engineer programme|hove brighton and hove uk telford uk",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5790,6 +5826,11 @@
 "SimplifyJobs:3e1957cd-768a-47fc-9140-cae0d35bb273": {
 "cross": "cogent security|forward deployed agent engineer early career|nyc",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:3e1f4ef6-4325-4bd1-9fa4-f048a7c95281": {
+"cross": "augurian|analyst analytics|st paul mn",
+"first_seen": "2026-11-17T09:05:28+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:3e2413c2-76bc-453d-b270-7d759a1f712d": {
@@ -7853,6 +7894,13 @@
 "first_seen": "2026-10-20T16:53:20+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:542753ed-5d89-4aa7-855f-a20530ae5084": {
+"cross": "microsoft|software engineer agentic security|redmond wa",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"page": "41bb0cb5-8078-81a5-af3f-e7784874de68",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:54311374-2184-4393-8e33-d5b5924fb292": {
 "cross": "argonne national laboratory|postdoctoral appointee ai for biomedical discovery|woodridge il",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9038,6 +9086,11 @@
 "score": 63,
 "score_v": 1
 },
+"SimplifyJobs:60c28da3-9bbb-4e44-8d5b-488be30460ae": {
+"cross": "nv5 global|associate technician|corvallis or",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:60ef0052-1933-4d31-9094-afe931faa4bc": {
 "cross": "bild ai|founding ai engineer|sf",
 "first_seen": "2026-10-23T12:50:04+00:00",
@@ -9074,6 +9127,11 @@
 "cross": "publicis groupe|media analytics analyst|chicago il",
 "first_seen": "2026-10-31T11:09:37+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:61348b7f-3934-4dbc-b672-452755b3be37": {
+"cross": "ubds group|data engineer|london uk",
+"dup": true,
+"first_seen": "2026-11-17T09:05:28+00:00"
 },
 "SimplifyJobs:614d69aa-cada-486b-8e62-b164a933b266": {
 "cross": "capgemini|graduate software developer|birmingham uk cardiff uk inverness uk london uk manchester uk woking uk",
@@ -11833,6 +11891,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:7ecc58ea-032d-416e-b399-32ebdff54d06": {
+"cross": "roblox|data scientist phd early career safety|san mateo ca",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:7eccb20e-d7d1-4bd0-9c89-87529eefc918": {
 "cross": "guidewell mutual|associate health business analyst nautilus program|jacksonville fl",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -11878,6 +11941,11 @@
 "page": "3f8b0cb5-8078-81c7-8664-e44f167f9c71",
 "score": 54,
 "score_v": 1
+},
+"SimplifyJobs:7f2961f6-f10f-4069-9a3e-eaf45f42ba2b": {
+"cross": "ceox|graduate data analytics consultant|guildford uk",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:7f2aef69-8f56-49be-8f29-f9b37419bd0e": {
 "cross": "bytedance|research engineer|seattle wa",
@@ -16275,6 +16343,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ae1ec61d-333f-47da-8b9c-8bf931b6d07b": {
+"cross": "fantom|software engineer level 0|hanover md",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"page": "41bb0cb5-8078-81c8-a206-d5b8456afdad",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:ae31bcf5-3524-4c9f-8b9e-361d60f9fa17": {
 "cross": "tiktok|backend software engineer new grad creator strategy|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -17494,6 +17569,11 @@
 "page": "3ecb0cb5-8078-819d-b940-ebb88fe14e9c",
 "score": 23,
 "score_v": 1
+},
+"SimplifyJobs:bc32dce0-623b-4453-a722-d1334b981b58": {
+"cross": "senstar|machine learning developer|waterloo on canada",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:bc3e53cc-9c7a-49fa-afa7-8bede1da1df5": {
 "cross": "abbvie|associate engineer technology 1|north chicago il",
@@ -18932,6 +19012,11 @@
 "first_seen": "2026-10-22T23:32:55+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:cc25dde6-f879-43a3-976f-e184d8620ca7": {
+"cross": "amd|silicon design engineer|markham on canada",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:cc33f3b0-d73c-42d6-9d10-ba034dbccd6d": {
 "cross": "pentair|2027 engineering leadership development program computer science computer engineering|apex nc delavan wi golden valley mn",
 "first_seen": "2026-10-20T01:12:56+00:00",
@@ -19139,6 +19224,13 @@
 "cross": "bytedance|ai llm network software development engineer graduate high speed network phd|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "level/role excluded"
+},
+"SimplifyJobs:cea336b4-1147-402b-9c76-6b7ed2757eee": {
+"cross": "laborie medical technologies|software engineer 1|portsmouth nh",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"page": "41bb0cb5-8078-81c9-b278-d18928029a35",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:cea6352a-da56-4d24-a4d4-4a5f5833eeec": {
 "cross": "oracle|undergrad software engineer oracle cloud infrastructure|nashville tn",
@@ -19472,6 +19564,11 @@
 "first_seen": "2026-10-08T23:55:12+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:d1eb1835-b3a8-4b81-b754-d7ce73824f78": {
+"cross": "kraun electric|junior software developer|st catharines on canada",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:d1f50127-9dc7-4b88-a4ae-bffdc7c84812": {
 "cross": "intuit|software engineer 1|atlanta ga charlotte nc mountain view ca nyc san diego ca",
 "first_seen": "2026-10-16T04:55:30+00:00",
@@ -19591,6 +19688,11 @@
 "score": 0,
 "score_v": 1,
 "skip": "restricted to one school"
+},
+"SimplifyJobs:d368fd11-ce02-47aa-9e65-d577e546d4d3": {
+"cross": "valnet freelance|ai operations analyst digital publishing social media|montreal qc canada",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:d36946f5-b93c-478d-ba69-c1d6d51f1106": {
 "cross": "spectral labs|engineer new grad|sf",
@@ -19861,6 +19963,13 @@
 "cross": "thales|development operations engineer new grad|glasgow uk",
 "first_seen": "2026-10-23T17:50:42+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:d679fa04-c74e-4987-a9aa-2e381ad6fa52": {
+"cross": "wyetech|software engineer 0 or 1|united states",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"page": "41bb0cb5-8078-817a-8db9-c15c98d42247",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:d68216d8-e538-4756-a1e8-8ecaa7185ebe": {
 "cross": "avalore|software developer engineer|arlington county arlington va",
@@ -20263,6 +20372,11 @@
 "cross": "garmin|software engineer 1 web development applications|olathe ks",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:d9f6c287-7df3-4748-9a8a-87c8f7c2cafb": {
+"cross": "context labs|data scientist energy oil gas|houston tx",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:d9f83773-a7de-4a80-aae5-533beced44db": {
 "cross": "exelixis|associate ai and agentic engineer|alameda ca",
@@ -22710,6 +22824,13 @@
 "score": 93,
 "score_v": 1
 },
+"SimplifyJobs:f3ce5b57-c912-400a-9320-e837fda505df": {
+"cross": "joy baking group|data analytics engineer|hermitage pa",
+"first_seen": "2026-11-17T09:05:28+00:00",
+"page": "41bb0cb5-8078-812e-921d-c57ab8b81466",
+"score": 54,
+"score_v": 1
+},
 "SimplifyJobs:f3eaddd9-fdad-4fa6-9d9b-7f7026783526": {
 "cross": "intuitive surgical|data scientist|sunnyvale ca",
 "first_seen": "2026-10-13T23:05:17+00:00",
@@ -23825,8 +23946,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2162,
-"last_success": "2026-11-17T01:01:31+00:00"
+"count": 2156,
+"last_success": "2026-11-17T09:05:28+00:00"
 }
 }
 }
