@@ -1,11 +1,26 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-18T09:03:11+00:00",
+"last_run": "2026-11-18T17:57:39+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "Torch Technologies - Entry-Level Modeling & Simulation Software Engineer",
 "u": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1"
+},
+{
+"rt": "Other SWE",
+"t": "Berkshire Hathaway Energy - Software Engineer - Bhepg",
+"u": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023"
+},
+{
+"rt": "Other SWE",
+"t": "ASM International - Software Engineer \u2013 Early Career",
+"u": "https://www.asm.com/open-vacancies/?gh_jid=5019821101"
+},
+{
+"rt": "Other SWE",
+"t": "Clean Harbors - Associate Data & Analytics Developer",
+"u": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165185"
 }
 ],
 "seen": {
@@ -278,6 +293,11 @@
 "cross": "amazon|software privacy engineer multiple teams|bellevue wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:02dc8172-98b9-4eae-87c0-88f943e02b14": {
+"cross": "giro|front end web developer|montreal qc canada",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:02f2beb7-58e8-4aea-9598-45728f820599": {
 "cross": "arondite|deployed software engineer new grad|london uk",
@@ -5367,6 +5387,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:3731ea17-7b7f-45a8-9f5e-995882d14ed6": {
+"cross": "adyen|junior full stack developer docs experience engineering team|chicago il",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"page": "41cb0cb5-8078-817c-99e6-f5e75fba0233",
+"score": 75,
+"score_v": 1
+},
 "SimplifyJobs:37335f53-bff9-416b-8b8a-490d6a68102f": {
 "cross": "relx|software engineer new grad|alpharetta ga",
 "dup": true,
@@ -9685,6 +9712,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:6613bded-9926-49a7-bc7f-60a11f1a05ee": {
+"cross": "berkshire hathaway energy|software engineer bhepg|omaha ne",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"page": "41cb0cb5-8078-81ee-9d98-f182a4bc10bd",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:662a9504-a02e-4a49-b186-8619c9b721c5": {
 "cross": "monti inc|associate software engineer intelligence systems|cincinnati oh",
 "first_seen": "2026-10-13T23:05:17+00:00",
@@ -12145,6 +12179,13 @@
 "first_seen": "2026-10-04T12:14:46+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:7ff1037a-0d70-4c8f-8e2a-19d7d8f52893": {
+"cross": "asm international|software engineer early career|phoenix az",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"page": "41cb0cb5-8078-81fc-a2d4-cc6a45d8cd44",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:7ff44f5f-836a-4ac9-b33c-935e0b4281ae": {
 "cross": "american express|software engineer 1 enterprise technology services|charlotte nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -13446,6 +13487,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:8da7e607-788f-4d80-ad68-62014bf8575f": {
+"cross": "giro|junior c developer|montreal qc canada",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:8dc34a98-6cba-4361-b5ab-d5e64d0e8b2e": {
 "cross": "whoop|software engineer 1 frontend ai platform|boston ma",
 "first_seen": "2026-10-06T14:07:50+00:00",
@@ -14450,6 +14496,11 @@
 "cross": "westinghouse electric company|engineer robotics high potential program|cranberry township pa",
 "first_seen": "2026-10-02T23:13:14+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:981500f0-50ca-42b6-9612-97edf956e5a3": {
+"cross": "eql tech|founding full stack engineer fintech edtech|sf",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:98265b8a-b1d8-4e72-8fb3-ea7d40f6341c": {
 "cross": "barkleyokrp|analyst reporting|chicago il denver co kansas city mo nyc",
@@ -15537,6 +15588,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a2c7c3af-ac62-4ac5-841d-58cb33ef3910": {
+"cross": "susquehanna international group|market surveillance data and technology analyst|bala cynwyd pa",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a2caf0cf-c90c-43b1-9914-3f9987389c30": {
 "cross": "spacex|full stack software engineer|hawthorne ca",
 "first_seen": "2026-10-04T00:00:24+00:00",
@@ -16083,6 +16139,11 @@
 "SimplifyJobs:a9532db8-4444-455d-91ae-5c168366dab3": {
 "cross": "collaborative robotics|robotics assistant|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:a95e2aef-eedb-4dc4-8505-c965b1303c5a": {
+"cross": "tiktok|data scientist graduate tiktok product|san jose ca",
+"first_seen": "2026-11-18T17:57:39+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:a96ceca4-dfb4-4a75-9a5f-f96410689735": {
@@ -20555,6 +20616,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:d93bf150-6eaf-4740-a919-c6482aca181c": {
+"cross": "rws|ai voice recording contributor scottish|scotland uk",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:d956f4c5-a366-4e0e-800d-bef8b734b9f2": {
 "cross": "keysight technologies|r d software engineer sampling oscilloscope applications devops|santa rosa ca",
 "first_seen": "2026-11-05T07:18:36+00:00",
@@ -24146,6 +24212,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ff2baa06-7c73-4bb0-8f5d-6c093d2fcf28": {
+"cross": "clean harbors|associate data analytics developer|norwell ma",
+"first_seen": "2026-11-18T17:57:39+00:00",
+"page": "41cb0cb5-8078-814a-82b9-db7ff40897c8",
+"score": 66,
+"score_v": 1
+},
 "SimplifyJobs:ff313f99-6f78-4b7b-b3a6-de599d2e995f": {
 "cross": "aspen dental|patient coordinator|topsham me",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -24250,8 +24323,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2142,
-"last_success": "2026-11-18T09:03:11+00:00"
+"count": 2139,
+"last_success": "2026-11-18T17:57:39+00:00"
 }
 }
 }
