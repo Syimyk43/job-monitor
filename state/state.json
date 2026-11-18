@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-18T01:15:19+00:00",
-"pending_digest": [],
+"last_run": "2026-11-18T09:03:11+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Torch Technologies - Entry-Level Modeling & Simulation Software Engineer",
+"u": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -311,6 +317,11 @@
 "SimplifyJobs:034062ca-af46-4066-a960-533d027a734f": {
 "cross": "vanguard|entry level application engineer|malvern pa",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:03450e61-5413-4d01-ab76-a00ce4e99e0f": {
+"cross": "executive title agency|data analyst|houston tx",
+"first_seen": "2026-11-18T09:03:11+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:03667310-46b4-4663-a480-5a96a77ed61d": {
@@ -1345,6 +1356,13 @@
 "cross": "hp inc|software applications engineer|fort collins co",
 "first_seen": "2026-10-20T01:12:56+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:0e5bab81-2a1e-4d4d-8960-3f6bbb527ab9": {
+"cross": "torch technologies|entry level modeling simulation software engineer|huntsville al",
+"first_seen": "2026-11-18T09:03:11+00:00",
+"page": "41cb0cb5-8078-81f7-afa1-c727ee775567",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:0e70152a-1276-4025-805a-c75e8bdda220": {
 "cross": "innodata|generative ai associate|georgia",
@@ -3361,6 +3379,11 @@
 "score": 63,
 "score_v": 1
 },
+"SimplifyJobs:22af8e8d-d2ef-40ad-b2e6-7a8b880340ac": {
+"cross": "id plans|field data specialist|reno nv",
+"first_seen": "2026-11-18T09:03:11+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:22b41b69-61b2-4b32-88f6-61e9f4d4643d": {
 "cross": "amazon|software development engineer|cupertino ca",
 "first_seen": "2026-10-30T01:52:38+00:00",
@@ -4491,6 +4514,11 @@
 "SimplifyJobs:2e854092-b1ff-4691-a581-23d94da76a5b": {
 "cross": "tiktok|machine learning engineer graduate brand ads|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:2ebe6dc0-7a17-40c2-a840-c58c312185d9": {
+"cross": "amazon|software development engineer robotics|austin tx north reading ma westborough ma",
+"first_seen": "2026-11-18T09:03:11+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:2ec2d3b8-1016-4a8d-9dcf-b9f16abe4c6d": {
@@ -7051,6 +7079,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:4aee94bd-d68e-4a74-8abf-ff47974b009f": {
+"cross": "elutions|domain engineer|tampa fl",
+"first_seen": "2026-11-18T09:03:11+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:4b1adb4b-1cb6-497c-9708-44e00d3f7ec3": {
 "cross": "crossmark|data collector|glen burnie md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7722,6 +7755,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:51cd4751-c195-4e57-b130-ba4a16667d27": {
+"cross": "id plans|field data specialist|nashville tn",
+"first_seen": "2026-11-18T09:03:11+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:51d49505-2900-4370-b8a9-df3e597de705": {
 "cross": "tiktok|machine learning engineer graduate e commerce governance|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -7794,6 +7832,11 @@
 "SimplifyJobs:527add68-88e5-4725-9db7-f6b3da95060a": {
 "cross": "osmo|trained sensory panelist fragrance|elizabeth nj",
 "first_seen": "2026-10-23T17:50:42+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:52842b72-580a-4029-af03-19bd23fbd290": {
+"cross": "bloom ads|data analytics coordinator|woodland hills la",
+"first_seen": "2026-11-18T09:03:11+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:5293ee36-2e2c-422c-91d0-ba07cb9666f6": {
@@ -11285,6 +11328,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:7740081c-352f-43aa-8157-7d66734b20a1": {
+"cross": "id plans|field data specialist|columbia sc",
+"first_seen": "2026-11-18T09:03:11+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:774e9af4-befb-4743-b61d-6f1bc8e9a566": {
 "cross": "capgemini|graduate insights data consultant|birmingham uk cardiff uk london uk manchester uk woking uk",
 "first_seen": "2026-10-16T14:45:47+00:00",
@@ -14226,6 +14274,11 @@
 "SimplifyJobs:962f1bfd-70ba-4217-a32b-3e4ff0200101": {
 "cross": "ge vernova|ai engineer|greenville sc",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:9649a700-aad9-49a9-a690-64df830139bc": {
+"cross": "cargurus|associate marketing data analyst|boston ma",
+"first_seen": "2026-11-18T09:03:11+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:965536fc-80b0-4965-aafe-ee8d4b61441b": {
@@ -18147,6 +18200,11 @@
 "first_seen": "2026-10-06T14:07:50+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e": {
+"cross": "arcadion|junior ai developer|ottawa on canada",
+"first_seen": "2026-11-18T09:03:11+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:c0ef6333-a128-4753-99d7-a0f5f50ff3da": {
 "cross": "interface|data coordinator|lagrange ga",
 "first_seen": "2026-10-26T20:06:49+00:00",
@@ -21008,6 +21066,11 @@
 "cross": "hewlett packard enterprise|software engineer block storage|bristol uk",
 "dup": true,
 "first_seen": "2026-11-13T15:39:17+00:00"
+},
+"SimplifyJobs:de573e13-9b7e-457d-861a-dfc661eb9976": {
+"cross": "elutions|domain engineer|london uk",
+"first_seen": "2026-11-18T09:03:11+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:de591e99-9d3d-45c9-9665-3f57076a48d7": {
 "cross": "cdm smith|artificial intelligence machine learning developer|fairfax va",
@@ -24187,8 +24250,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2147,
-"last_success": "2026-11-18T01:15:19+00:00"
+"count": 2142,
+"last_success": "2026-11-18T09:03:11+00:00"
 }
 }
 }
