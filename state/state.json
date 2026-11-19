@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-19T17:18:10+00:00",
-"pending_digest": [],
+"last_run": "2026-11-19T23:45:46+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Koch Industries - Software Engineer - AI Agents",
+"u": "https://koch.avature.net/en_US/careers/JobDetail/197657"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -32,6 +38,11 @@
 "cross": "osaic|quantitative analyst 2|scottsdale az",
 "first_seen": "2026-11-06T02:16:55+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:005f9727-e36d-44e3-b252-31964ac2c013": {
+"cross": "hr wallingford|graduate software developer|wallingford uk",
+"first_seen": "2026-11-19T23:45:46+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:00620949-7bbd-4342-a515-87e57990c860": {
 "cross": "supernova technology|junior software engineer|chicago il",
@@ -7685,6 +7696,13 @@
 "first_seen": "2026-10-28T13:28:31+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:503772a8-8c8b-473a-b256-7c19df4fd35f": {
+"cross": "koch industries|software engineer ai agents|fremont ca",
+"first_seen": "2026-11-19T23:45:46+00:00",
+"page": "41db0cb5-8078-8103-838d-c469f407a406",
+"score": 71,
+"score_v": 1
+},
 "SimplifyJobs:50390a34-333d-471c-9a4b-c2b34ecb25ad": {
 "cross": "palantir|forward deployed software engineer new grad|washington dc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10900,6 +10918,11 @@
 "cross": "boeing|entry level flight simulation software engineer|berkeley mo",
 "dup": true,
 "first_seen": "2026-10-15T00:04:55+00:00"
+},
+"SimplifyJobs:72a9c7ae-4f80-4a65-b2a0-b712fc89ee2f": {
+"cross": "spry methods|intelligence analyst 1|washington dc",
+"dup": true,
+"first_seen": "2026-11-19T23:45:46+00:00"
 },
 "SimplifyJobs:72b18e7d-621d-41bb-8752-697fd3edb89d": {
 "cross": "kla corporation|system software engineer distributed computing|milpitas ca",
@@ -16749,6 +16772,11 @@
 "first_seen": "2026-10-06T14:07:50+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:af19d8f3-e4eb-443f-9668-3e0c5ba8d5f1": {
+"cross": "neurohire ai|forward deployed engineer|remote in usa",
+"first_seen": "2026-11-19T23:45:46+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:af1c8d02-38a6-434d-9011-8739541c301c": {
 "cross": "motorola solutions|software engineer java python|chicago il schaumburg il",
 "first_seen": "2026-10-28T23:08:11+00:00",
@@ -17514,6 +17542,13 @@
 "cross": "notability|backend engineer|sf",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:b77f486a-2b51-4a28-aa1a-586e0eee73a6": {
+"cross": "united launch alliance|ground software avionics infrastructure engineer 1|centennial co",
+"first_seen": "2026-11-19T23:45:46+00:00",
+"page": "41db0cb5-8078-81c6-9df0-f7a0e13aa844",
+"score": 83,
+"score_v": 1
 },
 "SimplifyJobs:b7912258-69a7-4715-9842-2bf3c22160b1": {
 "cross": "spry methods|intelligence analyst 1|huntsville al",
@@ -19444,6 +19479,11 @@
 "cross": "boeing|associate simulation software engineer|crawley uk",
 "first_seen": "2026-10-15T18:36:20+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:cc764a4b-cb50-4162-afaa-5d5dcbc0a454": {
+"cross": "metaphase|junior forward deployed engineer|reston va",
+"first_seen": "2026-11-19T23:45:46+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:cc7b9cd5-ba87-4685-b07f-c22f2a4a6a31": {
 "cross": "amazon|applied scientist global risk intelligence and prevention seller abuse prevention|seattle wa",
@@ -24461,8 +24501,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2108,
-"last_success": "2026-11-19T17:18:10+00:00"
+"count": 2099,
+"last_success": "2026-11-19T23:45:46+00:00"
 }
 }
 }
