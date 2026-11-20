@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-20T16:03:15+00:00",
+"last_run": "2026-11-20T22:37:46+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -19453,6 +19453,11 @@
 "first_seen": "2026-10-04T20:05:10+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:ca927922-9673-414a-8960-8831fbc52367": {
+"cross": "autura|data operations associate|chattanooga tn cleveland oh dallas tx houston tx kansas city mo",
+"first_seen": "2026-11-20T22:37:46+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:ca93362f-f11c-4d3b-a867-f3c1417de4e6": {
 "cross": "centific|software development engineer 2|remote in usa",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -24666,8 +24671,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2099,
-"last_success": "2026-11-20T16:03:15+00:00"
+"count": 2084,
+"last_success": "2026-11-20T22:37:46+00:00"
 }
 }
 }
