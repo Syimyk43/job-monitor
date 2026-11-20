@@ -1,11 +1,21 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-19T23:45:46+00:00",
+"last_run": "2026-11-20T07:00:09+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "Koch Industries - Software Engineer - AI Agents",
 "u": "https://koch.avature.net/en_US/careers/JobDetail/197657"
+},
+{
+"rt": "Other SWE",
+"t": "Microsoft - Software Engineer",
+"u": "https://apply.careers.microsoft.com/careers/job/1970393557075456"
+},
+{
+"rt": "Other SWE",
+"t": "Red Arch Solutions - Junior Software Engineer",
+"u": "https://redarchsolutions.applytojob.com/apply/SjXMZVX4He/Jr-Software-Engineer"
 }
 ],
 "seen": {
@@ -4137,6 +4147,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:2afaec34-0345-4ba9-a241-bdee1a87d6ed": {
+"cross": "monks|junior data analyst|london uk",
+"first_seen": "2026-11-20T07:00:09+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:2b07160e-c4a3-4106-afed-f3aa356288a7": {
 "cross": "palo alto networks|software engineer|california",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5035,6 +5050,11 @@
 "cross": "relx|software engineer new grad|alpharetta ga",
 "dup": true,
 "first_seen": "2026-10-01T21:15:18+00:00"
+},
+"SimplifyJobs:32f55409-db6a-4f45-bc0c-7ace1de6c147": {
+"cross": "hologic|commercial managed services specialist|remote in uk",
+"first_seen": "2026-11-20T07:00:09+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:32fb0fec-1af6-42ec-a08e-3b5f1086976f": {
 "cross": "roboforce|data collection operator|milpitas ca",
@@ -10855,6 +10875,13 @@
 "first_seen": "2026-10-30T01:52:38+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:71d51955-83c3-40f4-b49d-17df92603b43": {
+"cross": "microsoft|software engineer|united states",
+"first_seen": "2026-11-20T07:00:09+00:00",
+"page": "41eb0cb5-8078-8111-85ea-c8c2a64a6a40",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:720ede4f-6de1-46ec-87eb-bc9beaa1785b": {
 "cross": "dlr group|smart building analyst 1|chicago il minneapolis mn",
 "first_seen": "2026-11-17T01:01:31+00:00",
@@ -16138,6 +16165,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a8001fb2-9680-4964-8743-9e22282fe768": {
+"cross": "ata engineering|engineering software programmer|huntsville al lakewood co san diego ca",
+"first_seen": "2026-11-20T07:00:09+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a8082b63-5015-48a0-a9af-260bcc915d71": {
 "cross": "peraton|systems engineer associate|st louis mo",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -17128,6 +17160,11 @@
 "score": 73,
 "score_v": 1
 },
+"SimplifyJobs:b29d1a1f-b5aa-42c5-8cf8-5cab6d3fee8b": {
+"cross": "centurum|data scientist 1 satellite communications|san diego ca",
+"first_seen": "2026-11-20T07:00:09+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:b2a31ebe-d367-4da2-9f4b-4ea9ff64d655": {
 "cross": "rws|general ai data annotator brazilian portuguese|massachusetts",
 "first_seen": "2026-10-23T23:57:58+00:00",
@@ -17179,6 +17216,13 @@
 "cross": "integration innovation i3|software engineer|huntsville al",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:b31a4a0a-6189-4a4f-acc5-ae743252b7a5": {
+"cross": "red arch solutions|junior software engineer|annapolis junction md",
+"first_seen": "2026-11-20T07:00:09+00:00",
+"page": "41eb0cb5-8078-81a2-accc-e99dae51e8a9",
+"score": 73,
+"score_v": 1
 },
 "SimplifyJobs:b3298ec2-a195-4322-b6bc-40539c93421f": {
 "cross": "baton corporation|junior full stack engineer|new york ny",
@@ -24501,8 +24545,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2099,
-"last_success": "2026-11-19T23:45:46+00:00"
+"count": 2094,
+"last_success": "2026-11-20T07:00:09+00:00"
 }
 }
 }
