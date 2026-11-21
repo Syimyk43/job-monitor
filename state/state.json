@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-21T03:54:03+00:00",
+"last_run": "2026-11-21T12:30:03+00:00",
 "pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
@@ -5354,6 +5354,11 @@
 "score": 73,
 "score_v": 1
 },
+"SimplifyJobs:3519502a-3aa8-4fdd-988c-8ccbaa4706d6": {
+"cross": "cdpq|developer digital solutions and analytics liquid markets|montreal qc canada",
+"first_seen": "2026-11-21T12:30:03+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:3519a01f-2bdc-4fee-98c3-aa28986f2416": {
 "cross": "vanguard|data scientist data analytics|charlotte nc",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9786,6 +9791,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
 },
+"SimplifyJobs:63ecd76d-d1d6-46e9-a5eb-af36be00b584": {
+"cross": "fortive|associate data analytics and engineering track|irvine ca",
+"first_seen": "2026-11-21T12:30:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:63ee202c-e263-4273-bfef-b12583dfe8bb": {
 "cross": "gm financial|software development engineer 1 mobile|irving tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10824,6 +10834,11 @@
 "first_seen": "2026-11-20T16:03:15+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:6f13a743-47ce-489b-8a21-ebca0f8116e1": {
+"cross": "normal computing|ai research resident algorithms codesign|nyc",
+"first_seen": "2026-11-21T12:30:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:6f15290e-1c49-44ed-a47d-5d3d58c890ae": {
 "cross": "microsoft|software engineer|remote in usa",
 "dup": true,
@@ -11763,6 +11778,11 @@
 "SimplifyJobs:7894345d-6677-46a0-b561-523670a2aa56": {
 "cross": "kyndryl|associate ai engineer early career consult program|dallas tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:78b37fbd-305b-4198-8167-595160398a9c": {
+"cross": "capgemini|associate application consultant|atlanta ga chicago il dallas tx houston tx",
+"first_seen": "2026-11-21T12:30:03+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:78b74232-2ab0-40bd-9b72-9d83e067a67a": {
@@ -13049,6 +13069,11 @@
 "page": "3efb0cb5-8078-8165-9906-c62321dc9a3d",
 "score": 54,
 "score_v": 1
+},
+"SimplifyJobs:85c54102-e81e-473e-9444-313292ad97d8": {
+"cross": "kobalt labs|software engineer full stack|nyc",
+"first_seen": "2026-11-21T12:30:03+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:85d7cbe8-ca54-4877-83dd-d0a6cfcc4157": {
 "cross": "booz allen|software developer|annapolis junction md atlanta ga charleston sc colorado springs co el segundo ca honolulu hi huntsville al mclean va panama city fl rome ny san diego ca",
@@ -16571,6 +16596,11 @@
 "first_seen": "2026-10-02T23:13:14+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:a9aa286f-c542-45dc-9d63-93177017ce83": {
+"cross": "stv|data analyst 1|nyc",
+"first_seen": "2026-11-21T12:30:03+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a9b29fe5-49d0-4198-8037-ebf9c8ef0bd2": {
 "cross": "johns hopkins applied physics laboratory|software developer rf systems engineer|laurel md",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -18049,6 +18079,11 @@
 "cross": "fidelity investments|software engineer leap|durham nc merrimack nh westlake tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:b98f5eb8-103b-4503-af0d-7e7d64d11f97": {
+"cross": "gradient msp|junior full stack developer|remote in canada",
+"first_seen": "2026-11-21T12:30:03+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:b9924f81-622f-4aea-8a48-f2b1aa2914e5": {
 "cross": "innodata|ai data specialist|ohio",
@@ -24590,6 +24625,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:fbcc1432-da10-41dc-8e7a-16058604cc38": {
+"cross": "starbridge|software engineer federal|nyc",
+"first_seen": "2026-11-21T12:30:03+00:00",
+"skip": "non-US location"
+},
 "SimplifyJobs:fc07dff3-003e-4b98-9b0e-4a85be9d7489": {
 "cross": "dutch bros|broista|hollister ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -24988,8 +25028,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2123,
-"last_success": "2026-11-21T03:54:03+00:00"
+"count": 2121,
+"last_success": "2026-11-21T12:30:03+00:00"
 }
 }
 }
