@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-22T00:16:38+00:00",
-"pending_digest": [],
+"last_run": "2026-11-22T07:22:37+00:00",
+"pending_digest": [
+{
+"rt": "Data Engineering",
+"t": "Specialized - Early Career Data Engineer",
+"u": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117"
+},
+{
+"rt": "Other SWE",
+"t": "Argonne National Laboratory - Software Engineer",
+"u": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Software-Engineer_423698"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -8293,6 +8304,13 @@
 "first_seen": "2026-11-04T11:29:39+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:54a2e01d-6edb-4b24-a780-7cb263d5acaf": {
+"cross": "specialized|early career data engineer|morgan hill ca",
+"first_seen": "2026-11-22T07:22:37+00:00",
+"page": "420b0cb5-8078-8191-94c5-ee4664184e56",
+"score": 74,
+"score_v": 1
+},
 "SimplifyJobs:54c270cc-ece5-4a51-9ac6-47e6877451ae": {
 "cross": "peopletec|software engineer|huntsville al",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -9967,6 +9985,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:65b1d554-dd51-4c64-beb3-aa0184ed3477": {
+"cross": "sierra nevada corporation|software engineer 1|lone tree co",
+"dup": true,
+"first_seen": "2026-11-22T07:22:37+00:00"
+},
 "SimplifyJobs:65ccd1b8-214b-4942-a9c7-6247cea6feb2": {
 "cross": "sajix|data analyst|pleasanton ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -10223,6 +10246,11 @@
 "page": "3ffb0cb5-8078-81ee-8700-e2283173d84b",
 "score": 63,
 "score_v": 1
+},
+"SimplifyJobs:685ea293-f489-4728-b4a4-d93353232d73": {
+"cross": "thrivent|associate investment data integrity analyst|minneapolis mn",
+"first_seen": "2026-11-22T07:22:37+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:686707fe-5543-4aa2-9614-e8dc1052fd57": {
 "cross": "general dynamics mission systems|operations analyst|pittsburgh pa",
@@ -20569,6 +20597,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:d2c0911d-44b1-488a-9922-b20915d74f54": {
+"cross": "argonne national laboratory|software engineer|lemont il",
+"first_seen": "2026-11-22T07:22:37+00:00",
+"page": "420b0cb5-8078-8135-8a40-d73309c4e3e7",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:d2f4c18d-c287-4a3d-bfdd-f8fa7dfe7c6f": {
 "cross": "aerovironment|software engineer 1 apps|san diego ca",
 "first_seen": "2026-10-09T05:58:32+00:00",
@@ -25062,8 +25097,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2124,
-"last_success": "2026-11-22T00:16:38+00:00"
+"count": 2123,
+"last_success": "2026-11-22T07:22:37+00:00"
 }
 }
 }
