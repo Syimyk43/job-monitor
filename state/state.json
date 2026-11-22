@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-22T15:37:32+00:00",
+"last_run": "2026-11-22T21:41:52+00:00",
 "pending_digest": [
 {
 "rt": "Data Engineering",
@@ -4859,6 +4859,11 @@
 "first_seen": "2026-10-12T15:12:32+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:300a3078-84ab-4ba2-a881-d74186eb9064": {
+"cross": "graymatter robotics|forward deployed engineer|remote in usa",
+"first_seen": "2026-11-22T21:41:52+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:30103acf-6e57-4258-94a3-8fb95e0c2588": {
 "cross": "trucking people|video data capture technician|abilene tx",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -5206,6 +5211,11 @@
 "cross": "lseg|engineering graduate programme|norwell ma",
 "first_seen": "2026-10-09T23:10:31+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:33793173-a059-4e1f-9a86-655c9b134751": {
+"cross": "aveva|software developer graduate|cambridge uk",
+"first_seen": "2026-11-22T21:41:52+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:3398d174-56f1-4306-b8bd-6885aa40cf5c": {
 "cross": "prolific|ai trainer|remote in usa",
@@ -25112,8 +25122,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2123,
-"last_success": "2026-11-22T15:37:32+00:00"
+"count": 2125,
+"last_success": "2026-11-22T21:41:52+00:00"
 }
 }
 }
