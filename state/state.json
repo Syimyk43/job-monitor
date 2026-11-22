@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-22T07:22:37+00:00",
+"last_run": "2026-11-22T15:37:32+00:00",
 "pending_digest": [
 {
 "rt": "Data Engineering",
@@ -1232,6 +1232,11 @@
 "page": "402b0cb5-8078-81de-945b-dd8c70847900",
 "score": 44,
 "score_v": 1
+},
+"SimplifyJobs:0bba7d5f-0e21-4ecf-b1f6-065b75490dbc": {
+"cross": "trimble|junior to mid level front end react engineer|remote in uk",
+"first_seen": "2026-11-22T15:37:32+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:0bbfc987-8101-43c5-b9ae-d4ffa7abdcc6": {
 "cross": "cvs health|analyst software development engineer conversion|alabama alaska arizona arkansas california colorado connecticut delaware florida georgia hawaii idaho illinois indiana iowa kansas kentucky louisiana maine maryland massachusetts michigan minnesota mississippi missouri montana nyc nebraska nevada new hampshire new jersey new mexico north carolina north dakota ohio oklahoma oregon pennsylvania rhode island south carolina south dakota tennessee texas utah vermont virginia washington washington dc west virginia wisconsin wyoming",
@@ -8238,6 +8243,11 @@
 "first_seen": "2026-10-02T01:03:47+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:540890f4-99dd-4745-8713-4eba3390050d": {
+"cross": "popstroke holdings llc|associate business analyst|jupiter fl",
+"first_seen": "2026-11-22T15:37:32+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:54109d7b-e383-4172-8aba-eda5ce54188b": {
 "cross": "harbor foods|wms software developer 1|lacey wa",
 "first_seen": "2026-10-08T05:52:46+00:00",
@@ -12504,6 +12514,11 @@
 "cross": "bytedance|research engineer|seattle wa",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:7f616cc7-7a1e-4ab1-bf9e-a9473d79d170": {
+"cross": "capgemini|associate application consultant|atlanta ga chicago il dallas tx houston tx",
+"dup": true,
+"first_seen": "2026-11-22T15:37:32+00:00"
 },
 "SimplifyJobs:7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24": {
 "cross": "tiktok|research engineer graduate monetization technology business integrity|san jose ca",
@@ -25098,7 +25113,7 @@
 "sources": {
 "simplify": {
 "count": 2123,
-"last_success": "2026-11-22T07:22:37+00:00"
+"last_success": "2026-11-22T15:37:32+00:00"
 }
 }
 }
