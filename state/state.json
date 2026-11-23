@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-23T02:33:56+00:00",
+"last_run": "2026-11-23T11:12:24+00:00",
 "pending_digest": [
 {
 "rt": "Data Engineering",
@@ -900,6 +900,11 @@
 "first_seen": "2026-11-09T01:55:17+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:0806705f-44b1-4c91-a264-9d64f360e6b8": {
+"cross": "lattice semiconductor|junior bmc firmware engineer|duluth ga",
+"first_seen": "2026-11-23T11:12:24+00:00",
+"skip": "level/role excluded"
+},
 "SimplifyJobs:080ae20a-20b7-4971-8e68-70b02946bd25": {
 "cross": "boeing|associate simulation software engineer|crawley uk",
 "first_seen": "2026-10-15T18:36:20+00:00",
@@ -970,6 +975,11 @@
 "SimplifyJobs:0898f2ca-d1f9-4270-b125-3c13ef3486b3": {
 "cross": "msi express|batch mixer|rosendale wi",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:08996931-0906-4f59-8850-7cebf5991d70": {
+"cross": "sanofi|digital graduate program product analyst data and ai engineer|toronto on canada",
+"first_seen": "2026-11-23T11:12:24+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:08b6aa04-6182-4358-9dac-780dc740bfee": {
@@ -11760,6 +11770,11 @@
 "cross": "leidos|junior software engineer intel sector|laurel md",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "old at setup"
+},
+"SimplifyJobs:773f9ad4-5385-43a7-9d8a-0d7589beeeab": {
+"cross": "aon|early careers health analytics specialist|atlanta ga chicago il",
+"first_seen": "2026-11-23T11:12:24+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:7740081c-352f-43aa-8157-7d66734b20a1": {
 "cross": "id plans|field data specialist|columbia sc",
@@ -25146,8 +25161,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2127,
-"last_success": "2026-11-23T02:33:56+00:00"
+"count": 2129,
+"last_success": "2026-11-23T11:12:24+00:00"
 }
 }
 }
