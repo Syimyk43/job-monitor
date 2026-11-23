@@ -1,6 +1,6 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-23T11:12:24+00:00",
+"last_run": "2026-11-23T22:53:18+00:00",
 "pending_digest": [
 {
 "rt": "Data Engineering",
@@ -980,6 +980,11 @@
 "SimplifyJobs:08996931-0906-4f59-8850-7cebf5991d70": {
 "cross": "sanofi|digital graduate program product analyst data and ai engineer|toronto on canada",
 "first_seen": "2026-11-23T11:12:24+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:08abb7cd-e955-459b-845d-51bc3b6726fe": {
+"cross": "enterprise holdings|data scientist 1|st louis mo",
+"first_seen": "2026-11-23T22:53:18+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:08b6aa04-6182-4358-9dac-780dc740bfee": {
@@ -3007,6 +3012,11 @@
 "page": "3fcb0cb5-8078-81fb-8a03-dbeb9cbe2b93",
 "score": 58,
 "score_v": 1
+},
+"SimplifyJobs:1e751383-c51c-4938-87f7-a5af778fe339": {
+"cross": "id plans|field data specialist|boston ma",
+"first_seen": "2026-11-23T22:53:18+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:1e900190-9dcf-4510-9c13-a90a3ceafef7": {
 "cross": "davita|business analyst revenue cycle|texas",
@@ -9015,6 +9025,13 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:5b7a91e8-86e8-400b-98fc-90a9793ab6e4": {
+"cross": "wyetech|software engineer level 0 full stack development|annapolis junction md",
+"first_seen": "2026-11-23T22:53:18+00:00",
+"page": "421b0cb5-8078-81c6-9686-c59c44c19c11",
+"score": 75,
+"score_v": 1
+},
 "SimplifyJobs:5b834e2d-a5a1-4d8f-8ee7-140bf5cb14c1": {
 "cross": "c3 ai|platform full stack engineer new grad|redwood city ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14204,6 +14221,11 @@
 "cross": "myriad genetics|bioinformatics analyst 1|salt lake city ut",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:8fdddced-ab2f-44cd-bf1d-4ea9fa6cacc6": {
+"cross": "national centre for social research|data manager|london uk",
+"first_seen": "2026-11-23T22:53:18+00:00",
+"skip": "level/role excluded"
 },
 "SimplifyJobs:8fdeb561-a8db-4d1a-a92f-1065c24f4d9d": {
 "cross": "mercury insurance|software engineer 1|remote in usa",
@@ -24023,6 +24045,11 @@
 "first_seen": "2026-10-07T23:45:51+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:f40e5373-6ea4-4692-b638-358366d3f29a": {
+"cross": "vanasse hangen brustlin|entry level transportation safety analyst|charlotte nc raleigh nc washington dc",
+"first_seen": "2026-11-23T22:53:18+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:f41313d7-16e4-41e5-8b36-b0df0ef188c9": {
 "cross": "invisible technologies ai|english language specialist freelance ai trainer project|remote in canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -25131,6 +25158,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:ffe2c596-48e2-47f4-8de7-213ac69b35b1": {
+"cross": "proton|product engineer|london uk",
+"first_seen": "2026-11-23T22:53:18+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:ffe9321b-c2b1-4448-bbb7-8a1b6bd245ca": {
 "cross": "ancestry|imaging data technician imaging operations|draper ut",
 "first_seen": "2026-10-04T16:58:18+00:00",
@@ -25161,8 +25193,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2129,
-"last_success": "2026-11-23T11:12:24+00:00"
+"count": 2108,
+"last_success": "2026-11-23T22:53:18+00:00"
 }
 }
 }
