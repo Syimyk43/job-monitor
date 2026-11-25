@@ -1,7 +1,18 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-25T02:59:43+00:00",
-"pending_digest": [],
+"last_run": "2026-11-25T12:39:15+00:00",
+"pending_digest": [
+{
+"rt": "Backend",
+"t": "TikTok - Backend Software Engineer - Data Lifecycle Management",
+"u": "https://lifeattiktok.com/search/7710030288165996805"
+},
+{
+"rt": "Other SWE",
+"t": "Appodeal - Junior Software Engineer",
+"u": "https://job-boards.greenhouse.io/appodeal/jobs/4918549008"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -10001,6 +10012,11 @@
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:640d60ae-93db-4f49-b271-4fcade3a7d7a": {
+"cross": "weekday ai|ai data contributor|remote in canada remote in usa",
+"first_seen": "2026-11-25T12:39:15+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:64143855-33c3-40de-8f0f-51058c6f74b6": {
 "cross": "innodata|generative ai associate|arkansas",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -14929,6 +14945,11 @@
 "first_seen": "2026-10-29T16:51:51+00:00",
 "skip": "not a target role"
 },
+"SimplifyJobs:94a655c9-6eae-422b-b1d9-3c513c0b99d4": {
+"cross": "endeavor air|data analyst operations analysis performance|minneapolis mn",
+"first_seen": "2026-11-25T12:39:15+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:94d01de5-9fda-4158-938a-a669c956dc3e": {
 "cross": "weride|software engineer new grad algorithm|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -18051,6 +18072,13 @@
 "cross": "konrad group|mobile developer entry level|toronto on canada",
 "first_seen": "2026-10-06T00:17:24+00:00",
 "skip": "non-US location"
+},
+"SimplifyJobs:b4da1054-8bb0-4994-ab28-a7d8190f5116": {
+"cross": "tiktok|backend software engineer data lifecycle management|san jose ca",
+"first_seen": "2026-11-25T12:39:15+00:00",
+"page": "423b0cb5-8078-8193-9eda-c5f56875f328",
+"score": 90,
+"score_v": 1
 },
 "SimplifyJobs:b4df86c1-9b8c-47ba-aca7-359d0536e73c": {
 "cross": "bot auto|planning control engineer early career|houston tx",
@@ -23492,6 +23520,13 @@
 "dup": true,
 "first_seen": "2026-11-05T07:18:36+00:00"
 },
+"SimplifyJobs:ec63f9af-9d7b-4d83-859f-b199f9f3c0ac": {
+"cross": "appodeal|junior software engineer|parkland fl",
+"first_seen": "2026-11-25T12:39:15+00:00",
+"page": "423b0cb5-8078-81f0-b9b4-c6e3250bba9b",
+"score": 58,
+"score_v": 1
+},
 "SimplifyJobs:ec6cf12a-dd02-4416-9eb0-6b01646dca5d": {
 "cross": "pinterest|master s university graduate data scientist|nyc palo alto ca sf seattle wa",
 "first_seen": "2026-10-02T01:03:47+00:00",
@@ -25492,8 +25527,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2102,
-"last_success": "2026-11-25T02:59:43+00:00"
+"count": 2095,
+"last_success": "2026-11-25T12:39:15+00:00"
 }
 }
 }
