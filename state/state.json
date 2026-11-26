@@ -1,7 +1,13 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-26T04:19:29+00:00",
-"pending_digest": [],
+"last_run": "2026-11-26T14:20:07+00:00",
+"pending_digest": [
+{
+"rt": "Other SWE",
+"t": "Cisco - Software Engineer",
+"u": "https://careers.cisco.com/global/en/job/2030715"
+}
+],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -6864,6 +6870,11 @@
 "SimplifyJobs:43d24940-94fb-4f2b-834c-856b53434035": {
 "cross": "partnerre|business data analyst reporting and audit|toronto on canada",
 "first_seen": "2026-10-01T21:15:18+00:00",
+"skip": "not a target role"
+},
+"SimplifyJobs:43eac614-8780-4559-9469-e724025dd0af": {
+"cross": "recidiviz|data analyst|nyc oakland ca remote in usa",
+"first_seen": "2026-11-26T14:20:07+00:00",
 "skip": "not a target role"
 },
 "SimplifyJobs:43fa73bc-03c0-46d9-8e03-fe26427737a0": {
@@ -16385,6 +16396,11 @@
 "dup": true,
 "first_seen": "2026-10-23T12:50:04+00:00"
 },
+"SimplifyJobs:a20fbd72-eae4-4051-ae1c-a1b21340ed3f": {
+"cross": "welo global|data collection operator|santa clara ca",
+"first_seen": "2026-11-26T14:20:07+00:00",
+"skip": "not a target role"
+},
 "SimplifyJobs:a215785a-a17e-4d39-8508-4062629e0681": {
 "cross": "accenture|software engineering new grad|glasgow uk",
 "first_seen": "2026-11-14T09:20:53+00:00",
@@ -17249,6 +17265,11 @@
 "page": "3ecb0cb5-8078-81ff-ba44-fda34adab305",
 "score": 68,
 "score_v": 1
+},
+"SimplifyJobs:ab501bad-862f-4f37-963c-78590ba637c1": {
+"cross": "k1|ai engineer|manhattan beach ca",
+"first_seen": "2026-11-26T14:20:07+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:ab5425fe-34cf-4b24-ace3-73fdb7eb3b44": {
 "cross": "spacex|software engineer test infrastructure application software|west athens ca",
@@ -24192,6 +24213,13 @@
 "score": 86,
 "score_v": 1
 },
+"SimplifyJobs:f11a83b2-59da-43ef-9f7c-3b67a7e3411c": {
+"cross": "cisco|software engineer|research triangle park durham nc",
+"first_seen": "2026-11-26T14:20:07+00:00",
+"page": "424b0cb5-8078-814b-8e2f-e814f9a96352",
+"score": 63,
+"score_v": 1
+},
 "SimplifyJobs:f1208480-1147-48ce-9646-846da02f7bc8": {
 "cross": "northrop grumman|associate software engineer or software engineer|aurora co",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -25668,8 +25696,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2096,
-"last_success": "2026-11-26T04:19:29+00:00"
+"count": 2094,
+"last_success": "2026-11-26T14:20:07+00:00"
 }
 }
 }
