@@ -1,11 +1,16 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-26T23:15:02+00:00",
+"last_run": "2026-11-27T05:18:08+00:00",
 "pending_digest": [
 {
 "rt": "Other SWE",
 "t": "Cisco - Software Engineer",
 "u": "https://careers.cisco.com/global/en/job/2030715"
+},
+{
+"rt": "Other SWE",
+"t": "Synectic Solutions - Software Engineer 1",
+"u": "https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I"
 }
 ],
 "seen": {
@@ -1345,6 +1350,11 @@
 "cross": "figure|procedures quality associate pilot support team|san jose ca",
 "first_seen": "2026-11-14T02:16:28+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:0c96f624-8843-4aa7-818e-5d2f023f18fd": {
+"cross": "toyota|software engineer|plano tx",
+"dup": true,
+"first_seen": "2026-11-27T05:18:08+00:00"
 },
 "SimplifyJobs:0ca44806-3f27-4cf1-b462-145f7d506a3d": {
 "cross": "affirm|software engineer 1 new grad|nyc sf",
@@ -7805,6 +7815,11 @@
 "cross": "aig|gen ai engineering analyst|atlanta ga",
 "first_seen": "2026-10-01T21:15:18+00:00",
 "skip": "not a target role"
+},
+"SimplifyJobs:4def3c49-c217-4bc0-9d97-163c5f109d02": {
+"cross": "orion digital|junior full stack ai engineer|remote in canada",
+"first_seen": "2026-11-27T05:18:08+00:00",
+"skip": "non-US location"
 },
 "SimplifyJobs:4df4e697-881e-4e96-93e4-a32b0b57b588": {
 "cross": "aar|product strategy analyst 3|wood dale il",
@@ -15334,6 +15349,11 @@
 "cross": "rtx|software engineer 1|cedar rapids ia",
 "dup": true,
 "first_seen": "2026-10-01T21:15:18+00:00"
+},
+"SimplifyJobs:97ebf31f-f840-4989-b355-6743f7db2edd": {
+"cross": "terrasense analytics|data labeler 1|kelowna bc canada",
+"first_seen": "2026-11-27T05:18:08+00:00",
+"skip": "not a target role"
 },
 "SimplifyJobs:97f13f8b-db75-49a5-8714-def7a600da0d": {
 "cross": "noblis|software developer full stack multiple levels|washington dc",
@@ -24712,6 +24732,11 @@
 "first_seen": "2026-10-26T23:49:49+00:00",
 "skip": "non-US location"
 },
+"SimplifyJobs:f5de8d35-3ebe-4a7b-9eac-bdc9b583dc88": {
+"cross": "toyota|software engineer|plano tx",
+"dup": true,
+"first_seen": "2026-11-27T05:18:08+00:00"
+},
 "SimplifyJobs:f5e5e7e7-1d95-4907-8ad0-5a40a783a6ba": {
 "cross": "bytedance|research scientist seed model vision|san jose ca",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -25316,6 +25341,13 @@
 "first_seen": "2026-11-24T06:54:21+00:00",
 "skip": "level/role excluded"
 },
+"SimplifyJobs:fc96342b-9d7c-4f3f-a93e-70d935ac86b4": {
+"cross": "synectic solutions|software engineer 1|norco ca",
+"first_seen": "2026-11-27T05:18:08+00:00",
+"page": "425b0cb5-8078-8106-bc53-c0143cb145fb",
+"score": 73,
+"score_v": 1
+},
 "SimplifyJobs:fca41145-e1a2-43c4-a565-1fd42f831279": {
 "cross": "noblis|ai ml engineer multiple levels cleared|reston va",
 "first_seen": "2026-10-01T21:15:18+00:00",
@@ -25696,8 +25728,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2085,
-"last_success": "2026-11-26T23:15:02+00:00"
+"count": 2091,
+"last_success": "2026-11-27T05:18:08+00:00"
 }
 }
 }
