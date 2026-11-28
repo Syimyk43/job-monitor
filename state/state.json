@@ -1,113 +1,7 @@
 {
 "bootstrapped": true,
-"last_run": "2026-11-28T07:35:25+00:00",
-"pending_digest": [
-{
-"rt": "Other SWE",
-"t": "Cisco - Software Engineer",
-"u": "https://careers.cisco.com/global/en/job/2030715"
-},
-{
-"rt": "Other SWE",
-"t": "Synectic Solutions - Software Engineer 1",
-"u": "https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I"
-},
-{
-"rt": "Other SWE",
-"t": "Torch Technologies - Entry-Level Software Engineer",
-"u": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Software-Engineer_R2227"
-},
-{
-"rt": "Other SWE",
-"t": "HireHawk - Associate Software Engineer",
-"u": "https://apply.workable.com/hirehawk/j/E300AE4F78/apply"
-},
-{
-"rt": "Other SWE",
-"t": "Bank of Montreal - Software Developer New Grad",
-"u": "https://bmo.wd3.myworkdayjobs.com/External/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733"
-},
-{
-"rt": "Other SWE",
-"t": "CHEP - Software Developer - Applications",
-"u": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/Santa-Clara-California-USA/Software-Developer---Applications_JR25540"
-},
-{
-"rt": "Other SWE",
-"t": "Humana - Big Data Software Engineer",
-"u": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Big-Data-Software-Engineer_R-436474"
-},
-{
-"rt": "Other SWE",
-"t": "Nationwide - Engineer \u2013 Software Engineer",
-"u": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101372-1"
-},
-{
-"rt": "Other SWE",
-"t": "Applied Materials - Software Engineer 2 New Grad",
-"u": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer-II-New-College-Grad--Master-s--Chandler--AZ-_R2627909"
-},
-{
-"rt": "Other SWE",
-"t": "RTX - Software Engineer 1",
-"u": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--E2DNY-P1-1-_01888023"
-},
-{
-"rt": "Other SWE",
-"t": "RTX - Software Engineer 1",
-"u": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--E2DVA-P1-1-_01888039"
-},
-{
-"rt": "Other SWE",
-"t": "Sierra Nevada Corporation - Software Engineer 1",
-"u": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1"
-},
-{
-"rt": "Other SWE",
-"t": "Guidehouse - Data Analyst - Dashboard Developer",
-"u": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Analyst--Dashboard-Developer-_46807"
-},
-{
-"rt": "Other SWE",
-"t": "Trinzic - Junior Software Engineer",
-"u": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R3001689"
-},
-{
-"rt": "Other SWE",
-"t": "RTX - Algorithm Developer Research Engineer 2",
-"u": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Algorithm-Developer-Research-Engineer-II----Onsite-_01889945"
-},
-{
-"rt": "Other SWE",
-"t": "Hewlett Packard Enterprise - Linux Software Engineer",
-"u": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Linux-Software-engineer_1217876"
-},
-{
-"rt": "Other SWE",
-"t": "State of Nebraska - Information Technology Applications Developer - Webteam Java",
-"u": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Information-Technology-Applications-Developer---WebTeam-Java_JR2026-00030592-1"
-},
-{
-"rt": "Other SWE",
-"t": "CACI - Software Engineer",
-"u": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineer_335172-1"
-},
-{
-"rt": "Other SWE",
-"t": "Trinzic - Software Engineer 1",
-"u": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Huntsville-Alabama/Software-Engineer_R3001308"
-},
-{
-"rt": "Other SWE",
-"t": "Trinzic - Junior Software Engineer",
-"u": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745"
-},
-{
-"rt": "Data Engineering",
-"t": "Trinzic - Junior Data Engineer",
-"u": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783"
-}
-],
+"last_run": "2026-11-28T16:23:02+00:00",
+"pending_digest": [],
 "seen": {
 "SimplifyJobs:000e3171-0168-4592-b285-67bb8e84a6a9": {
 "cross": "noblis|data analyst network security|atlantic city nj united states washington dc",
@@ -26341,8 +26235,8 @@
 },
 "sources": {
 "simplify": {
-"count": 2164,
-"last_success": "2026-11-28T07:35:25+00:00"
+"count": 2159,
+"last_success": "2026-11-28T16:23:02+00:00"
 }
 }
 }
